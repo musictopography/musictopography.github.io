@@ -3,7 +3,6 @@ layout: page
 title: Interviews
 ---
 
-### (work in progress)
 
 
 ### Gian Franco Reverberi

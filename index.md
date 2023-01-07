@@ -3,27 +3,32 @@ layout: default
 title: Home
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My current research project is called <b>“Milan 1958-62: Musical Topography of a Forgotten City”</b> and <b>revolves around the mapping of live venues in the city at the time of the Italian economic boom</b>.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+The project is supervised by <b>Prof. Alessandro Bratus</b> (University of Pavia) and co-tutored by <b>Prof. Giovanni Pietro Vitali</b> (University of Versailles Saint-Quentin-en-Yvelines).
 
-There are currently two themes built on Poole:
+### Music in Milan
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+The main objective of the project is to reconstruct the complexities of the relations between music, society and space across different music genres, in a moment when the city is not only the epicenter of the Italian "economic miracle"  but also the engine of musical upheavals at national level: here in 1955 <b>Luciano Berio</b> and <b>Bruno Maderna</b> opened the <b>Studio di Fonologia Musicale</b> - the first electronic production studio in Italy, here in 1958 <b>Dischi Ricordi</b> was founded, which brought to success  many of the new protagonists of the modern Italian song, such as <b>Gino Paoli</b> or <b>Ornella Vanoni</b>; always here Italian jazz finds in these years its peculiar identity, as well as strong international connections. In the same period Milan is subject to what the sociologist John Foot has defined as "one of the fastest and most intense phenomena of economic development in the Western world",  with a huge impact on its socio-spatial structure.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### A forgotten city
 
-## Setup
+In the face of such a variety of impulses and perspectives, <b>almost no trace of the sounding spaces of the time remains both in the physical landscape of the city</b>, greatly transformed by numerous phases of change, and in the cultural one, firmly anchored, as evidenced by the events that accompanied the World Expo of 2015, to the 18th and 19th centuries operatic musical heritage embodied by Teatro alla Scala.  For this reason, the second objective of the project is to bring to light a different narrative of the urban musical space, exploiting the investigative and representative potential offered by instruments such as digital mapping and network analysis.
 
-Some fun facts about the setup of this project include:
+### Methodology
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+The methodology used for the research is an integral part of the project and aims at a new interweaving of quantitative and ethnographic tools; <b>the starting point was the creation of a large data set</b>, consisting of more than 8000 musical events, based on the information found in two of the major newspapers of the time, "Il Giorno" and "Il Corriere della Sera".
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+From here I proceeded to the <b>creation of an interactive digital map</b>, programmed in code through "R" ([map](https://martinnicastro.github.io/map/)), and to the <b>visualization of networks</b> through Gephi, with the goal of representing, for example, the concomitance of composers and performers in the same events ([graph_1](https://martinnicastro.github.io/compositori_musicisti3.svg)) or the relations between venues and performers ([graph_2](https://martinnicastro.github.io/spazi_musicisti_nomi.svg)).
 
-Thanks for reading!
+<b>Both visualizations were used to catalyze the memories of living witnesses of the time</b>, during interviews recorded with professional equipment.  The audio-video materials created from these meetings, currently eight, one for each interviewee, constitute one of the layers of the digital map (named videomap), in a sort of <b>feedback-based</b> synergy between quantitative and qualitative tools.  Through the geolocalisation of the memories of the musicians of the time, spontaneously recalled through the interactive dimension of the digital map, we can listen to the last traces of an irreparably lost city, whose stories can however contribute the construction of a different one.
+
+In the section "[interviews](https://martinnicastro.github.io/interviews/)" is possible to watch a preview version of the monographic audio-video recordings, which mostly contain different clips
+from the geolocated ones.
+
+## Topics:
+
+- Music, sound and space
+- Italian popular music history
+- Urban musicology
+- Deep mapping

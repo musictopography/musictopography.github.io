@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Map
+layout: post
+title: Mapping
 ---
 
 

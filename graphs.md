@@ -4,22 +4,22 @@ title: Network Graphs
 ---
 
 
+## Performers and Composers
 
 
+[Full graph](https://martinnicastro.github.io/compositori_musicisti3.svg)
 
-"performers_composers": [Full graph](https://martinnicastro.github.io/compositori_musicisti3.svg)
-
-<iframe src="https://martinnicastro.github.io/compositori_musicisti3.svg" width="120%" height="800"></iframe>
+<img src="https://martinnicastro.github.io/compositori_musicisti3.svg" width="800" height="800">
 
 
-"venues_performers": [Full graph](https://martinnicastro.github.io/spazi_musicisti_nomi.svg)
+## Performers and Venues
 
-<iframe src="https://martinnicastro.github.io/spazi_musicisti_nomi.svg" width="120%" height="800"></iframe>
+[Full graph](https://martinnicastro.github.io/spazi_musicisti_nomi.svg)
 
-"genres_venues": [Full graph](https://martinnicastro.github.io/generi_spazi.svg)
+<img src="https://martinnicastro.github.io/spazi_musicisti_nomi.svg" width="800" height="800">
 
-<iframe src="https://martinnicastro.github.io/generi_spazi.svg" width="120%" height="800"></iframe>
+## Venues and Music Genres
 
-"genres_genres": [Full graph](https://martinnicastro.github.io/images/generi_generi.pdf)
+[Full graph](https://martinnicastro.github.io/generi_spazi.svg)
 
-<iframe src="https://martinnicastro.github.io/images/generi_generi.pdf" width="120%" height="800"></iframe>
+<img src="https://martinnicastro.github.io/generi_spazi.svg" width="800" height="800">

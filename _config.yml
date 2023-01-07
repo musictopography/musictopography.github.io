@@ -9,9 +9,9 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Martin Nicastro
+  url:
+  email:             nicastromartin@gmail.com
 
 # Gems
 plugins:

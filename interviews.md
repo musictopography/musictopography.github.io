@@ -14,7 +14,7 @@ Gian Franco Reverberi (1934) is a musician and composer of Genoese origin. A mem
 
 
 
-<iframe width="280" height="200" src="https://www.youtube.com/embed/E-wiDg7Oa_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="580" height="500" src="https://www.youtube.com/embed/E-wiDg7Oa_A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
 
@@ -29,7 +29,7 @@ Gaetano Liguori (1950) is a Milanese jazz pianist. The interview focuses on the 
 
 
 
-<iframe width="280" height="200" src="https://www.youtube.com/embed/-lzNykhh_PU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="580" height="500" src="https://www.youtube.com/embed/-lzNykhh_PU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
 
@@ -42,7 +42,7 @@ Paolo Tomelleri (1938) is a jazz clarinetist, saxophonist and bandleader. Member
 
 
 
-<iframe width="280" height="200" src="https://www.youtube.com/embed/bBXRV2kQsI4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="580" height="500" src="https://www.youtube.com/embed/bBXRV2kQsI4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
 
@@ -52,7 +52,7 @@ Paolo Tomelleri (1938) is a jazz clarinetist, saxophonist and bandleader. Member
 
 Natale Massara (1942) is a clarinetist, saxophonist, composer and arranger. In 1958 he joined “I Ribelli di Adriano Celentano” and after a few years he met Lucio Battisti, of whom he was to collaborate. During the interview he tells how his studies at the Conservatory led him to move to Milan at a very young age and how the experiences in the new urban context, primarily the audition with Celentano, were central to his career. Furthermore, his memories allow us to reconstruct the phenomenology and the specific performance conditions of the Milanese dance halls, then called “dancing”.
 
-<iframe width="280" height="200" src="https://www.youtube.com/embed/VsBMWWNWyow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="580" height="500" src="https://www.youtube.com/embed/VsBMWWNWyow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
 
@@ -64,7 +64,7 @@ Giacomo Manzoni (1932) is a Milanese composer, translator and music critic. His 
 
 
 
-<iframe width="280" height="200" src="https://www.youtube.com/embed/08PDtNigUvI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="580" height="500" src="https://www.youtube.com/embed/08PDtNigUvI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
 
@@ -77,7 +77,7 @@ Enrico Intra (1935) is a Milanese jazz pianist, composer and conductor. In addit
 
 
 
-<iframe width="280" height="200" src="https://www.youtube.com/embed/BOB1lLGVd0A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="580" height="500" src="https://www.youtube.com/embed/BOB1lLGVd0A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
 
@@ -90,7 +90,7 @@ Bruno Canino (1935) is a pianist, harpsichordist and composer of Neapolitan orig
 
 
 
-<iframe width="280" height="200" src="https://www.youtube.com/embed/NsAHcXIyqyk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="580" height="500" src="https://www.youtube.com/embed/NsAHcXIyqyk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
 
@@ -104,4 +104,4 @@ Lino Patruno (1935) is a banjoist and guitarist involved both in the field of tr
 
 
 
-<iframe width="280" height="200" src="https://www.youtube.com/embed/uPrpF_YJIrY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe width="580" height="500" src="https://www.youtube.com/embed/uPrpF_YJIrY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>

@@ -12,4 +12,4 @@ On this website are stored all the digital resources of the project. They are di
 
 
 
-<img src="https://github.com/martinnicastro/topografia_musicale/blob/main/images/thumbnails/s096.jpg?raw=true"  
+<img src="https://github.com/martinnicastro/topografia_musicale/blob/main/images/originals/s096.jpg"  

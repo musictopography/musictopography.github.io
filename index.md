@@ -15,3 +15,5 @@ On this website are stored all the digital resources of the project. They are di
 
 
 <img src="images/Billie.jpg">
+
+<font size="-1">Billie Holiday at Taverna Messicana, 3-8 November 1958, with Oscar Valdambrini, Gianni Basso, Enrico Intra, Gianni Cazzola and Giorgio Azzolini </font>

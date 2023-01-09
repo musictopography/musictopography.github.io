@@ -9,3 +9,7 @@ The project is supervised by <b>Prof. Alessandro Bratus</b> (University of Pavia
 
 
 On this website are stored all the digital resources of the project. They are divided in three different sections, according to the methodological framework of the research: [mapping](https://musictopography.github.io//map/), [network visualization and analysis](https://musictopography.github.io//graphs/), [ethnographic research](https://musictopography.github.io//interviews/).
+
+
+
+<img src="https://github.com/martinnicastro/topografia_musicale/blob/main/images/thumbnails/s096.jpg?raw=true"  

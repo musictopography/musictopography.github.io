@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-### Milan 1958-62: Musical Topography of a City
 
 
 <b>“Milan 1958-62: Musical Topography of a City”</b> is a PhD research project by <b>Martin Nicastro</b>. It revolves around the mapping of live venues in the city of Milan at the time of the Italian economic boom.
@@ -15,4 +14,4 @@ On this website are stored all the digital resources of the project. They are di
 
 
 
-<img src="https://github.com/martinnicastro/topografia_musicale/blob/main/images/originals/s096.jpg"  
+<img src="images/Billie.jpg">

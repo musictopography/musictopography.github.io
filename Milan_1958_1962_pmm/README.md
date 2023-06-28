@@ -1,8 +1,4 @@
 
----
-layout: null
----
-
 
 # <a href="https://musictopography.github.io/Milan_1958_1962_pmm/Milan_1958_1962_pmm.html"> Performers Mobility Map (PMM) Milan 1958-1962: Music Topography of a City</a>
 

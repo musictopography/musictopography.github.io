@@ -1,36 +1,15 @@
-# <a href="https://musictopography.github.io/Milan_1958_1962_mmm/Milan_1958_1962_mmm.html"> Type-Token Ratio (TTR) Jane Eyre Italian Translations</a>
+# <a href="https://musictopography.github.io/Milan_1958_1962_mmm/Milan_1958_1962_pmm.html"> Music Memory Map (MMM) Milan 1958-1962: Music Topography of a City</a>
 
-This repository contains an R code for creating an interactive web map using the ggplot2 and plotly libraries. The line plot displays multiple lines from a CSV dataset, allowing users to interactively explore the data.
+This repository contains an R code for creating an interactive web map using leaflet libraries. This iteration of the map features geolocalized network graphs which shows the connections between performers' birthplaces and the milanese venues where they performed during
+the time considered. The graphs where created in Gephi, then exported and converted in .shp files using QGIS.
 
-Features
+Data
 
-Displays multiple lines on a single plot
-Interactive tooltips to show data values on hover
-Supports zooming, panning, and other interactive features
-Vertical lines for each data point
-Chapter numbers displayed on the x-axis
-Requirements
+The repository contains all the .shp and .csv files required for compiling the map.
 
-Make sure you have the following libraries installed in your R environment:
+Funding
 
-ggplot2
-plotly
-
-Usage
-
-Clone this repository or download the R code file.
-Set the appropriate path to your dataset CSV file in the code (dataset <- read.csv("path/to/your/dataset.csv")).
-Run the code in an R environment or editor.
-The resulting interactive line plot will be displayed in the R graphics device.
-
-Customization
-
-You can customize the plot by modifying the code:
-
-Adjust the color palette for the lines by modifying the color_palette variable.
-Change the title and subtitle of the plot using the labs() function.
-Modify the theme settings to change the appearance of the plot.
-Feel free to experiment and tailor the code to your specific requirements.
+The creation of the script and of the video library was supported by AIUCD Small Grants 2022.
 
 License
 

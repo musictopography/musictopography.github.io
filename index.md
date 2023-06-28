@@ -13,6 +13,12 @@ The project is supervised by <b>Prof. Alessandro Bratus</b> (University of Pavia
 On this website are stored all the digital resources of the project. They are divided in three different sections, according to the methodological framework of the research: [mapping](https://musictopography.github.io//map/), [network visualization and analysis](https://musictopography.github.io//graphs/), [ethnographic research](https://musictopography.github.io//interviews/).
 
 
+The project was realized with the support of Small Grants AIUCD 2022.
+
+<img src="AIUCD_logo.png">
+
+
+
 
 <img src="images/Billie.jpg">
 

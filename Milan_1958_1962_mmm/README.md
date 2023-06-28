@@ -1,3 +1,9 @@
+
+---
+layout: null
+---
+
+
 # <a href="https://musictopography.github.io/Milan_1958_1962_mmm/Milan_1958_1962_mmm.html"> Music Memory Map (MMM) Milan 1958-1962: Music Topography of a City</a>
 
 This repository contains an R code for creating an interactive web map using leaflet libraries. This iteration of the map features HTML video players, allowing the user to explore a video library trough a geographic perspective. These players are embedded in the markers' pop-up windows.

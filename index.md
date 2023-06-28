@@ -15,7 +15,7 @@ On this website are stored all the digital resources of the project. They are di
 
 The project was realized with the support of Small Grants AIUCD 2022.
 
-<img src="AIUCD_logo.png">
+<img src="images/AIUCD_logo.png">
 
 
 

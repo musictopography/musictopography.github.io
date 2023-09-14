@@ -1,0 +1,2017 @@
+Id,Label,nome,attributo,tipologia,eigencentrality,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality
+001p,,15 Menestrelli,1,Performer,0.001458,10,0.18099,0.190147,0
+002p,,5 Peres,6,Performer,0.01344,8,0.225988,0.243668,0
+003p,,5 Profeti,1,Performer,0.000648,2,0.666667,0.75,0
+004p,,5 Ratti y Jolly,1,Performer,0.003465,8,0.206817,0.218625,0
+005p,,A Sax,1,Performer,0.007189,10,0.206365,0.221539,0
+006p,,Abbe Lane,5,Performer,0.021195,8,0.23441,0.254546,0
+007p,,Abbey Simon,1,Performer,0.050767,8,0.256177,0.282066,0
+008p,,Abe Polakoff,2,Performer,0.050767,8,0.256177,0.282066,0
+009p,,Abraham Comfort,1,Performer,0.050767,8,0.256177,0.282066,0
+010p,,Accademia Corale della citt� di Ferrara,1,Performer,0.007822,10,0.194938,0.212782,0
+011p,,Accademia Corale di Lecco,2,Performer,0.002882,10,0.198256,0.212129,470.559673
+012p,,Accademia Corale Stefano Tempio,1,Performer,0.050767,8,0.256177,0.282066,0
+013p,,Accademia musicale di Vienna,1,Performer,0.007822,10,0.194938,0.212782,0
+014p,,Accademia Musicale Napoletana,1,Performer,0.028713,8,0.232046,0.255297,0
+015p,,Achille Berruti,5,Performer,0.024905,10,0.217346,0.24303,0
+016p,,Achille Braschi,8,Performer,0.009586,8,0.210603,0.227642,0
+017p,,Achille Togliani,7,Performer,0.057888,8,0.269803,0.296691,34199.345794
+018p,,Adelchi Amisano,1,Performer,0,0,0,0,0
+019p,,Adele Bonaym,1,Performer,0.024905,10,0.217346,0.24303,0
+020p,,Adele Santamato,3,Performer,0.005568,10,0.189116,0.205479,0
+021p,,Adriana Brugnolini,1,Performer,0,0,0,0,0
+022p,,Adriana Capparini,1,Performer,0.028713,8,0.232046,0.255297,0
+023p,,Adriana Del Poggio,3,Performer,0.004111,8,0.204797,0.217118,272.546314
+024p,,Adriana Lazzarini,13,Performer,0.053618,8,0.246152,0.280398,2079.456142
+025p,,Adriana Martino,16,Performer,0.040487,8,0.233887,0.26365,2943.457105
+026p,,Adriana Materassi,1,Performer,0.007822,10,0.194938,0.212782,0
+027p,,Adriana Torrini,26,Performer,0.005314,8,0.200958,0.214131,0
+028p,,Adriano Celentano,28,Performer,0.049584,8,0.245384,0.278199,37591.164404
+029p,,Adriano Ferrario,4,Performer,0.002234,10,0.188323,0.200445,0
+030p,,Adriano Lualdi,3,Performer,0.082273,8,0.271121,0.308487,3932.822976
+031p,,Agnes Giebel,4,Performer,0.060218,8,0.249076,0.28405,1505.835937
+032p,,Agostino Cattaneo,1,Performer,0.021195,8,0.23441,0.254546,0
+033p,,Aida Accolla,1,Performer,0.007189,10,0.206365,0.221539,0
+034p,,Aim� Duval,1,Performer,0.028713,8,0.232046,0.255297,0
+035p,,Al Corvin,1,Performer,0.002385,8,0.199556,0.210663,0
+036p,,Al Dikson,2,Performer,0,0,0,0,0
+037p,,Aladar Janes,5,Performer,0.075673,8,0.268574,0.302566,2852.458831
+038p,,Alberto Baldan Bembo,1,Performer,0,0,0,0,0
+039p,,Alberto Bonucci,44,Performer,0.050767,8,0.256177,0.282066,0
+040p,,Alberto Caroldi,1,Performer,0.003013,10,0.200106,0.213612,0
+041p,,Alberto Dorgia,5,Performer,0.007719,8,0.214676,0.229421,0
+042p,,Alberto Lionello,42,Performer,0.005314,8,0.200958,0.214131,0
+043p,,Alberto Lisy,1,Performer,0.057956,8,0.25956,0.288169,1941.916083
+044p,,Alberto Mozzati,6,Performer,0.043131,8,0.248028,0.276917,21429.633443
+045p,,Alberto Rabagliati,7,Performer,0.052846,8,0.263327,0.288074,16340.835842
+046p,,Alberto Sorrentino,1,Performer,0.00712,8,0.198298,0.21388,0
+047p,,Alberto Zedda,6,Performer,0.027337,8,0.228894,0.253713,10068.538021
+048p,,Alceo Gautelli,19,Performer,0.018933,8,0.244938,0.261327,10646.964814
+049p,,Alda Bellasich,1,Performer,0.007822,10,0.194938,0.212782,0
+050p,,Alda Sileni,2,Performer,0.006146,10,0.179851,0.195067,0
+051p,,Aldo Allegranza,42,Performer,0.009586,8,0.210603,0.227642,0
+052p,,Aldo Bennici,2,Performer,0.007822,10,0.194938,0.212782,0
+053p,,Aldo Ceccato,1,Performer,0.002298,8,0.200064,0.21113,0
+054p,,Aldo Ciccolini,3,Performer,0.035902,8,0.235111,0.261709,866.583552
+055p,,Aldo Ferraresi,1,Performer,0.028713,8,0.232046,0.255297,0
+056p,,Aldo Santambrogio,2,Performer,0.031505,8,0.217497,0.245403,0
+057p,,Alessandro De Sved,1,Performer,0.007822,10,0.194938,0.212782,0
+058p,,Alessandro Esposito,4,Performer,0.027348,10,0.217898,0.244584,173.295076
+059p,,Alessandro Santini,1,Performer,0.024905,10,0.217346,0.24303,0
+060p,,Alexander Brailowski,1,Performer,0.028713,8,0.232046,0.255297,0
+061p,,Alexander Pavlovic,1,Performer,0.028713,8,0.232046,0.255297,0
+062p,,Alexander Uninsky,1,Performer,0.007189,10,0.206365,0.221539,0
+063p,,Alexis Roland-Manuel,1,Performer,0.007389,10,0.203692,0.219232,0
+064p,,Alexis Welssenberg,2,Performer,0.060218,8,0.249076,0.28405,1505.835937
+065p,,Alfio Farina,6,Performer,0.023626,8,0.247443,0.266199,18975.8422
+066p,,Alfonso Marchica,3,Performer,0.050767,8,0.256177,0.282066,0
+067p,,Alfonso Thomas,1,Performer,0.00712,8,0.198298,0.21388,0
+068p,,Alfredo Adami,2,Performer,0.050767,8,0.256177,0.282066,0
+069p,,Alfredo Antonini,1,Performer,0.028713,8,0.232046,0.255297,0
+070p,,Alfredo Bianchini,2,Performer,0.01344,8,0.225988,0.243668,0
+071p,,Alfredo Kraus,7,Performer,0.031505,8,0.217497,0.245403,0
+072p,,Alfredo Marchetti,1,Performer,0.00712,8,0.198298,0.21388,0
+073p,,Alfredo Speranza,1,Performer,0.007189,10,0.206365,0.221539,0
+074p,,Alice Strauss,1,Performer,0.001523,10,0.170184,0.178264,0
+075p,,Alighiero Noschese,55,Performer,0.0149,8,0.218251,0.237846,415.454575
+076p,,Almerindo D'Amato,1,Performer,0.007822,10,0.194938,0.212782,0
+077p,,Alois Pernerstorfer,5,Performer,0.038895,8,0.227624,0.257449,566.585374
+078p,,Alvino Misciano,14,Performer,0.007389,10,0.203692,0.219232,0
+079p,,Amedeo Baldovino,3,Performer,0.082273,8,0.271121,0.308487,3932.822976
+080p,,Amedeo Tommasi,4,Performer,0.008817,8,0.21492,0.230304,687.383952
+081p,,Amilcare Blaffard,1,Performer,0.024905,10,0.217346,0.24303,0
+082p,,Anania Battagliola,2,Performer,0.081241,8,0.273241,0.310321,36325.140566
+083p,,Andr� Cluytens,10,Performer,0.060218,8,0.249076,0.28405,1505.835937
+084p,,Andr�e Zambianchi,1,Performer,0.028713,8,0.232046,0.255297,0
+085p,,Andreina Pezzi,44,Performer,0.050767,8,0.256177,0.282066,0
+086p,,Andres Segovia,3,Performer,0.054139,8,0.258706,0.285837,1594.720994
+087p,,Angel Pocho Gatti,1,Performer,0.01344,8,0.225988,0.243668,0
+088p,,Angel Sanabria,8,Performer,0.01344,8,0.225988,0.243668,0
+089p,,Angela Luce,22,Performer,0.009586,8,0.210603,0.227642,0
+090p,,Angela Vercelli,2,Performer,0.024905,10,0.217346,0.24303,0
+091p,,Angelica Vigevani,2,Performer,0.008269,10,0.208508,0.224392,2286.510616
+092p,,Angelo Corti,14,Performer,0.001425,10,0.15951,0.167741,0
+093p,,Angelo Gandino,1,Performer,0.005568,10,0.189116,0.205479,0
+094p,,Angelo Mazza,1,Performer,0.007822,10,0.194938,0.212782,0
+095p,,Angelo Mercuriali,13,Performer,0.031505,8,0.217497,0.245403,0
+096p,,Angelo Rossi,3,Performer,0.002431,10,0.178457,0.187511,0
+097p,,Angelo Surbone,1,Performer,0.024905,10,0.217346,0.24303,0
+098p,,Anita Porrini,1,Performer,0.050767,8,0.256177,0.282066,0
+099p,,Ann Schein,1,Performer,0.007822,10,0.194938,0.212782,0
+100p,,Anna Colonna Romano,1,Performer,0.007822,10,0.194938,0.212782,0
+101p,,Anna D'Amico,2,Performer,0.022672,8,0.234994,0.256029,4329.022301
+102p,,Anna Della Valle,1,Performer,0.001813,10,0.187873,0.197561,0
+103p,,Anna Dor�,1,Performer,0.024905,10,0.217346,0.24303,0
+104p,,Anna Lari,1,Performer,0.006146,10,0.179851,0.195067,0
+105p,,Anna Maria Ferrero,44,Performer,0.050767,8,0.256177,0.282066,0
+106p,,Anna Maria Paolucci,2,Performer,0.006146,10,0.179851,0.195067,0
+107p,,Anna Maria Rota,1,Performer,0.024905,10,0.217346,0.24303,0
+108p,,Anna Menichetti,14,Performer,0.002385,8,0.199556,0.210663,0
+109p,,Anna Moffo,1,Performer,0.028713,8,0.232046,0.255297,0
+110p,,Anna Nogara,31,Performer,0.01344,8,0.225988,0.243668,0
+111p,,Anna Priori,29,Performer,0.005521,8,0.208647,0.223024,0
+112p,,Anna Proclemer,32,Performer,0.005314,8,0.200958,0.214131,0
+113p,,Annalisa Fabbri,1,Performer,0.001,10,0.186832,0.197846,0
+114p,,Annamaria Rota,1,Performer,0.024905,10,0.217346,0.24303,0
+115p,,Anthony de Bonaventura,1,Performer,0.007822,10,0.194938,0.212782,0
+116p,,Anton Dolin,5,Performer,0.031505,8,0.217497,0.245403,0
+117p,,Anton Heiller,2,Performer,0.024905,10,0.217346,0.24303,0
+118p,,Antonello Vannucci,1,Performer,0.001098,10,0.181025,0.189666,0
+119p,,Antonietta Cassisa,1,Performer,0.007822,10,0.194938,0.212782,0
+120p,,Antonietta Stella,28,Performer,0.031505,8,0.217497,0.245403,0
+121p,,Antonino Votto,75,Performer,0.031505,8,0.217497,0.245403,0
+122p,,Antonio Balista,7,Performer,0.090543,8,0.276849,0.315977,21522.064072
+123p,,Antonio Beltrami,1,Performer,0.089682,8,0.274833,0.31244,7625.570918
+124p,,Antonio Boyer,5,Performer,0.007389,10,0.203692,0.219232,0
+125p,,Antonio Cassinelli,11,Performer,0.031505,8,0.217497,0.245403,0
+126p,,Antonio De Bavier,2,Performer,0.050767,8,0.256177,0.282066,0
+127p,,Antonio Del Monaco,2,Performer,0.050767,8,0.256177,0.282066,0
+128p,,Antonio Janigro,2,Performer,0.092313,8,0.266978,0.313188,11385.905082
+129p,,Antonio Machin,2,Performer,0.006146,10,0.179851,0.195067,0
+130p,,Antonio Narducci,8,Performer,0,0,0,0,0
+131p,,Antonio Pellegrinato,2,Performer,0.021195,8,0.23441,0.254546,0
+132p,,Antonio Pocaterra,1,Performer,0.005568,10,0.189116,0.205479,0
+133p,,Antonio Tonini,4,Performer,0.031505,8,0.217497,0.245403,0
+134p,,Antonio Zarbini,4,Performer,0,0,0,0,0
+135p,,Archie Savage,11,Performer,0.001296,2,0.52381,0.545455,0
+136p,,Arlene Saunders,2,Performer,0.050767,8,0.256177,0.282066,0
+137p,,Armanda Bonato,9,Performer,0.031505,8,0.217497,0.245403,0
+138p,,Armando Borlenghi,2,Performer,0.002431,10,0.178457,0.187511,0
+139p,,Armando Celso,68,Performer,0.01344,8,0.225988,0.243668,0
+140p,,Armando Gatto,5,Performer,0.027337,8,0.228894,0.253713,10068.538021
+141p,,Arnaldo Ninchi,44,Performer,0.009586,8,0.210603,0.227642,0
+142p,,Arrigo Pelliccia,1,Performer,0.050767,8,0.256177,0.282066,0
+143p,,Ars Antiqua,1,Performer,0.006992,10,0.198089,0.215057,1086.057296
+144p,,Ars Nova,1,Performer,0.007822,10,0.194938,0.212782,0
+145p,,Art Taylor,2,Performer,0.021195,8,0.23441,0.254546,0
+146p,,Arthur Gold,1,Performer,0.028713,8,0.232046,0.255297,0
+147p,,Arthur Mackenzie,1,Performer,0.050767,8,0.256177,0.282066,0
+148p,,Arthur Rosenberg,2,Performer,0.002385,8,0.199556,0.210663,0
+149p,,Arthur Rubinstein,4,Performer,0.060218,8,0.249076,0.28405,1505.835937
+150p,,Arturo Benedetti Michelangeli,9,Performer,0.082273,8,0.271121,0.308487,3932.822976
+151p,,Arturo Testa,1,Performer,0.021195,8,0.23441,0.254546,0
+152p,,Associazione Nazionale Alpini,1,Performer,0.021195,8,0.23441,0.254546,0
+153p,,Athos Ceroni,7,Performer,0.00124,10,0.142415,0.148877,0
+154p,,Attilio Pecile,1,Performer,0.024905,10,0.217346,0.24303,0
+155p,,Audrey June,7,Performer,0.021195,8,0.23441,0.254546,0
+156p,,Augusto Frati,3,Performer,0.002431,10,0.178457,0.187511,0
+157p,,Aurelio Fierro,1,Performer,0.00222,8,0.204,0.214875,0
+158p,,Aurora Banfi,61,Performer,0.022021,8,0.225179,0.250026,8255.253504
+160p,,Aurora Cattelani,16,Performer,0.031505,8,0.217497,0.245403,0
+161p,,Aurora Trampus,26,Performer,0.050767,8,0.256177,0.282066,0
+162p,,Avaro Bertani,1,Performer,0.007189,10,0.206365,0.221539,0
+163p,,Ave Ninchi,74,Performer,0.021195,8,0.23441,0.254546,0
+164p,,Aviva Bonstein,1,Performer,0.007189,10,0.206365,0.221539,0
+165p,,Ballet-Theatre de Paris,2,Performer,0.050767,8,0.256177,0.282066,0
+166p,,Balletto Beriozka,3,Performer,0.031505,8,0.217497,0.245403,0
+167p,,Balletto caucasico della repubblica georgiana,12,Performer,0.050767,8,0.256177,0.282066,0
+168p,,Balletto Nazionale Messicano,12,Performer,0.005521,8,0.208647,0.223024,0
+169p,,Barbara Geiser-Peyer,1,Performer,0.028713,8,0.232046,0.255297,0
+170p,,Barbara Manford,3,Performer,0.050767,8,0.256177,0.282066,0
+171p,,Barbara Miller,1,Performer,0.000932,2,0.545455,0.583333,0
+172p,,Barney Wilen,2,Performer,0.02758,8,0.247963,0.269286,2371.836071
+173p,,Bayanihan Philippine Company,11,Performer,0.021195,8,0.23441,0.254546,0
+174p,,Beniamino Maggio,2,Performer,0.006146,10,0.179851,0.195067,0
+175p,,Benny Joy,1,Performer,0,0,0,0,0
+176p,,Beppe Moietta,1,Performer,0.021195,8,0.23441,0.254546,0
+177p,,Bernard Haykink,1,Performer,0.028713,8,0.232046,0.255297,0
+178p,,Bernhard Conz,1,Performer,0.028713,8,0.232046,0.255297,0
+179p,,Bertolini,2,Performer,0.050767,8,0.256177,0.282066,0
+180p,,Bettina Brahn,1,Performer,0,0,0,0,0
+181p,,Betty Curtis,1,Performer,0.008461,8,0.203516,0.218597,0
+182p,,Bianca Maria Furgeri,1,Performer,0.001523,10,0.170184,0.178264,0
+183p,,Biancamaria Casoni,15,Performer,0.0638,8,0.248094,0.287103,4587.488527
+184p,,Big Boy Rock,2,Performer,0.006146,10,0.179851,0.195067,0
+185p,,Big John Taylor,1,Performer,0,0,0,0,0
+186p,,Bill Coleman,3,Performer,0.050767,8,0.256177,0.282066,0
+187p,,Bill Haley and His Comets,3,Performer,0.003465,8,0.206817,0.218625,0
+188p,,Bill Miller,2,Performer,0.013051,8,0.222105,0.240169,553.364769
+189p,,Billi e i suoi diabolici,3,Performer,0.006146,10,0.179851,0.195067,0
+190p,,Billie Holiday,3,Performer,0.021901,8,0.236822,0.257129,1069.038346
+191p,,Birgit Nilsson,2,Performer,0.031505,8,0.217497,0.245403,0
+192p,,Blau Bar,1,Performer,0.006146,10,0.179851,0.195067,0
+193p,,Blockbusters,1,Performer,0,0,0,0,0
+194p,,Bob Azzam,50,Performer,0.007719,8,0.214676,0.229421,0
+195p,,Bob Brookmayer,2,Performer,0.009586,8,0.210603,0.227642,0
+196p,,Bob Castella,3,Performer,0.050767,8,0.256177,0.282066,0
+197p,,Bob Cooper,1,Performer,0.002196,8,0.188323,0.198191,0
+198p,,Bob Kennedy,2,Performer,0.000932,2,0.545455,0.583333,0
+199p,,Bob Vinci,3,Performer,0.013266,8,0.204886,0.225895,1183.170819
+200p,,Bobby Jaspar,1,Performer,0.001098,10,0.181025,0.189666,0
+201p,,Bonifacio Bianchi,1,Performer,0.001424,10,0.183311,0.193758,0
+202p,,Boris Christoff,16,Performer,0.031505,8,0.217497,0.245403,0
+203p,,Bovisa New Orleans Jazz Band,2,Performer,0.006385,8,0.215214,0.229315,0
+204p,,Bronislaw Gimpel,1,Performer,0.050767,8,0.256177,0.282066,0
+205p,,Bruna Lalli,3,Performer,0.027341,8,0.237897,0.262583,8723.957594
+206p,,Bruna Rizzoli,7,Performer,0.0638,8,0.248094,0.287103,4587.488527
+207p,,Bruna Urbani,1,Performer,0.001532,8,0.181617,0.190101,0
+208p,,Bruno Amaducci,1,Performer,0.050767,8,0.256177,0.282066,0
+209p,,Bruno Bartoletti,15,Performer,0.038895,8,0.227624,0.257449,566.585374
+210p,,Bruno Camus,1,Performer,0.050767,8,0.256177,0.282066,0
+211p,,Bruno Canino,21,Performer,0.114136,8,0.289151,0.333488,25810.569746
+212p,,Bruno De Lucia,2,Performer,0.007719,8,0.214676,0.229421,0
+213p,,Bruno De Marchi,14,Performer,0.001425,10,0.15951,0.167741,0
+214p,,Bruno Giuranna,2,Performer,0.057956,8,0.25956,0.288169,1941.916083
+215p,,Bruno Maderna,8,Performer,0.083062,8,0.272059,0.308748,6855.091638
+216p,,Bruno Marangoni,1,Performer,0.024905,10,0.217346,0.24303,0
+217p,,Bruno Martino,18,Performer,0.000946,12,0.124177,0.128841,0
+218p,,Bruno Martinotti,6,Performer,0.041309,10,0.225125,0.262019,11876.463034
+219p,,Bruno Mezzena,1,Performer,0.005568,10,0.189116,0.205479,0
+220p,,Bruno Prevedi,2,Performer,0.050767,8,0.256177,0.282066,0
+221p,,Bruno Quirinetta,1,Performer,0.001083,10,0.164775,0.173641,0
+222p,,Bruno Rosettani,6,Performer,0.008461,8,0.203516,0.218597,0
+223p,,Bruno Salvi,3,Performer,0.024905,10,0.217346,0.24303,0
+224p,,Bruno Vitali,2,Performer,0.050767,8,0.256177,0.282066,0
+225p,,Bruno Wassil,1,Performer,0.001296,2,0.52381,0.545455,0
+226p,,Buck Clayton,4,Performer,0.058486,8,0.267205,0.2947,6840.99606
+227p,,Bud Powell,2,Performer,0.021195,8,0.23441,0.254546,0
+228p,,Bud Shank,1,Performer,0.002196,8,0.188323,0.198191,0
+229p,,Buddy Clark,5,Performer,0.030781,8,0.239589,0.2654,1605.866221
+230p,,Buddy Collette,3,Performer,0.01566,8,0.227844,0.246733,640.033444
+231p,,Buddy Tate,2,Performer,0.050767,8,0.256177,0.282066,0
+232p,,Buster Smith,24,Performer,0.006385,8,0.215214,0.229315,0
+233p,,Byron Janis,2,Performer,0.031505,8,0.217497,0.245403,0
+234p,,Caballeros di Spagna,3,Performer,0.000946,12,0.124177,0.128841,0
+235p,,Calvin Lockhart,11,Performer,0.001296,2,0.52381,0.545455,0
+236p,,Caly Boys,2,Performer,0.006146,10,0.179851,0.195067,0
+237p,,Cantacronache,1,Performer,0.003372,8,0.216349,0.227821,0
+238p,,Capozzi-Nucci,1,Performer,0.006146,10,0.179851,0.195067,0
+239p,,Carl Bini,2,Performer,0.050767,8,0.256177,0.282066,0
+240p,,Carl Schuricht,1,Performer,0.050767,8,0.256177,0.282066,0
+241p,,Carla Civaschi,1,Performer,0.007822,10,0.194938,0.212782,0
+242p,,Carla Drivet,1,Performer,0.005568,10,0.189116,0.205479,0
+243p,,Carla Fracci,15,Performer,0.031505,8,0.217497,0.245403,0
+244p,,Carla Macelloni,33,Performer,0.050767,8,0.256177,0.282066,0
+245p,,Carla Otta,4,Performer,0.002431,10,0.178457,0.187511,0
+246p,,Carla Ragni,2,Performer,0.002245,10,0.166962,0.178349,0
+247p,,Carla Riva,92,Performer,0.022672,8,0.234994,0.256029,4329.022301
+248p,,Carla Weber Bianchi,1,Performer,0.005521,8,0.208647,0.223024,0
+249p,,Carlo Biagi,1,Performer,0.001813,10,0.187873,0.197561,0
+250p,,Carlo Camerini,3,Performer,0.050767,8,0.256177,0.282066,0
+251p,,Carlo Campanini,20,Performer,0.021195,8,0.23441,0.254546,0
+252p,,Carlo Cataneo,14,Performer,0.002385,8,0.199556,0.210663,0
+253p,,Carlo Cava,5,Performer,0.031505,8,0.217497,0.245403,0
+254p,,Carlo Damevino,1,Performer,0.050767,8,0.256177,0.282066,0
+255p,,Carlo Dapporto,156,Performer,0.029656,8,0.236941,0.260136,317.954188
+256p,,Carlo Eduardi,1,Performer,0.021195,8,0.23441,0.254546,0
+257p,,Carlo Emanuele Ricordi,1,Performer,0.024905,10,0.217346,0.24303,0
+258p,,Carlo Felice Cillario,17,Performer,0.024905,10,0.217346,0.24303,0
+259p,,Carlo Franci,5,Performer,0.075673,8,0.268574,0.302566,2852.458831
+260p,,Carlo Franzini,4,Performer,0.031505,8,0.217497,0.245403,0
+261p,,Carlo Hinterman,76,Performer,0.056081,8,0.262448,0.289131,2853.787079
+262p,,Carlo Maria Giulini,5,Performer,0.060218,8,0.249076,0.28405,1505.835937
+263p,,Carlo Mariani,1,Performer,0.050767,8,0.256177,0.282066,0
+264p,,Carlo Meliciani,5,Performer,0.031505,8,0.217497,0.245403,0
+265p,,Carlo Montini,39,Performer,0.002269,8,0.194416,0.205164,0
+266p,,Carlo Ninchi,89,Performer,0.026509,8,0.236525,0.259209,556.668468
+267p,,Carlo Pesi,23,Performer,0.01344,8,0.225988,0.243668,0
+268p,,Carlo Pestalozza,3,Performer,0.079045,8,0.271355,0.306337,8095.420522
+269p,,Carlo Quaranta,1,Performer,0.000909,10,0.158758,0.165962,0
+270p,,Carlo Rizzo,24,Performer,0.005314,8,0.200958,0.214131,0
+271p,,Carlo Zecchi,7,Performer,0.104386,8,0.283248,0.32432,6933.647706
+272p,,Carmen Castillo,3,Performer,0.003902,8,0.195544,0.207281,135.991126
+273p,,Carmen Favre,1,Performer,0.024905,10,0.217346,0.24303,0
+274p,,Carmen Lucchetti,2,Performer,0.002431,10,0.178457,0.187511,0
+275p,,Carmen Villani,1,Performer,0.021195,8,0.23441,0.254546,0
+276p,,Carol Toscano,3,Performer,0.050767,8,0.256177,0.282066,0
+277p,,Carolina Segrera,2,Performer,0.01344,8,0.225988,0.243668,0
+278p,,Carr�-D'Alberti,1,Performer,0.006146,10,0.179851,0.195067,0
+279p,,Casoni,1,Performer,0.00712,8,0.198298,0.21388,0
+280p,,Caterina Valente,3,Performer,0.007719,8,0.214676,0.229421,0
+281p,,Catherine Sauvage,13,Performer,0.018961,8,0.231989,0.25197,549.621415
+282p,,Cathy Berberian,6,Performer,0.01344,8,0.225988,0.243668,0
+283p,,Cecedoria,2,Performer,0.00712,8,0.198298,0.21388,0
+284p,,Cecil Payne,3,Performer,0.005521,8,0.208647,0.223024,0
+285p,,Cecile Ousset,1,Performer,0.028713,8,0.232046,0.255297,0
+286p,,Cecilia Fusco,14,Performer,0.031505,8,0.217497,0.245403,0
+287p,,Cecilia Numez Albanese,1,Performer,0.005568,10,0.189116,0.205479,0
+288p,,Celia Gatti Aldovrandi,2,Performer,0.031505,8,0.217497,0.245403,0
+289p,,Cesare Ferraresi,15,Performer,0.121631,8,0.293012,0.33877,28445.954307
+290p,,Cesco Baseggio,14,Performer,0.002269,8,0.194416,0.205164,0
+291p,,Charivels,13,Performer,0.007719,8,0.214676,0.229421,0
+292p,,Charles Mackerras,1,Performer,0.050767,8,0.256177,0.282066,0
+293p,,Charles Trenet,4,Performer,0.007719,8,0.214676,0.229421,0
+294p,,Charlie Byrd,1,Performer,0.009586,8,0.210603,0.227642,0
+295p,,Charlie Rouse,2,Performer,0.021195,8,0.23441,0.254546,0
+296p,,Charlie Smith,4,Performer,0.001425,10,0.15951,0.167741,0
+297p,,Checco Rissone,74,Performer,0.005521,8,0.208647,0.223024,0
+298p,,Chet Baker,14,Performer,0.061836,8,0.26911,0.298003,19760.204393
+299p,,Chiaralberta Pastorelli,2,Performer,0.05321,8,0.257084,0.283885,712.053311
+300p,,Christa Ruppert,1,Performer,0.050767,8,0.256177,0.282066,0
+301p,,Christoph von Dohnanyl,2,Performer,0.031505,8,0.217497,0.245403,0
+302p,,Chuck Israels,1,Performer,0.009586,8,0.210603,0.227642,0
+303p,,Chuck Wider,1,Performer,0.006146,10,0.179851,0.195067,0
+304p,,Ciccio Ingrassia,73,Performer,0.021195,8,0.23441,0.254546,0
+305p,,Ciky Karsten,1,Performer,0.001824,10,0.170615,0.181825,0
+306p,,Claire Watson,4,Performer,0.031505,8,0.217497,0.245403,0
+307p,,Clara Foti,8,Performer,0.031505,8,0.217497,0.245403,0
+308p,,Clara Haskil,2,Performer,0.028713,8,0.232046,0.255297,0
+309p,,Clara Petrella,5,Performer,0.031505,8,0.217497,0.245403,0
+310p,,Clara Ventigna,1,Performer,0.005568,10,0.189116,0.205479,0
+311p,,Claude Helffer,1,Performer,0.000909,10,0.158758,0.165962,0
+312p,,Claude Luter,1,Performer,0.00222,8,0.204,0.214875,0
+313p,,Claude Williamson,1,Performer,0.002196,8,0.188323,0.198191,0
+314p,,Claudia Carbi,1,Performer,0.024905,10,0.217346,0.24303,0
+315p,,Claudia D'Antoni,1,Performer,0.007189,10,0.206365,0.221539,0
+316p,,Claudia Lawrence,91,Performer,0.01344,8,0.225988,0.243668,0
+317p,,Claudia Mori,27,Performer,0.021195,8,0.23441,0.254546,0
+318p,,Claudio Abbado,13,Performer,0.111775,8,0.286953,0.330238,12083.950823
+319p,,Claudio Arrau,5,Performer,0.060218,8,0.249076,0.28405,1505.835937
+320p,,Claudio Gregorat,1,Performer,0.007822,10,0.194938,0.212782,0
+321p,,Claudio Scimone,4,Performer,0.009246,10,0.203341,0.221342,557.222502
+322p,,Claudio Strudthoff,2,Performer,0.024905,10,0.217346,0.24303,0
+323p,,Claudio Villa,30,Performer,0.038493,8,0.241058,0.269287,13754.396358
+324p,,Claudius Schauffler,1,Performer,0.024905,10,0.217346,0.24303,0
+325p,,Clelia Gatti Aldovrandi,2,Performer,0.031505,8,0.217497,0.245403,0
+326p,,Clem Sacco,11,Performer,0.015581,8,0.210697,0.231629,1034.663932
+327p,,Clementina Hoogendoorn,1,Performer,0.024905,10,0.217346,0.24303,0
+328p,,Clifford Curzon,3,Performer,0.07948,8,0.270344,0.304862,2001.732734
+329p,,Coleman Hawkins,2,Performer,0.009586,8,0.210603,0.227642,0
+330p,,Colin Hicks,1,Performer,0.00712,8,0.198298,0.21388,0
+331p,,Comedie Francaise,4,Performer,0.031505,8,0.217497,0.245403,0
+332p,,Compagnia del Piccolo Teatro,169,Performer,0.002283,10,0.193063,0.20419,371.096408
+333p,,Compagnia del Teatro Stabile di Torino,22,Performer,0.050767,8,0.256177,0.282066,0
+334p,,Compagnia di riviste internazionale,4,Performer,0.00712,8,0.198298,0.21388,0
+335p,,Compagnia Lucio Carano 1960,1,Performer,0.006146,10,0.179851,0.195067,0
+336p,,Compagnia nazionale di danze popolari dell'URSS,4,Performer,0.031505,8,0.217497,0.245403,0
+337p,,Compagnia Terzo-Di Fiorenze,1,Performer,0.006146,10,0.179851,0.195067,0
+338p,,"Complesso ""Musica Viva""",1,Performer,0.001033,10,0.173215,0.181135,0
+339p,,Complesso da camera di Berlino,1,Performer,0.028713,8,0.232046,0.255297,0
+340p,,Complesso Fiati Solisti,1,Performer,0.003372,8,0.216349,0.227821,0
+341p,,Complesso fiorentino di strumenti antichi,1,Performer,0.024905,10,0.217346,0.24303,0
+342p,,Complesso Pier Emilio Bassi,1,Performer,0.002298,8,0.200064,0.21113,0
+343p,,Complesso Raoul Magrini,1,Performer,0.001824,10,0.170615,0.181825,0
+344p,,Complesso strumentale italiano,6,Performer,0.046626,8,0.24267,0.274596,8410.061665
+345p,,Complesso vocale e strumentale della Radiotelevisione francese,1,Performer,0.028713,8,0.232046,0.255297,0
+346p,,Concentus fidesque antiqui,1,Performer,0.000909,10,0.158758,0.165962,0
+347p,,Connie Francis,1,Performer,0.021195,8,0.23441,0.254546,0
+348p,,Corbellini,10,Performer,0.000985,10,0.165788,0.170879,0
+349p,,Cori della Radiotelevisione Francese,2,Performer,0.031505,8,0.217497,0.245403,0
+350p,,Coro della Bayrischer Rundfunk,2,Performer,0.031505,8,0.217497,0.245403,0
+351p,,Coro della Radio di Belgrado,1,Performer,0.028713,8,0.232046,0.255297,0
+352p,,Coro della Scala,1,Performer,0.028713,8,0.232046,0.255297,0
+353p,,Coro dell'Accademia di Vienna,1,Performer,0.028713,8,0.232046,0.255297,0
+354p,,Coro dell'Opera Nazionale di Belgrado,2,Performer,0.031505,8,0.217497,0.245403,0
+355p,,Coro di Pamplona,1,Performer,0.050767,8,0.256177,0.282066,0
+356p,,Coro I.N.C.A.S.,3,Performer,0.031427,8,0.23354,0.258768,26482.275722
+357p,,Coro Polifonico di Milano,3,Performer,0.075673,8,0.268574,0.302566,2852.458831
+358p,,Coro Polifonico di Torino,3,Performer,0.024905,10,0.217346,0.24303,0
+359p,,Coro Singverein di Vienna,2,Performer,0.031505,8,0.217497,0.245403,0
+360p,,Coro Universitario Romano,1,Performer,0.007822,10,0.194938,0.212782,0
+361p,,Corrado Lojacono,3,Performer,0.026105,8,0.238982,0.260605,1742.142278
+362p,,Cosetta Colla,33,Performer,0.002131,10,0.167258,0.17468,752.4
+363p,,Cosetta Ivana,1,Performer,0.000718,2,0.6,0.666667,0
+364p,,Cosimo Di Ceglie,39,Performer,0.070595,8,0.278237,0.3083,11266.793719
+365p,,Costance Lambert,2,Performer,0.050767,8,0.256177,0.282066,0
+366p,,Count Basie,2,Performer,0.021195,8,0.23441,0.254546,0
+367p,,Cristina Jorio,1,Performer,0.021195,8,0.23441,0.254546,0
+368p,,Cristina Krooskos,1,Performer,0.005568,10,0.189116,0.205479,0
+369p,,Dalida,4,Performer,0.050767,8,0.256177,0.282066,0
+370p,,Dalton Baldwyn,1,Performer,0.028713,8,0.232046,0.255297,0
+371p,,Dana Brunetti,1,Performer,0.002245,10,0.166962,0.178349,0
+372p,,Dana Valery,2,Performer,0.021195,8,0.23441,0.254546,0
+373p,,Daniela Floriani,1,Performer,0.006146,10,0.179851,0.195067,0
+374p,,Daniela Frasca Polara,14,Performer,0.001425,10,0.15951,0.167741,0
+375p,,Daniele Paris,1,Performer,0.024905,10,0.217346,0.24303,0
+376p,,Dany Dauberson,23,Performer,0.007719,8,0.214676,0.229421,0
+377p,,Dario Fo,176,Performer,0.005314,8,0.200958,0.214131,0
+378p,,Dave Bailey,1,Performer,0.021195,8,0.23441,0.254546,0
+379p,,David Oistrakh,3,Performer,0.028713,8,0.232046,0.255297,0
+380p,,Davide Mosconi,3,Performer,0.006385,8,0.215214,0.229315,0
+381p,,Dean Dixon,1,Performer,0.050767,8,0.256177,0.282066,0
+382p,,Del Vago-Masi,1,Performer,0.006146,10,0.179851,0.195067,0
+383p,,Delia Scala,202,Performer,0.029656,8,0.236941,0.260136,317.954188
+384p,,Denes Balasz,1,Performer,0.024905,10,0.217346,0.24303,0
+385p,,Denes Marton,1,Performer,0.024905,10,0.217346,0.24303,0
+386p,,Dennis Burk,2,Performer,0.002385,8,0.199556,0.210663,0
+387p,,Derrik Olsen,1,Performer,0.028713,8,0.232046,0.255297,0
+388p,,Dickie Bennet,43,Performer,0.007719,8,0.214676,0.229421,0
+389p,,Dickie Wells,2,Performer,0.050767,8,0.256177,0.282066,0
+390p,,Die Menestrels,1,Performer,0.007822,10,0.194938,0.212782,0
+391p,,Dietrich Fischer Diskau,2,Performer,0.030174,8,0.232446,0.256445,1278.398783
+392p,,Dimitri Nabokov,3,Performer,0.050767,8,0.256177,0.282066,0
+393p,,Dino Arman,17,Performer,0.007719,8,0.214676,0.229421,0
+394p,,Dino Asciolla,1,Performer,0.028713,8,0.232046,0.255297,0
+395p,,Dino Ciani,1,Performer,0.028713,8,0.232046,0.255297,0
+396p,,Dino Dondi,14,Performer,0.031505,8,0.217497,0.245403,0
+397p,,Dino Piana,2,Performer,0.003193,10,0.187202,0.198749,39.168319
+398p,,Dino Sinimberghi,1,Performer,0.028713,8,0.232046,0.255297,0
+399p,,Dionigi Rivi,1,Performer,0.024905,10,0.217346,0.24303,0
+400p,,Diroshi Kajiwara,1,Performer,0.007822,10,0.194938,0.212782,0
+401p,,Disma de Cecco,5,Performer,0.031505,8,0.217497,0.245403,0
+402p,,Dixie Blackstone,1,Performer,0.028713,8,0.232046,0.255297,0
+403p,,Dizzy Gillespie,4,Performer,0.017305,8,0.230516,0.250448,1528.994716
+404p,,Domenico Ceccaroni,1,Performer,0.024905,10,0.217346,0.24303,0
+405p,,Domenico D'Ascoli,2,Performer,0.024905,10,0.217346,0.24303,0
+406p,,Domenico Modugno,83,Performer,0.038662,8,0.260348,0.284124,6634.943064
+407p,,Domenico Negri,14,Performer,0.001425,10,0.15951,0.167741,0
+408p,,Domenico Torrebruno,1,Performer,0.024905,10,0.217346,0.24303,0
+409p,,Don Byas,7,Performer,0.071962,8,0.280637,0.310299,8803.1138
+410p,,don Giuseppe Biella,57,Performer,0.036708,8,0.235698,0.261471,3618.165396
+411p,,Don Marino Barreto Junior,11,Performer,0.020633,8,0.216449,0.241781,9274.333561
+412p,,don Virgilio Bellone,1,Performer,0.050767,8,0.256177,0.282066,0
+413p,,Donald Nold,7,Performer,0.092921,8,0.287302,0.323749,21287.376157
+414p,,Dora Gatta,1,Performer,0.024905,10,0.217346,0.24303,0
+415p,,Dorothy Fisher,1,Performer,0.002298,8,0.200064,0.21113,0
+416p,,Dory Dorika,50,Performer,0.050767,8,0.256177,0.282066,0
+417p,,Drago Starc,2,Performer,0.031505,8,0.217497,0.245403,0
+418p,,Duccia Gussoni,1,Performer,0.000578,1,1,1,0
+419p,,Due Corsari,2,Performer,0.030781,8,0.239589,0.2654,1605.866221
+420p,,Duke Ellington,2,Performer,0.002196,8,0.188323,0.198191,0
+421p,,duo Bollatto-Perrino,1,Performer,0.007822,10,0.194938,0.212782,0
+422p,,duo Calara-Bentivegna,1,Performer,0.005568,10,0.189116,0.205479,0
+423p,,Duo Ermano,1,Performer,0.000718,2,0.6,0.666667,0
+424p,,duo Ferraguzzi-Bentivegna,2,Performer,0.006602,10,0.19026,0.207394,699.985751
+425p,,duo Gorini-Lorenzi,1,Performer,0.007189,10,0.206365,0.221539,0
+426p,,duo Longo-Bentivegna,1,Performer,0.001033,10,0.173215,0.181135,0
+427p,,Duo Servida,1,Performer,0.000578,1,1,1,0
+428p,,Dutch Swing College Band,1,Performer,0.050767,8,0.256177,0.282066,0
+429p,,Dwike Mitchell,4,Performer,0.001425,10,0.15951,0.167741,0
+430p,,Earl Warren,2,Performer,0.050767,8,0.256177,0.282066,0
+431p,,Edda Ponti,1,Performer,0.000578,1,1,1,0
+432p,,Edda Vincenzi,4,Performer,0.007389,10,0.203692,0.219232,0
+433p,,Eddie Calvert,7,Performer,0.023391,8,0.235111,0.256356,1062.053093
+434p,,Eddie Caruso,1,Performer,0.002252,8,0.196932,0.207754,0
+435p,,Edith Martelli,21,Performer,0.038895,8,0.227624,0.257449,566.585374
+436p,,Edmond De Stoutz,1,Performer,0.024905,10,0.217346,0.24303,0
+437p,,Edmonda Aldini,50,Performer,0.005521,8,0.208647,0.223024,0
+438p,,Edoardo Lucchina,15,Performer,0.007719,8,0.214676,0.229421,0
+439p,,Edoardo Muller,1,Performer,0.007189,10,0.206365,0.221539,0
+440p,,Edoardo Vianello,60,Performer,0.00645,8,0.201689,0.215712,346.456003
+441p,,Eduard Flipse,1,Performer,0.028713,8,0.232046,0.255297,0
+442p,,Edward Del Pueyo,3,Performer,0.016715,8,0.239771,0.257689,9841.037086
+443p,,Edward Filus,1,Performer,0.00222,8,0.204,0.214875,0
+444p,,Efrem Casagrande,3,Performer,0.021709,8,0.242234,0.261845,10662.793084
+445p,,Efrem Kurtz,2,Performer,0.060218,8,0.249076,0.28405,1505.835937
+446p,,Egida Giordani Sartori,1,Performer,0.028713,8,0.232046,0.255297,0
+447p,,Egie Poggiani,3,Performer,0.050767,8,0.256177,0.282066,0
+448p,,Elaine Delmar,25,Performer,0.007719,8,0.214676,0.229421,0
+449p,,Elaine Shaffer,2,Performer,0.028713,8,0.232046,0.255297,0
+450p,,Elaine Weldon,1,Performer,0,0,0,0,0
+451p,,Elda Bianchi,1,Performer,0.021195,8,0.23441,0.254546,0
+452p,,Elda Marino,1,Performer,0.024905,10,0.217346,0.24303,0
+453p,,Elena Borgo,42,Performer,0.009586,8,0.210603,0.227642,0
+454p,,Elena D'Ambrosio,1,Performer,0.00108,10,0.16466,0.171489,0
+455p,,Elena Giusti,45,Performer,0.021195,8,0.23441,0.254546,0
+456p,,Elena Turri,1,Performer,0.007822,10,0.194938,0.212782,0
+457p,,Eleonora Cosmo,35,Performer,0.006385,8,0.215214,0.229315,0
+458p,,Elettra Morini,4,Performer,0.031505,8,0.217497,0.245403,0
+459p,,Elettra Romani,1,Performer,0.00712,8,0.198298,0.21388,0
+460p,,Eli Perrotta,2,Performer,0.052057,8,0.257646,0.284036,9423.679878
+461p,,Elio Boncompagni,1,Performer,0.024905,10,0.217346,0.24303,0
+462p,,Elio Cantamessa,1,Performer,0.007389,10,0.203692,0.219232,0
+463p,,Elio Crovetto,10,Performer,0.00712,8,0.198298,0.21388,0
+464p,,Elio Mauro,15,Performer,0.007719,8,0.214676,0.229421,0
+465p,,Elio Novel,2,Performer,0.00124,10,0.142415,0.148877,0
+466p,,Elisa Vallarino,1,Performer,0.007822,10,0.194938,0.212782,0
+467p,,Elisabetta Fusco,5,Performer,0.007389,10,0.203692,0.219232,0
+468p,,Ella Fitzgerald,7,Performer,0.030781,8,0.239589,0.2654,1605.866221
+469p,,Elly Amling,1,Performer,0.028713,8,0.232046,0.255297,0
+470p,,Elsa Maria Massione,1,Performer,0.005568,10,0.189116,0.205479,0
+471p,,Elsa Triangi,2,Performer,0.005568,10,0.189116,0.205479,0
+472p,,Elsa Uppolo,1,Performer,0.007822,10,0.194938,0.212782,0
+473p,,Elsa Vazzoler,45,Performer,0.071962,8,0.280637,0.310299,8803.1138
+474p,,Elvi Flora,11,Performer,0.002078,8,0.191924,0.202018,0
+475p,,Elvin Jones,2,Performer,0.002385,8,0.199556,0.210663,0
+476p,,Elvina Ramella,2,Performer,0.032094,10,0.223472,0.252571,1159.285066
+477p,,Elvio Calderoni,64,Performer,0.043814,8,0.248224,0.279055,5747.438222
+478p,,Elvio Modonesi,1,Performer,0.003013,10,0.200106,0.213612,0
+479p,,Ely Perrotta,1,Performer,0.050767,8,0.256177,0.282066,0
+480p,,Emile Ghilels,1,Performer,0.028713,8,0.232046,0.255297,0
+481p,,Emilia Cundari,5,Performer,0.024905,10,0.217346,0.24303,0
+482p,,Emilia Georgieva,2,Performer,0.014908,8,0.239528,0.254788,5784.677444
+483p,,Emilio Giani,1,Performer,0.007822,10,0.194938,0.212782,0
+484p,,Emilio Prevedi,2,Performer,0.050767,8,0.256177,0.282066,0
+485p,,Emilio Rinaldi,60,Performer,0.005521,8,0.208647,0.223024,0
+486p,,Emilio Suvini,9,Performer,0.075673,8,0.268574,0.302566,2852.458831
+487p,,Emma Bianchi Gorlero,1,Performer,0.007719,8,0.214676,0.229421,0
+488p,,Emma Contestabile,1,Performer,0.007189,10,0.206365,0.221539,0
+489p,,Emmett Berry,2,Performer,0.050767,8,0.256177,0.282066,0
+490p,,Ennio Gallo,3,Performer,0.01344,8,0.225988,0.243668,0
+491p,,Ennio Gerelli,2,Performer,0.024905,10,0.217346,0.24303,0
+492p,,Enrica Cavallo,3,Performer,0.057956,8,0.25956,0.288169,1941.916083
+493p,,Enrico Campajola,1,Performer,0.007389,10,0.203692,0.219232,0
+494p,,Enrico Dezan,20,Performer,0.043814,8,0.248224,0.279055,5747.438222
+495p,,Enrico Fissore,1,Performer,0.005568,10,0.189116,0.205479,0
+496p,,Enrico Intra,19,Performer,0.035146,8,0.254176,0.278441,8015.964344
+497p,,Enrico Intra Trio,2,Performer,0.006385,8,0.215214,0.229315,0
+498p,,Enrico Mainardi,5,Performer,0.110986,8,0.284787,0.327839,7440.391647
+499p,,Enrico Pessina,2,Performer,0.021195,8,0.23441,0.254546,0
+500p,,Enrico Rava,1,Performer,0.01344,8,0.225988,0.243668,0
+501p,,Enrico Tagliavini,1,Performer,0.01344,8,0.225988,0.243668,0
+502p,,Enrique Gelusini,1,Performer,0.007189,10,0.206365,0.221539,0
+503p,,Ensemble Baroque de Paris,4,Performer,0.029622,8,0.232332,0.25618,9410
+504p,,Enza Catalano,1,Performer,0.009586,8,0.210603,0.227642,0
+505p,,Enza Ferrari,1,Performer,0.01344,8,0.225988,0.243668,0
+506p,,Enza Soldi,1,Performer,0.001061,10,0.165759,0.17534,0
+507p,,Enzo Jannacci,33,Performer,0.030582,8,0.250531,0.274419,23791.392658
+508p,,Enzo Romei,1,Performer,0.00712,8,0.198298,0.21388,0
+509p,,Enzo Salluzzi,1,Performer,0.001824,10,0.170615,0.181825,0
+510p,,Enzo Tarascio,49,Performer,0.005521,8,0.208647,0.223024,0
+511p,,Eraldo Volont�,7,Performer,0.026774,8,0.248551,0.268856,3852.641757
+512p,,Erich Appel,1,Performer,0.005568,10,0.189116,0.205479,0
+513p,,Erich Swinburn,1,Performer,0.000932,2,0.545455,0.583333,0
+514p,,Erik Werba,1,Performer,0.028713,8,0.232046,0.255297,0
+515p,,Ermanno Roveri,65,Performer,0.053036,8,0.257576,0.284433,2809.122452
+516p,,Erminio Macario,101,Performer,0.03111,8,0.241675,0.266407,2709.719554
+517p,,Ernesto Bonino,2,Performer,0.021195,8,0.23441,0.254546,0
+518p,,Ernesto Ferri,1,Performer,0.001813,10,0.187873,0.197561,0
+519p,,Ernesto Halefter,1,Performer,0.050767,8,0.256177,0.282066,0
+520p,,Ernesto Villa,2,Performer,0.002269,8,0.194416,0.205164,0
+521p,,Ernst Busch,2,Performer,0.01344,8,0.225988,0.243668,0
+522p,,Ernst Groeschel,1,Performer,0.005568,10,0.189116,0.205479,0
+523p,,Ernst Maerzendorfer,1,Performer,0.024905,10,0.217346,0.24303,0
+524p,,Ester Grado,1,Performer,0.00712,8,0.198298,0.21388,0
+525p,,Ethel Barrymore Colt,1,Performer,0.000849,10,0.176092,0.183436,0
+526p,,Ettore Bastianini,80,Performer,0.031505,8,0.217497,0.245403,0
+527p,,Ettore Conti,97,Performer,0.0149,8,0.218251,0.237846,415.454575
+528p,,Ettore Gracis,17,Performer,0.107178,8,0.28453,0.328192,9804.157428
+529p,,Ettore Righello,1,Performer,0.006385,8,0.215214,0.229315,0
+530p,,Eugen Jochum,1,Performer,0.031505,8,0.217497,0.245403,0
+531p,,Eugenia Hyman,1,Performer,0.024905,10,0.217346,0.24303,0
+532p,,Eugenio Bagnoli,6,Performer,0.100675,8,0.296605,0.332451,35920.71925
+533p,,Eugenio Mravinskij,2,Performer,0.031505,8,0.217497,0.245403,0
+534p,,Evelina Sironi,57,Performer,0.015961,8,0.221167,0.241141,2195.787695
+535p,,Ezio Marano,20,Performer,0.01344,8,0.225988,0.243668,0
+536p,,Fabien Sevitzky,2,Performer,0.075673,8,0.268574,0.302566,2852.458831
+537p,,Fabio Peressoni,,Performer,0.007189,10,0.206365,0.221539,0
+538p,,Fantanicchio,1,Performer,0.021195,8,0.23441,0.254546,0
+539p,,Fats Domino,2,Performer,0.021195,8,0.23441,0.254546,0
+540p,,Fausto Amodeo,2,Performer,0.002149,10,0.187165,0.198396,0
+541p,,Fausto Cigliano,17,Performer,0.008461,8,0.203516,0.218597,0
+542p,,Fausto Denis,1,Performer,0.021195,8,0.23441,0.254546,0
+543p,,Fausto Rinaldi,1,Performer,0.002298,8,0.200064,0.21113,0
+544p,,Federico Monti Arduini,1,Performer,0.021195,8,0.23441,0.254546,0
+545p,,Fedora Barbieri,2,Performer,0.031505,8,0.217497,0.245403,0
+546p,,Fedora Lazzetti,1,Performer,0.001523,10,0.170184,0.178264,0
+547p,,Feliks Reczkowski,1,Performer,0.024905,10,0.217346,0.24303,0
+548p,,Felix Cameroni,90,Performer,0.001477,10,0.164775,0.174195,0
+549p,,Ferdinando Guarnieri,1,Performer,0.007389,10,0.203692,0.219232,0
+550p,,Ferdinando Tagliavini,1,Performer,0.024905,10,0.217346,0.24303,0
+551p,,Ferenc Fricsay,4,Performer,0.031505,8,0.217497,0.245403,0
+552p,,Fernanda Patriarca,25,Performer,0.01344,8,0.225988,0.243668,0
+553p,,Fernando Corena,1,Performer,0.028713,8,0.232046,0.255297,0
+554p,,Fernando Previtali,9,Performer,0.060218,8,0.249076,0.28405,1505.835937
+555p,,Ferrando Ferrari,1,Performer,0.024905,10,0.217346,0.24303,0
+556p,,Ferruccio Mazzoli,4,Performer,0.031505,8,0.217497,0.245403,0
+557p,,Ferruccio Scaglia,1,Performer,0.050767,8,0.256177,0.282066,0
+558p,,Filarmonica di Berlino,4,Performer,0.031505,8,0.217497,0.245403,0
+559p,,Filarmonica di Londra,2,Performer,0.031505,8,0.217497,0.245403,0
+560p,,Filarmonica di New York,2,Performer,0.031505,8,0.217497,0.245403,0
+561p,,Filarmonica Slovacca,2,Performer,0.028713,8,0.232046,0.255297,0
+562p,,Filarmonici Bayer,1,Performer,0.028713,8,0.232046,0.255297,0
+563p,,Filippo Maero,1,Performer,0.028713,8,0.232046,0.255297,0
+564p,,Filodrammatica della Radio Olandese,1,Performer,0.028713,8,0.232046,0.255297,0
+565p,,Filomena Longo,2,Performer,0.005568,10,0.189116,0.205479,0
+566p,,Fiorella Bini,1,Performer,0.021195,8,0.23441,0.254546,0
+567p,,Fiorella Cova,2,Performer,0.031505,8,0.217497,0.245403,0
+568p,,Fiorenza Cossotto,22,Performer,0.032295,10,0.221167,0.250855,1002.027531
+569p,,Flaviano Lab�,17,Performer,0.031505,8,0.217497,0.245403,0
+570p,,Flavio Ambrosetti,3,Performer,0.02758,8,0.247963,0.269286,2371.836071
+571p,,Flavio Benedetti Michelangeli,1,Performer,0.024905,10,0.217346,0.24303,0
+572p,,Flo Sandon's,2,Performer,0.009522,8,0.206546,0.222289,844.346171
+573p,,Flora Lillo,50,Performer,0.050767,8,0.256177,0.282066,0
+574p,,Flora Torrigiani,1,Performer,0.002149,10,0.187165,0.198396,0
+575p,,Fortunia,166,Performer,0.060395,8,0.268192,0.294941,6877.677415
+576p,,Franca Aldrovandi,1,Performer,0.002298,8,0.200064,0.21113,0
+577p,,Franca Bignami,8,Performer,0.006385,8,0.215214,0.229315,0
+578p,,Franca Rame,176,Performer,0.005314,8,0.200958,0.214131,0
+579p,,Franca Regio,2,Performer,0.007822,10,0.194938,0.212782,0
+580p,,Franca Valeri,23,Performer,0.050767,8,0.256177,0.282066,0
+581p,,Franca Valtingo,1,Performer,0.001523,10,0.170184,0.178264,0
+582p,,Francesco Conti,1,Performer,0.005568,10,0.189116,0.205479,0
+583p,,Francesco Mander,4,Performer,0.075673,8,0.268574,0.302566,2852.458831
+584p,,Francesco Molinari Pradelli,5,Performer,0.110986,8,0.284787,0.327839,7440.391647
+585p,,Francesco Ranzani,1,Performer,0.050767,8,0.256177,0.282066,0
+586p,,Francis Travis,1,Performer,0.003013,10,0.200106,0.213612,0
+587p,,Franco Ambrosetti,1,Performer,0.006385,8,0.215214,0.229315,0
+588p,,Franco Calabrese,20,Performer,0.007389,10,0.203692,0.219232,0
+589p,,Franco Caracciolo,3,Performer,0.075673,8,0.268574,0.302566,2852.458831
+590p,,Franco Cei,1,Performer,0,0,0,0,0
+591p,,Franco Cerri,18,Performer,0.072325,8,0.278401,0.313731,35545.719279
+592p,,Franco Corelli,25,Performer,0.031505,8,0.217497,0.245403,0
+593p,,Franco Covello,2,Performer,0.023007,8,0.235052,0.256224,1239.762991
+594p,,Franco Faglioni,33,Performer,0.002131,10,0.167258,0.17468,752.4
+595p,,Franco Fantini,1,Performer,0.007389,10,0.203692,0.219232,0
+596p,,Franco Ferrari,76,Performer,0.056081,8,0.262448,0.289131,2853.787079
+597p,,Franco Franchi,86,Performer,0.030393,8,0.239771,0.265639,5455.645334
+598p,,Franco Gallini,3,Performer,0.083495,8,0.273955,0.311301,11489.432141
+599p,,Franco Graziosi,32,Performer,0.005314,8,0.200958,0.214131,0
+600p,,Franco Gulli,8,Performer,0.111574,8,0.286865,0.32969,10901.432406
+601p,,Franco Lari,1,Performer,0.006146,10,0.179851,0.195067,0
+602p,,Franco Maggio Ormezowski,1,Performer,0.007822,10,0.194938,0.212782,0
+603p,,Franco Mannino,5,Performer,0.07948,8,0.270344,0.304862,2001.732734
+604p,,Franco Mondini,1,Performer,0.001098,10,0.181025,0.189666,0
+605p,,Franco Morelli,2,Performer,0.002245,10,0.166962,0.178349,0
+606p,,Franco Novello,1,Performer,0.024905,10,0.217346,0.24303,0
+607p,,Franco Parenti,22,Performer,0.050767,8,0.256177,0.282066,0
+608p,,Franco Piva,7,Performer,0.008,10,0.20143,0.218498,2371.950584
+609p,,Franco Ponzoni,33,Performer,0.000961,12,0.125432,0.129051,0
+610p,,Franco Sportelli,93,Performer,0.005521,8,0.208647,0.223024,0
+611p,,Franco Tagliavini,2,Performer,0.002431,10,0.178457,0.187511,0
+612p,,Franco Tonani,1,Performer,0.007719,8,0.214676,0.229421,0
+613p,,Franco Vebari,2,Performer,0.006146,10,0.179851,0.195067,0
+614p,,Franco Ventifriglia,1,Performer,0.003372,8,0.216349,0.227821,0
+615p,,Franco Verbani,21,Performer,0.00086,2,0.555556,0.6,0
+616p,,Franco Verganti,2,Performer,0.038346,8,0.25583,0.281218,15232.944804
+617p,,Franco Vicini,1,Performer,0.002078,8,0.191924,0.202018,0
+618p,,Francoise Ogeas,1,Performer,0.00108,10,0.16466,0.171489,0
+619p,,Frank Boys,1,Performer,0.00712,8,0.198298,0.21388,0
+620p,,Frank Dunlop,2,Performer,0.021195,8,0.23441,0.254546,0
+621p,,Frank Glazer,1,Performer,0.00129,10,0.177017,0.18653,0
+622p,,Frank Pelleg,1,Performer,0.050767,8,0.256177,0.282066,0
+623p,,Frank Sinatra,2,Performer,0.013051,8,0.222105,0.240169,553.364769
+624p,,Fratelli De Vico,2,Performer,0.00712,8,0.198298,0.21388,0
+625p,,Fraternity Brothers,1,Performer,0,0,0,0,0
+626p,,Fred Buscaglione,2,Performer,0.022653,8,0.234701,0.255429,775.289987
+627p,,Fredell Lack,1,Performer,0.050767,8,0.256177,0.282066,0
+628p,,Frederic Rzewski,1,Performer,0.000578,1,1,1,0
+629p,,Frederick Prausnitz,4,Performer,0.07948,8,0.270344,0.304862,2001.732734
+630p,,Fredo Pistoni,1,Performer,0.00712,8,0.198298,0.21388,0
+631p,,Frieder Weissman,2,Performer,0.075673,8,0.268574,0.302566,2852.458831
+632p,,Friedl Genk,1,Performer,0.050767,8,0.256177,0.282066,0
+633p,,Friedrich Gulda,6,Performer,0.028713,8,0.232046,0.255297,0
+634p,,Fritz Buechtger,1,Performer,0.028713,8,0.232046,0.255297,0
+635p,,Fritz Ernst,1,Performer,0.005568,10,0.189116,0.205479,0
+636p,,Fulvia Velli,1,Performer,0.001813,10,0.187873,0.197561,0
+637p,,Fulvio Montanaro,5,Performer,0.050767,8,0.256177,0.282066,0
+638p,,Fulvio Vernizzi,2,Performer,0.028713,8,0.232046,0.255297,0
+639p,,Furio Ciapetti,21,Performer,0.01344,8,0.225988,0.243668,0
+640p,,Gabor Otvos,3,Performer,0.075673,8,0.268574,0.302566,2852.458831
+641p,,Gabriel Tachinau,1,Performer,0.028713,8,0.232046,0.255297,0
+642p,,Gabriele Bellini,1,Performer,0.024905,10,0.217346,0.24303,0
+643p,,Gabriele Foresta,1,Performer,0.000932,2,0.545455,0.583333,0
+644p,,Gabriele Santini,16,Performer,0.031505,8,0.217497,0.245403,0
+645p,,Gabriella Andreini,44,Performer,0.050767,8,0.256177,0.282066,0
+646p,,Gabriella Barsotti,1,Performer,0.007822,10,0.194938,0.212782,0
+647p,,Gabriella Carturan,1,Performer,0.050767,8,0.256177,0.282066,0
+648p,,Gabriella Galli Angelini,1,Performer,0.005568,10,0.189116,0.205479,0
+649p,,Gabriella Giacobbe,43,Performer,0.005521,8,0.208647,0.223024,0
+650p,,Gabriella Piva,5,Performer,0.002245,10,0.166962,0.178349,0
+651p,,Gabriella Rossi,1,Performer,0.007822,10,0.194938,0.212782,0
+652p,,Gabriella Tucci,13,Performer,0.060218,8,0.249076,0.28405,1505.835937
+653p,,Gaetano Ferranti,1,Performer,0.007189,10,0.206365,0.221539,0
+654p,,Gaspar Cassad�,3,Performer,0.082273,8,0.271121,0.308487,3932.822976
+655p,,Gastone Bartolucci,14,Performer,0.002385,8,0.199556,0.210663,0
+656p,,Gastone Limarilli,5,Performer,0.031505,8,0.217497,0.245403,0
+657p,,Gastone Parigi,3,Performer,0.010285,8,0.204531,0.22092,899.376878
+658p,,Gastone Tassinari,6,Performer,0.02714,10,0.2181,0.245052,577.727469
+659p,,G� Speranza,1,Performer,0.008461,8,0.203516,0.218597,0
+660p,,Geg� Di Giacomo,1,Performer,0.021195,8,0.23441,0.254546,0
+661p,,Gene Colonnello,4,Performer,0.007207,10,0.183097,0.199977,385.399955
+662p,,Gene Quill,2,Performer,0.009586,8,0.210603,0.227642,0
+663p,,Gene Ramey,2,Performer,0.050767,8,0.256177,0.282066,0
+664p,,Gennaro D'Onofrio,1,Performer,0.024905,10,0.217346,0.24303,0
+665p,,Geo Giussani,5,Performer,0.031505,8,0.217497,0.245403,0
+666p,,George Gruntz,2,Performer,0.006385,8,0.215214,0.229315,0
+667p,,George Joyner,25,Performer,0.019826,8,0.229339,0.250698,497.468769
+668p,,George Shirley,2,Performer,0.050767,8,0.256177,0.282066,0
+669p,,George Szell,4,Performer,0.031505,8,0.217497,0.245403,0
+670p,,George Walker,1,Performer,0.007822,10,0.194938,0.212782,0
+671p,,Georgia Davis,1,Performer,0.000849,10,0.176092,0.183436,0
+672p,,Gerard Sety,1,Performer,0.01344,8,0.225988,0.243668,0
+673p,,Gerard Souray,2,Performer,0.07948,8,0.270344,0.304862,2001.732734
+674p,,Germaine Montero,6,Performer,0.01344,8,0.225988,0.243668,0
+675p,,Gerry Mulligan,3,Performer,0.030781,8,0.239589,0.2654,1605.866221
+676p,,Geza Anda,5,Performer,0.050767,8,0.256177,0.282066,0
+677p,,Gherardo Macarini Carmignani,2,Performer,0.07948,8,0.270344,0.304862,2001.732734
+678p,,Ghigo,1,Performer,0.021195,8,0.23441,0.254546,0
+679p,,Giacomo Bogliolo,1,Performer,0,0,0,0,0
+680p,,Giacomo Rondinella,3,Performer,0.00712,8,0.198298,0.21388,0
+681p,,Giampaolo Corradi,2,Performer,0.050767,8,0.256177,0.282066,0
+682p,,Giampiero Malaspina,4,Performer,0.031505,8,0.217497,0.245403,0
+683p,,Gian Costello,1,Performer,0.021195,8,0.23441,0.254546,0
+685p,,Gian Giacomo Guelfi,5,Performer,0.031505,8,0.217497,0.245403,0
+686p,,Gian Luigi Franz,1,Performer,0.01344,8,0.225988,0.243668,0
+687p,,Gian Stellari,1,Performer,0.050767,8,0.256177,0.282066,0
+688p,,Gianandrea Gavazzeni,75,Performer,0.031505,8,0.217497,0.245403,0
+689p,,Gianbruna Rizzardini,4,Performer,0.002431,10,0.178457,0.187511,0
+690p,,Giancarlo Caio,14,Performer,0.001425,10,0.15951,0.167741,0
+691p,,Giancarlo Cobelli,78,Performer,0.026351,8,0.244811,0.266473,9783.949593
+692p,,Giancarlo Fusco,21,Performer,0.005521,8,0.208647,0.223024,0
+693p,,Giancarlo Morganti,1,Performer,0.007189,10,0.206365,0.221539,0
+694p,,Gianfranco Monicelli,1,Performer,0.000876,12,0.137416,0.143796,0
+695p,,Gianfranco Spinelli,13,Performer,0.056954,8,0.258069,0.28597,4873.436612
+696p,,Gianluigi Franz,1,Performer,0.024905,10,0.217346,0.24303,0
+697p,,Gianna Galli,3,Performer,0.031505,8,0.217497,0.245403,0
+698p,,Gianna Maritati,2,Performer,0.050767,8,0.256177,0.282066,0
+699p,,Gianna May,1,Performer,0.009586,8,0.210603,0.227642,0
+700p,,Gianni Ales,4,Performer,0.002946,8,0.19212,0.202901,9410
+701p,,Gianni Basso,13,Performer,0.038949,8,0.257435,0.282224,10370.901338
+702p,,Gianni Bonagura,33,Performer,0.050767,8,0.256177,0.282066,0
+703p,,Gianni Cajafa,144,Performer,0.067937,7,0.271824,0.303158,40786.030637
+704p,,Gianni Cazzola,1,Performer,0.006385,8,0.215214,0.229315,0
+705p,,Gianni Galavotti,32,Performer,0.005314,8,0.200958,0.214131,0
+706p,,Gianni Guglielmo,2,Performer,0.001532,8,0.181617,0.190101,0
+707p,,Gianni Jaia,7,Performer,0.031505,8,0.217497,0.245403,0
+708p,,Gianni Quinjolly,1,Performer,0.000578,1,1,1,0
+709p,,Gianni Raimondi,42,Performer,0.031505,8,0.217497,0.245403,0
+710p,,Gianni Rauchi,5,Performer,0.002078,8,0.191924,0.202018,0
+711p,,Gianni Rotino,1,Performer,0.002252,8,0.196932,0.207754,0
+712p,,Gianni Wilhelm,1,Performer,0.024905,10,0.217346,0.24303,0
+713p,,Giberto Cuppini,1,Performer,0.006385,8,0.215214,0.229315,0
+714p,,Gigi Chichellero,1,Performer,0.009586,8,0.210603,0.227642,0
+715p,,Gigi Cova,3,Performer,0.008597,8,0.199514,0.216406,1208.445552
+717p,,Gigi Pistilli,20,Performer,0.01344,8,0.225988,0.243668,0
+718p,,Gigliola Rizzato,1,Performer,0.050767,8,0.256177,0.282066,0
+719p,,Gil Cuppini Quintett,1,Performer,0.001532,8,0.181617,0.190101,0
+720p,,Gilberto Cuppini,15,Performer,0.023507,8,0.242296,0.262702,3893.996423
+722p,,Gilberto Tofano,3,Performer,0.01344,8,0.225988,0.243668,0
+723p,,Gildo Giacobbe,1,Performer,0.024905,10,0.217346,0.24303,0
+724p,,Gin Brothers,1,Performer,0.006146,10,0.179851,0.195067,0
+725p,,Gina Cigna,1,Performer,0.009586,8,0.210603,0.227642,0
+726p,,Gina Consolandi,8,Performer,0.009586,8,0.210603,0.227642,0
+727p,,Gino Belloni,8,Performer,0.009586,8,0.210603,0.227642,0
+728p,,Gino Besana,1,Performer,0.005568,10,0.189116,0.205479,0
+729p,,Gino Bramieri,88,Performer,0.056081,8,0.262448,0.289131,2853.787079
+730p,,Gino Corcelli,1,Performer,0.007719,8,0.214676,0.229421,0
+731p,,Gino Diamanti,1,Performer,0.050767,8,0.256177,0.282066,0
+732p,,Gino Gandolfi,1,Performer,0.050767,8,0.256177,0.282066,0
+733p,,Gino Gorini,7,Performer,0.107178,8,0.28453,0.328192,9804.157428
+734p,,Gino Latilla,1,Performer,0.006146,10,0.179851,0.195067,0
+735p,,Gino Negri,1,Performer,0.003372,8,0.216349,0.227821,0
+736p,,Gino Paoli,5,Performer,0.032977,8,0.240321,0.26721,4065.967406
+737p,,Gioconda De Vito,6,Performer,0.110986,8,0.284787,0.327839,7440.391647
+738p,,Gioietti Paoli Padova,1,Performer,0.002234,10,0.188323,0.200445,0
+739p,,Giorgia,2,Performer,0.021195,8,0.23441,0.254546,0
+740p,,Giorgio Azzolini,1,Performer,0.006385,8,0.215214,0.229315,0
+741p,,Giorgio Buratto,1,Performer,0.01344,8,0.225988,0.243668,0
+742p,,Giorgio Consolini,18,Performer,0.029656,8,0.236941,0.260136,317.954188
+743p,,Giorgio Gaber,26,Performer,0.047405,8,0.261285,0.290572,9323.84677
+744p,,Giorgio Gaslini,7,Performer,0.078309,7,0.281138,0.313413,17728.132909
+745p,,Giorgio Mazza,1,Performer,0.00712,8,0.198298,0.21388,0
+746p,,Giorgio Tadeo,9,Performer,0.032295,10,0.221167,0.250855,1002.027531
+747p,,Giorgio Tozzi,5,Performer,0.031505,8,0.217497,0.245403,0
+748p,,Giorgio Vanni,1,Performer,0.000688,10,0.153815,0.15936,0
+749p,,Giovanna Calzi,1,Performer,0.005568,10,0.189116,0.205479,0
+750p,,Giovanna Fioroni,1,Performer,0.028713,8,0.232046,0.255297,0
+751p,,Giovanni Capitelli,1,Performer,0.000932,2,0.545455,0.583333,0
+752p,,Giovanni Dell'Agnola,1,Performer,0.028713,8,0.232046,0.255297,0
+753p,,Giovanni Gibin,2,Performer,0.031505,8,0.217497,0.245403,0
+754p,,Giovanni Tommaso,2,Performer,0.007719,8,0.214676,0.229421,0
+755p,,Gisela May,8,Performer,0.018961,8,0.231989,0.25197,549.621415
+756p,,Giuliana Bordoni,1,Performer,0.050767,8,0.256177,0.282066,0
+757p,,Giuliana Matteini,1,Performer,0.024905,10,0.217346,0.24303,0
+758p,,Giuliana Raucci,2,Performer,0.034281,8,0.23712,0.264385,11107.586485
+759p,,Giulietta Simionato,35,Performer,0.031505,8,0.217497,0.245403,0
+760p,,Giulio Bertola,4,Performer,0.104386,8,0.283248,0.32432,6933.647706
+761p,,Giulio Confalonieri,2,Performer,0.01344,8,0.225988,0.243668,0
+762p,,Giulio Finardi,1,Performer,0.000876,12,0.137416,0.143796,0
+763p,,Giulio Floravanti,4,Performer,0.031505,8,0.217497,0.245403,0
+764p,,Giulio Libano,5,Performer,0.018311,8,0.23108,0.249507,1621.734293
+765p,,Giulio Montano,1,Performer,0.01344,8,0.225988,0.243668,0
+766p,,Giuseppe Aliprandi,1,Performer,0.006385,8,0.215214,0.229315,0
+767p,,Giuseppe Baratti,2,Performer,0.024905,10,0.217346,0.24303,0
+768p,,Giuseppe Campora,2,Performer,0.031505,8,0.217497,0.245403,0
+769p,,Giuseppe De Don�,2,Performer,0.024905,10,0.217346,0.24303,0
+770p,,Giuseppe Di Stefano,6,Performer,0.060218,8,0.249076,0.28405,1505.835937
+771p,,Giuseppe Fanciulli,1,Performer,0.000688,10,0.153815,0.15936,0
+772p,,Giuseppe Modesti,6,Performer,0.038895,8,0.227624,0.257449,566.585374
+773p,,Giuseppe Postiglione,3,Performer,0.050767,8,0.256177,0.282066,0
+774p,,Giuseppina Guio,1,Performer,0.021195,8,0.23441,0.254546,0
+775p,,Giustino Durano,76,Performer,0.011855,8,0.215018,0.233254,441.787073
+776p,,Gladys Castanier,1,Performer,0.003372,8,0.216349,0.227821,0
+777p,,Glauco Mari,44,Performer,0.009586,8,0.210603,0.227642,0
+778p,,Glauco Masetti,12,Performer,0.034004,8,0.241985,0.267419,4853.613074
+779p,,Glauco Onorato,41,Performer,0.001296,2,0.52381,0.545455,0
+780p,,Glauco Scarlini,26,Performer,0.005314,8,0.200958,0.214131,0
+781p,,Glauco Verozzi,2,Performer,0.002431,10,0.178457,0.187511,0
+782p,,Gleen Myers,2,Performer,0.002298,8,0.200064,0.21113,0
+783p,,Gloria Davy,8,Performer,0.132404,8,0.309547,0.35385,61746.346947
+785p,,Gloria Ferrari,1,Performer,0.007822,10,0.194938,0.212782,0
+786p,,Gloria Handy,11,Performer,0.001296,2,0.52381,0.545455,0
+787p,,Gloria Lane,4,Performer,0.007389,10,0.203692,0.219232,0
+788p,,Gloria Paul,93,Performer,0.021195,8,0.23441,0.254546,0
+789p,,Goffredo Petrassi,2,Performer,0.053618,8,0.246152,0.280398,2079.456142
+790p,,Gorni Kramer,6,Performer,0.037375,8,0.243547,0.270055,1913.842649
+791p,,Grande orchestra R.C.A.,9,Performer,0.008461,8,0.203516,0.218597,0
+792p,,Grazia Junko,19,Performer,0.007719,8,0.214676,0.229421,0
+793p,,Grazia Maria Spina,26,Performer,0.050767,8,0.256177,0.282066,0
+794p,,Graziella Sciutti,10,Performer,0.007389,10,0.203692,0.219232,0
+795p,,Groupe du theatre antique de la Sorbonne,4,Performer,0.00117,10,0.167198,0.174194,0
+796p,,Gruppo Barocco Lombardo,1,Performer,0.000578,1,1,1,0
+797p,,Gruppo dei concerti del Politecnico,2,Performer,0.009246,10,0.203341,0.221342,557.222502
+798p,,gruppo di danze popolari di Rajamaki,1,Performer,0.024905,10,0.217346,0.24303,0
+799p,,Gruppo strumentale Ferro,1,Performer,0,0,0,0,0
+800p,,Gruppo strumentale Philomusica di Londra,2,Performer,0.050767,8,0.256177,0.282066,0
+801p,,Gruppo strumentale Santa Cecilia,1,Performer,0.01344,8,0.225988,0.243668,0
+802p,,Guido Camillucci,1,Performer,0.001593,10,0.192002,0.204552,0
+803p,,Guido Gheduzzi,1,Performer,0.005521,8,0.208647,0.223024,0
+804p,,Gulseren Sadak,1,Performer,0.001523,10,0.170184,0.178264,0
+805p,,Gurg von Vintschger,1,Performer,0.050767,8,0.256177,0.282066,0
+806p,,Gustav Neidlinger,4,Performer,0.031505,8,0.217497,0.245403,0
+807p,,Guy Severins,43,Performer,0.007719,8,0.214676,0.229421,0
+808p,,Gyory Cziffra,1,Performer,0.028713,8,0.232046,0.255297,0
+809p,,Hans Fazzari,2,Performer,0.016812,8,0.238498,0.25538,440.62007
+810p,,Hans Gillesberger,2,Performer,0.031505,8,0.217497,0.245403,0
+811p,,Hans Kennel,1,Performer,0.009586,8,0.210603,0.227642,0
+812p,,Hans Schmitt,1,Performer,0.01344,8,0.225988,0.243668,0
+813p,,Hans Swarowski,1,Performer,0.024905,10,0.217346,0.24303,0
+814p,,Harold Bradley,11,Performer,0.001296,2,0.52381,0.545455,0
+815p,,Harold Nicholas,12,Performer,0.007719,8,0.214676,0.229421,0
+816p,,Harry Belafonte,4,Performer,0.050767,8,0.256177,0.282066,0
+817p,,Heidi Bung,1,Performer,0.024905,10,0.217346,0.24303,0
+819p,,Helen Merrill,1,Performer,0.006385,8,0.215214,0.229315,0
+820p,,Helmut Barth,1,Performer,0.050767,8,0.256177,0.282066,0
+821p,,Helmut Hunger,2,Performer,0.026329,10,0.222576,0.248464,2022.715436
+822p,,Helmut Melchert,4,Performer,0.031505,8,0.217497,0.245403,0
+823p,,Helmut Roloff,1,Performer,0.050767,8,0.256177,0.282066,0
+824p,,Henghel Gualdi,14,Performer,0.00445,8,0.20709,0.219641,1716.027961
+825p,,Henri Gui,4,Performer,0.031505,8,0.217497,0.245403,0
+826p,,Henri Pujol,1,Performer,0.028713,8,0.232046,0.255297,0
+827p,,Henry Patterson,1,Performer,0.01344,8,0.225988,0.243668,0
+828p,,Henry Szeryng,1,Performer,0.050767,8,0.256177,0.282066,0
+829p,,Henry Wilson,17,Performer,0.007719,8,0.214676,0.229421,0
+830p,,Henry Wright,2,Performer,0.021195,8,0.23441,0.254546,0
+831p,,Herb Hellis,1,Performer,0.009586,8,0.210603,0.227642,0
+832p,,Herbert Albert,9,Performer,0.050767,8,0.256177,0.282066,0
+833p,,Herbert Handt,7,Performer,0.007389,10,0.203692,0.219232,0
+834p,,Herbert Stengel,1,Performer,0.031291,8,0.246023,0.269718,12028.928259
+835p,,Herbert von Karajan,12,Performer,0.031505,8,0.217497,0.245403,0
+836p,,Herbie Lewis,1,Performer,0.009586,8,0.210603,0.227642,0
+837p,,Hermann Michael,2,Performer,0.050767,8,0.256177,0.282066,0
+838p,,Hermann Prey,1,Performer,0.028713,8,0.232046,0.255297,0
+839p,,Hermann Scherchen,20,Performer,0.082273,8,0.271121,0.308487,3932.822976
+840p,,Hermilo Novelo,1,Performer,0.007719,8,0.214676,0.229421,0
+841p,,Hilde Guden,4,Performer,0.031505,8,0.217497,0.245403,0
+842p,,Horacina Correa,1,Performer,0.001458,10,0.18099,0.190147,0
+843p,,Hubert Mahler,1,Performer,0.005568,10,0.189116,0.205479,0
+844p,,I 4 Bristol,3,Performer,0.00124,10,0.142415,0.148877,0
+845p,,I 5 Astors,4,Performer,0.008361,8,0.198715,0.215426,18770
+846p,,I 5 Dandies,1,Performer,0.002078,8,0.191924,0.202018,0
+847p,,I 5 Gielle,36,Performer,0.000985,10,0.165788,0.170879,0
+848p,,I 5 Toscani,1,Performer,0.00124,10,0.142415,0.148877,0
+849p,,I Brutos,37,Performer,0.040921,8,0.246667,0.276459,9734.902572
+850p,,I Caballeros D'Espana,1,Performer,0.001824,10,0.170615,0.181825,0
+851p,,I cadetti del Jazz,1,Performer,0.00712,8,0.198298,0.21388,0
+852p,,I Campioni,12,Performer,0.035444,8,0.239224,0.26503,5690.059961
+853p,,i Cinque Marcellini,1,Performer,0.002298,8,0.200064,0.21113,0
+854p,,i Classici,1,Performer,0.002298,8,0.200064,0.21113,0
+855p,,I Continentals,3,Performer,0.002837,8,0.196973,0.208107,1886
+856p,,I Framez,1,Performer,0.000718,2,0.6,0.666667,0
+857p,,i Grisbi,2,Performer,0.001824,10,0.170615,0.181825,0
+858p,,I Legnanesi,172,Performer,0.049809,8,0.249934,0.282756,10528.628641
+859p,,I Marcellini,3,Performer,0.002298,8,0.200064,0.21113,0
+860p,,i Matadors,2,Performer,0.000718,2,0.6,0.666667,0
+861p,,i Midas,43,Performer,0.001477,10,0.164775,0.174195,0
+862p,,i Musici,6,Performer,0.08324,8,0.275073,0.310302,25765.467341
+863p,,i Musici 60,1,Performer,0.002298,8,0.200064,0.21113,0
+864p,,I musici cantori,1,Performer,0.005568,10,0.189116,0.205479,0
+865p,,i Ribelli,1,Performer,0.001136,10,0.177483,0.186098,0
+866p,,I Robby's,15,Performer,0.007719,8,0.214676,0.229421,0
+867p,,I Rock G.3,1,Performer,0.00712,8,0.198298,0.21388,0
+868p,,I solisti di Milano,1,Performer,0.050767,8,0.256177,0.282066,0
+869p,,I Solisti di Vienna,1,Performer,0.050767,8,0.256177,0.282066,0
+870p,,I solisti di Zagabria,2,Performer,0.030174,8,0.232446,0.256445,1278.398783
+871p,,I solisti veneti,1,Performer,0.001424,10,0.183311,0.193758,0
+872p,,i Tre Menestrelli,12,Performer,0.01344,8,0.225988,0.243668,0
+873p,,I virtuosi di Roma,4,Performer,0.060218,8,0.249076,0.28405,1505.835937
+874p,,Ida Haendel,2,Performer,0.028713,8,0.232046,0.255297,0
+875p,,Ida Presti,1,Performer,0.050767,8,0.256177,0.282066,0
+876p,,Ida Tizzani,2,Performer,0.003812,8,0.223102,0.233653,332.293062
+877p,,Iginio Ricco,4,Performer,0.002431,10,0.178457,0.187511,0
+878p,,Ilse Wallenstein,1,Performer,0.028713,8,0.232046,0.255297,0
+879p,,Ilya Lopez,1,Performer,0.001083,10,0.164775,0.173641,0
+880p,,Irene Comparez,16,Performer,0.092513,8,0.2657,0.311351,9320.450914
+881p,,Irene Bassi Ferrari,6,Performer,0.03517,10,0.221427,0.253293,1968.007879
+883p,,Ireneo Fuser,1,Performer,0.024905,10,0.217346,0.24303,0
+884p,,Irma Bozzi Lucca,13,Performer,0.086508,8,0.274833,0.312979,13761.688026
+885p,,Irmgard Seefried,1,Performer,0.028713,8,0.232046,0.255297,0
+886p,,Isaac Stern,5,Performer,0.060218,8,0.249076,0.28405,1505.835937
+887p,,Isabella Del Bianco,44,Performer,0.009586,8,0.210603,0.227642,0
+888p,,Isacco Rinaldi,1,Performer,0.050767,8,0.256177,0.282066,0
+889p,,Iside Minelli,1,Performer,0.021195,8,0.23441,0.254546,0
+890p,,Isidor Lateiner,2,Performer,0.050767,8,0.256177,0.282066,0
+891p,,Istvan Kertesz,6,Performer,0.031505,8,0.217497,0.245403,0
+892p,,Ivan Sardi,2,Performer,0.050767,8,0.256177,0.282066,0
+893p,,Ivo Vinco,34,Performer,0.031505,8,0.217497,0.245403,0
+894p,,J. Gerard,2,Performer,0.006146,10,0.179851,0.195067,0
+895p,,Jacques Chapuls,1,Performer,0.00129,10,0.177017,0.18653,0
+896p,,Jacques Hess,2,Performer,0.021195,8,0.23441,0.254546,0
+897p,,Jacques Loussier,7,Performer,0.005521,8,0.208647,0.223024,0
+898p,,Jacques Peltzer,4,Performer,0.020924,8,0.229674,0.251714,2143.980759
+899p,,Jak Guerrini,1,Performer,0.00712,8,0.198298,0.21388,0
+900p,,James Loomis,1,Performer,0,0,0,0,0
+901p,,Jampolsky Volf Efimovich,1,Performer,0.028713,8,0.232046,0.255297,0
+902p,,Jan Johansson,1,Performer,0.021195,8,0.23441,0.254546,0
+903p,,Jan Krenz,2,Performer,0.031505,8,0.217497,0.245403,0
+904p,,Jane Russell,3,Performer,0.021195,8,0.23441,0.254546,0
+905p,,Janine Andrade,1,Performer,0.000909,10,0.158758,0.165962,0
+906p,,Janine Dacosta,1,Performer,0.007389,10,0.203692,0.219232,0
+907p,,Jascha Orenstein,2,Performer,0.031505,8,0.217497,0.245403,0
+908p,,Jay Riley,11,Performer,0.001296,2,0.52381,0.545455,0
+909p,,Jean Jacques Grunenwald,1,Performer,0.024905,10,0.217346,0.24303,0
+910p,,Jean Martinon,1,Performer,0.050767,8,0.256177,0.282066,0
+911p,,Jean Nicaud,2,Performer,0.006146,10,0.179851,0.195067,0
+912p,,Jeanne Hericard,1,Performer,0.003013,10,0.200106,0.213612,0
+913p,,Jenny Astruc,59,Performer,0.007138,8,0.205064,0.219542,977.889988
+914p,,Jenny Luna,1,Performer,0.021195,8,0.23441,0.254546,0
+915p,,Jerry Mulligan,2,Performer,0.009586,8,0.210603,0.227642,0
+916p,,Jim Hall,3,Performer,0.030781,8,0.239589,0.2654,1605.866221
+917p,,Jim Reider,2,Performer,0.009586,8,0.210603,0.227642,0
+918p,,Jimmy Fontana,4,Performer,0.034635,8,0.255207,0.278578,2368.431336
+919p,,Jimmy Garrison,2,Performer,0.002385,8,0.199556,0.210663,0
+920p,,Jimmy Giuffre,2,Performer,0.009586,8,0.210603,0.227642,0
+921p,,Jimmy Pratt,4,Performer,0.022045,8,0.23091,0.253295,1443.148469
+922p,,Jimmy Rushing,2,Performer,0.007719,8,0.214676,0.229421,0
+923p,,Jimmy Witherspoon,2,Performer,0.050767,8,0.256177,0.282066,0
+924p,,Jo Fedeli,1,Performer,0.021195,8,0.23441,0.254546,0
+925p,,Joachin Achucarro,1,Performer,0.028713,8,0.232046,0.255297,0
+926p,,Joan Holley,1,Performer,0.028713,8,0.232046,0.255297,0
+927p,,Joan Sutherland,27,Performer,0.031505,8,0.217497,0.245403,0
+928p,,Joaquin Achucarro,1,Performer,0.007189,10,0.206365,0.221539,0
+929p,,Joe Sentieri,21,Performer,0.037375,8,0.243547,0.270055,1913.842649
+930p,,Joe Turner,2,Performer,0.009586,8,0.210603,0.227642,0
+931p,,Joe Williams,2,Performer,0.021195,8,0.23441,0.254546,0
+932p,,Joerge Demus,3,Performer,0.001461,10,0.177751,0.186912,0
+933p,,Johanna Martzy,1,Performer,0.007822,10,0.194938,0.212782,0
+934p,,John Allen,1,Performer,0.007189,10,0.206365,0.221539,0
+935p,,John Barbirolli,2,Performer,0.031505,8,0.217497,0.245403,0
+936p,,John Coltrane,3,Performer,0.02358,8,0.237897,0.259218,4272.882387
+937p,,John Gilpin,5,Performer,0.031505,8,0.217497,0.245403,0
+938p,,John Modenos,3,Performer,0.050767,8,0.256177,0.282066,0
+939p,,Johnny Borruto,4,Performer,0.006146,10,0.179851,0.195067,0
+940p,,Johnny Dorelli,6,Performer,0.061041,8,0.269341,0.296146,13216.745466
+941p,,Johnny Mangano,1,Performer,0,0,0,0,0
+942p,,Johnny Ore,2,Performer,0.021195,8,0.23441,0.254546,0
+943p,,Johnny Ray,2,Performer,0.002196,8,0.188323,0.198191,0
+944p,,Jolanda Mancini,1,Performer,0.050767,8,0.256177,0.282066,0
+945p,,Jolanda Rossini,1,Performer,0.050767,8,0.256177,0.282066,0
+946p,,Jolanda Torriani,1,Performer,0.003013,10,0.200106,0.213612,0
+947p,,Jole Silvani,21,Performer,0.01344,8,0.225988,0.243668,0
+948p,,Jole Vona,8,Performer,0.006385,8,0.215214,0.229315,0
+949p,,Jon Vickers,5,Performer,0.031505,8,0.217497,0.245403,0
+950p,,Jon Voicu,2,Performer,0.050767,8,0.256177,0.282066,0
+951p,,Jos�,1,Performer,0.000648,2,0.666667,0.75,0
+952p,,Jos� Iturbi,1,Performer,0.021195,8,0.23441,0.254546,0
+953p,,Jose Kahan,1,Performer,0.005568,10,0.189116,0.205479,0
+954p,,Jos� Mascolo,1,Performer,0.006385,8,0.215214,0.229315,0
+955p,,Jos� Padilla,3,Performer,0.01344,8,0.225988,0.243668,0
+956p,,Jos� Rodriguez Farr�,3,Performer,0.075673,8,0.268574,0.302566,2852.458831
+957p,,Josef Greindl,4,Performer,0.031505,8,0.217497,0.245403,0
+958p,,Joseph Eger,1,Performer,0.028713,8,0.232046,0.255297,0
+959p,,Joseph Sopher,1,Performer,0.024905,10,0.217346,0.24303,0
+960p,,Joseph Suk,1,Performer,0.028713,8,0.232046,0.255297,0
+961p,,Josephine Baker,31,Performer,0.007719,8,0.214676,0.229421,0
+962p,,Judith Ellwig,5,Performer,0.038895,8,0.227624,0.257449,566.585374
+963p,,Judith Winter,1,Performer,0.001523,10,0.170184,0.178264,0
+964p,,Jula De Palma,1,Performer,0.021195,8,0.23441,0.254546,0
+965p,,Julie Andr�,3,Performer,0.01344,8,0.225988,0.243668,0
+966p,,Juliette Greco,20,Performer,0.01344,8,0.225988,0.243668,0
+967p,,Julius Katchen,1,Performer,0.028713,8,0.232046,0.255297,0
+968p,,June Richmond,11,Performer,0.007719,8,0.214676,0.229421,0
+969p,,Kaebi Laretei,3,Performer,0.054139,8,0.258706,0.285837,1594.720994
+970p,,Kammerchor di Vienna,2,Performer,0.031505,8,0.217497,0.245403,0
+971p,,Kammerorchester Wilhehm Stross,1,Performer,0.00129,10,0.177017,0.18653,0
+972p,,Karel Ancerl,2,Performer,0.031505,8,0.217497,0.245403,0
+973p,,Karl Boehm,10,Performer,0.038895,8,0.227624,0.257449,566.585374
+974p,,Karl Engel,1,Performer,0.028713,8,0.232046,0.255297,0
+975p,,Karl Harrington,1,Performer,0.002269,8,0.194416,0.205164,0
+976p,,Karl Randolf,1,Performer,0.024905,10,0.217346,0.24303,0
+977p,,Karl Ristenpart,1,Performer,0.024905,10,0.217346,0.24303,0
+978p,,Kate Geier,1,Performer,0.006385,8,0.215214,0.229315,0
+979p,,Kathleen Kay,1,Performer,0.001523,10,0.170184,0.178264,0
+980p,,Kenneth Rondett,3,Performer,0.036432,8,0.256595,0.278736,15152.664012
+981p,,Kenny Clarke,1,Performer,0.009586,8,0.210603,0.227642,0
+982p,,Kenny Drew,3,Performer,0.005521,8,0.208647,0.223024,0
+983p,,Kiki Bernasconi,1,Performer,0.050767,8,0.256177,0.282066,0
+984p,,Kiril Kondrascin,3,Performer,0.082273,8,0.271121,0.308487,3932.822976
+985p,,Kurt Bauer,1,Performer,0.024905,10,0.217346,0.24303,0
+986p,,Kurt Prestel,2,Performer,0.031505,8,0.217497,0.245403,0
+987p,,Kurt Schmitt,1,Performer,0.01344,8,0.225988,0.243668,0
+988p,,Kurt Wolfgang Senn,1,Performer,0.024905,10,0.217346,0.24303,0
+989p,,La nouvelle com�die et l'orchestre du Brabant,2,Performer,0.002385,8,0.199556,0.210663,0
+990p,,Ladislav Slovak,1,Performer,0.028713,8,0.232046,0.255297,0
+991p,,Lado,1,Performer,0.050767,8,0.256177,0.282066,0
+992p,,Larry Ritchie,3,Performer,0.005521,8,0.208647,0.223024,0
+993p,,Lars Gullin,4,Performer,0.01324,8,0.233597,0.250001,1495.287104
+994p,,Laszlo Somogyi,5,Performer,0.082273,8,0.271121,0.308487,3932.822976
+995p,,Laura Ambroso,6,Performer,0.01344,8,0.225988,0.243668,0
+996p,,Laura Betti,33,Performer,0.01344,8,0.225988,0.243668,0
+998p,,Laura Londi,2,Performer,0.024905,10,0.217346,0.24303,0
+999p,,Laura Zanini,1,Performer,0.024905,10,0.217346,0.24303,0
+1000p,,Lauretta Masiero,53,Performer,0.01724,8,0.213124,0.233063,540.282372
+1001p,,Le ballet de Pierre Franck,10,Performer,0.00712,8,0.198298,0.21388,0
+1002p,,Lea Cartaino Silvestri,1,Performer,0.024905,10,0.217346,0.24303,0
+1003p,,Leda Devi,1,Performer,0.021195,8,0.23441,0.254546,0
+1004p,,Lee Barbieri Gato,1,Performer,0.01344,8,0.225988,0.243668,0
+1005p,,Lee Schaenen,1,Performer,0.024905,10,0.217346,0.24303,0
+1006p,,Leny Escudero,12,Performer,0.01344,8,0.225988,0.243668,0
+1007p,,Leonard Bernstein,4,Performer,0.031505,8,0.217497,0.245403,0
+1008p,,Leonardo Leonardi,1,Performer,0.001033,10,0.173215,0.181135,0
+1009p,,Leonardo Monreale,5,Performer,0.007389,10,0.203692,0.219232,0
+1010p,,Leonello Bionda,3,Performer,0.01344,8,0.225988,0.243668,0
+1011p,,Leonid Kogan,3,Performer,0.028713,8,0.232046,0.255297,0
+1012p,,Leontyne Price,1,Performer,0.007189,10,0.206365,0.221539,0
+1013p,,Les Freres Jacques,10,Performer,0.005521,8,0.208647,0.223024,0
+1014p,,Les McCann,1,Performer,0.009586,8,0.210603,0.227642,0
+1015p,,Lia Ferri,2,Performer,0.013266,8,0.204886,0.225895,1183.170819
+1016p,,Lia Scutari,1,Performer,0.021195,8,0.23441,0.254546,0
+1017p,,Liana Ferretto,17,Performer,0.007719,8,0.214676,0.229421,0
+1018p,,Libero Para,1,Performer,0.050767,8,0.256177,0.282066,0
+1019p,,Licia Lombardi,21,Performer,0.002734,10,0.187202,0.198749,1886
+1020p,,Lidia Colecchia,1,Performer,0.024905,10,0.217346,0.24303,0
+1021p,,Liisa Karhilo,1,Performer,0.024905,10,0.217346,0.24303,0
+1022p,,Lili Kraus,1,Performer,0.050767,8,0.256177,0.282066,0
+1023p,,Lilian Terry,1,Performer,0.01344,8,0.225988,0.243668,0
+1024p,,Liliana Cosi,1,Performer,0.007189,10,0.206365,0.221539,0
+1025p,,Liliana Laghi,1,Performer,0.000932,2,0.545455,0.583333,0
+1026p,,Liliana Zoboli,20,Performer,0.01344,8,0.225988,0.243668,0
+1027p,,Lillo Angeli,1,Performer,0.009586,8,0.210603,0.227642,0
+1028p,,Lina Volonghi,42,Performer,0.005314,8,0.200958,0.214131,0
+1029p,,Lino Patruno,1,Performer,0.006385,8,0.215214,0.229315,0
+1030p,,Lino Puglisi,3,Performer,0.031505,8,0.217497,0.245403,0
+1031p,,Lino Robi,22,Performer,0.00712,8,0.198298,0.21388,0
+1032p,,Lino Troisi,39,Performer,0.002269,8,0.194416,0.205164,0
+1033p,,Lino Verde,1,Performer,0.021195,8,0.23441,0.254546,0
+1034p,,Lionel Hampton,9,Performer,0.008314,8,0.214725,0.229775,1886
+1035p,,Lisa Della Casa,5,Performer,0.007389,10,0.203692,0.219232,0
+1036p,,Lisetta Bonomi,3,Performer,0.057956,8,0.25956,0.288169,1941.916083
+1037p,,Little Tony,7,Performer,0.008461,8,0.203516,0.218597,0
+1038p,,Lodovico Lessona,1,Performer,0.050767,8,0.256177,0.282066,0
+1039p,,Lola Gracy,4,Performer,0.00712,8,0.198298,0.21388,0
+1040p,,Lolle Sattin,3,Performer,0.021195,8,0.23441,0.254546,0
+1041p,,London Mozart Players,1,Performer,0.001461,10,0.177751,0.186912,0
+1042p,,Loola Sansing,1,Performer,0.007822,10,0.194938,0.212782,0
+1043p,,Loredana d'Annibale,1,Performer,0.007822,10,0.194938,0.212782,0
+1044p,,Loredana Franceschini,1,Performer,0.007189,10,0.206365,0.221539,0
+1045p,,Lorenzo Sabatucci,2,Performer,0.002431,10,0.178457,0.187511,0
+1046p,,Loriana Bassini,1,Performer,0.006146,10,0.179851,0.195067,0
+1047p,,Lorin Maazel,8,Performer,0.031505,8,0.217497,0.245403,0
+1048p,,Los Incas,8,Performer,0.01344,8,0.225988,0.243668,0
+1049p,,Lothar Faber,1,Performer,0.028713,8,0.232046,0.255297,0
+1050p,,Lou Levy,1,Performer,0.009586,8,0.210603,0.227642,0
+1051p,,Louis Armstrong,3,Performer,0.002196,8,0.188323,0.198191,0
+1052p,,Louis Backx,1,Performer,0.005568,10,0.189116,0.205479,0
+1053p,,Louis De Froment,1,Performer,0.024905,10,0.217346,0.24303,0
+1054p,,Lovro von Matacic,11,Performer,0.060218,8,0.249076,0.28405,1505.835937
+1055p,,Lucia Valeri,4,Performer,0.006146,10,0.179851,0.195067,0
+1056p,,Luciana Pastore,1,Performer,0.007189,10,0.206365,0.221539,0
+1057p,,Luciana Pio Fumagalli,1,Performer,0.050767,8,0.256177,0.282066,0
+1058p,,Luciana Piovesan,1,Performer,0.007822,10,0.194938,0.212782,0
+1059p,,Luciana Savignano,1,Performer,0.007189,10,0.206365,0.221539,0
+1060p,,Luciana Ticinelli Fattori,11,Performer,0.015021,10,0.202034,0.221726,868.779186
+1061p,,Luciano Alberici,30,Performer,0.005521,8,0.208647,0.223024,0
+1062p,,Luciano Bertolini,1,Performer,0.050767,8,0.256177,0.282066,0
+1063p,,Luciano Giarbella,1,Performer,0.050767,8,0.256177,0.282066,0
+1064p,,Luciano Glori,4,Performer,0.006146,10,0.179851,0.195067,0
+1065p,,Luciano Rosada,15,Performer,0.107178,8,0.28453,0.328192,9804.157428
+1066p,,Luciano Sangiorgi,1,Performer,0.021195,8,0.23441,0.254546,0
+1067p,,Luciano Tajoli,28,Performer,0.039467,8,0.241861,0.270152,5071.781721
+1068p,,Lucio Carano,3,Performer,0.013266,8,0.204886,0.225895,1183.170819
+1069p,,Lucio Flauto,218,Performer,0.065709,8,0.271902,0.299882,10494.930215
+1070p,,Lucy Briata,1,Performer,0.009586,8,0.210603,0.227642,0
+1071p,,Lucy Pistoja,1,Performer,0.006146,10,0.179851,0.195067,0
+1072p,,Ludwig Hoffmann,1,Performer,0.028713,8,0.232046,0.255297,0
+1073p,,Luigi Alva,10,Performer,0.007389,10,0.203692,0.219232,0
+1074p,,Luigi Benedetti,5,Performer,0.03517,10,0.221427,0.253293,1968.007879
+1075p,,Luigi Castellazzi,1,Performer,0.024905,10,0.217346,0.24303,0
+1076p,,Luigi Chiapparra,1,Performer,0.005568,10,0.189116,0.205479,0
+1077p,,Luigi Colonna,1,Performer,0.024905,10,0.217346,0.24303,0
+1078p,,Luigi Ferdinando Tagliavini,1,Performer,0.024905,10,0.217346,0.24303,0
+1079p,,Luigi Ferrari Trecate,1,Performer,0.050767,8,0.256177,0.282066,0
+1080p,,Luigi Ottolini,2,Performer,0.031505,8,0.217497,0.245403,0
+1081p,,Luigi Wood,2,Performer,0.002385,8,0.199556,0.210663,0
+1082p,,Luis Albert,16,Performer,0.008461,8,0.203516,0.218597,0
+1083p,,Luis Morondo,1,Performer,0.050767,8,0.256177,0.282066,0
+1084p,,Luisa Conte,22,Performer,0.009586,8,0.210603,0.227642,0
+1085p,,Luisa Mandelli,1,Performer,0.000876,12,0.137416,0.143796,0
+1086p,,Luisella Fortini,1,Performer,0.001033,10,0.173215,0.181135,0
+1087p,,Lya De Barberis,1,Performer,0.050767,8,0.256177,0.282066,0
+1088p,,Lydia Conter,2,Performer,0.058486,8,0.267205,0.2947,6840.99606
+1089p,,Lydia Costanzo,3,Performer,0.001477,10,0.164775,0.174195,0
+1090p,,Lydia Emmolo,1,Performer,0.005568,10,0.189116,0.205479,0
+1091p,,Lydia Marimpietri,1,Performer,0.024905,10,0.217346,0.24303,0
+1092p,,Maddalena Bonifaccio,2,Performer,0.031505,8,0.217497,0.245403,0
+1093p,,Mafalda Francesi,1,Performer,0.001813,10,0.187873,0.197561,0
+1094p,,Mafalda Micheluzzi,2,Performer,0.002431,10,0.178457,0.187511,0
+1095p,,Magda Laszlo,3,Performer,0.082273,8,0.271121,0.308487,3932.822976
+1096p,,Malcom Frager,1,Performer,0.028713,8,0.232046,0.255297,0
+1097p,,Manrico Lotti,2,Performer,0.00124,10,0.142415,0.148877,0
+1098p,,Manuel Rosenthal,2,Performer,0.024905,10,0.217346,0.24303,0
+1099p,,Manuela Bianchi Porro,4,Performer,0.031505,8,0.217497,0.245403,0
+1100p,,Mara Mays,1,Performer,0.00712,8,0.198298,0.21388,0
+1101p,,Marcella Crudeli,2,Performer,0.058589,8,0.261647,0.291446,6918.271517
+1102p,,Marcella De Osma,14,Performer,0.041092,8,0.242234,0.272723,16051.609231
+1103p,,Marcella Ruffini,1,Performer,0.00712,8,0.198298,0.21388,0
+1104p,,Marcello Abbado,7,Performer,0.094058,8,0.2775,0.316812,9814.738467
+1105p,,Marco Ratti,2,Performer,0.006385,8,0.215214,0.229315,0
+1107p,,Marco Tulli,1,Performer,0.005521,8,0.208647,0.223024,0
+1108p,,Marek Jablonski,1,Performer,0.028713,8,0.232046,0.255297,0
+1109p,,Maresa Horn,3,Performer,0.006146,10,0.179851,0.195067,0
+1110p,,Marga Hoffgen,1,Performer,0.028713,8,0.232046,0.255297,0
+1111p,,Margherita Benetti,3,Performer,0.002431,10,0.178457,0.187511,0
+1112p,,Margherita Ceradini,2,Performer,0.024905,10,0.217346,0.24303,0
+1113p,,Margherita Roberti,5,Performer,0.031505,8,0.217497,0.245403,0
+1114p,,Margret Graham,2,Performer,0.002385,8,0.199556,0.210663,0
+1115p,,Maria Antonietta Pirronti,1,Performer,0.024905,10,0.217346,0.24303,0
+1116p,,Maria Callas,11,Performer,0.031505,8,0.217497,0.245403,0
+1117p,,Maria Del Fante,5,Performer,0.007389,10,0.203692,0.219232,0
+1118p,,Maria Grazia Allegri,1,Performer,0.024905,10,0.217346,0.24303,0
+1119p,,Maria Grazia Lazzari,66,Performer,0.050767,8,0.256177,0.282066,0
+1120p,,Maria Italia Biagi,2,Performer,0.01344,8,0.225988,0.243668,0
+1121p,,Maria Manni Jottini,1,Performer,0.024905,10,0.217346,0.24303,0
+1122p,,Maria Monti,36,Performer,0.044028,8,0.257716,0.283789,4570.230766
+1123p,,Maria Pilar,24,Performer,0.005314,8,0.200958,0.214131,0
+1124p,,Maria Randi,1,Performer,0.009586,8,0.210603,0.227642,0
+1125p,,Maria Rosa Prati,5,Performer,0.006146,10,0.179851,0.195067,0
+1126p,,Maria Selmi Dongellini,1,Performer,0.007189,10,0.206365,0.221539,0
+1127p,,Maria Teresa Vianello,27,Performer,0.021195,8,0.23441,0.254546,0
+1128p,,Maria Terese Cahn,1,Performer,0.024905,10,0.217346,0.24303,0
+1129p,,Maria Tipo,3,Performer,0.07948,8,0.270344,0.304862,2001.732734
+1130p,,Mariangela Granata,2,Performer,0.024905,10,0.217346,0.24303,0
+1131p,,Mariano Stabile,8,Performer,0.031505,8,0.217497,0.245403,0
+1132p,,Marie Claire Alain,1,Performer,0.024905,10,0.217346,0.24303,0
+1133p,,Mariella Adani,7,Performer,0.038895,8,0.227624,0.257449,566.585374
+1134p,,Marina Bonfigli,74,Performer,0.005521,8,0.208647,0.223024,0
+1135p,,Marina Cucchio,6,Performer,0.010761,8,0.230122,0.244212,1147.091534
+1136p,,Marinelli,1,Performer,0.00712,8,0.198298,0.21388,0
+1137p,,Marinus Flipse,2,Performer,0.050767,8,0.256177,0.282066,0
+1138p,,Mario Abbate,1,Performer,0.00712,8,0.198298,0.21388,0
+1139p,,Mario Alani,10,Performer,0.00712,8,0.198298,0.21388,0
+1140p,,Mario Bertolazzi,17,Performer,0.024592,8,0.238017,0.258842,1521.452635
+1141p,,Mario Bonocore,5,Performer,0.021195,8,0.23441,0.254546,0
+1142p,,Mario Carotenuto,59,Performer,0.021195,8,0.23441,0.254546,0
+1143p,,Mario Castellani,28,Performer,0.050767,8,0.256177,0.282066,0
+1144p,,Mario Conter,2,Performer,0.058486,8,0.267205,0.2947,6840.99606
+1145p,,Mario Cordone,3,Performer,0.002431,10,0.178457,0.187511,0
+1146p,,Mario De Paoli,13,Performer,0.002078,8,0.191924,0.202018,0
+1147p,,Mario De Vico,1,Performer,0.00712,8,0.198298,0.21388,0
+1148p,,Mario Del Monaco,17,Performer,0.031505,8,0.217497,0.245403,0
+1149p,,Mario Delli Ponti,2,Performer,0.07948,8,0.270344,0.304862,2001.732734
+1150p,,Mario Di Gilio,44,Performer,0.014839,8,0.221583,0.241577,1951.361566
+1151p,,Mario Festa,22,Performer,0.009586,8,0.210603,0.227642,0
+1152p,,Mario Giorgetti,33,Performer,0.002131,10,0.167258,0.17468,752.4
+1153p,,Mario Loschi,1,Performer,0.024905,10,0.217346,0.24303,0
+1154p,,Mario Maranzana,26,Performer,0.050767,8,0.256177,0.282066,0
+1155p,,Mario Mariani,29,Performer,0.005521,8,0.208647,0.223024,0
+1156p,,Mario Pezzotta,3,Performer,0.022565,8,0.236466,0.257756,2684.562879
+1157p,,Mario Pezzotta e il suo complesso,1,Performer,0,0,0,0,0
+1158p,,Mario Pistoni,9,Performer,0.033655,8,0.23216,0.259245,6381.578256
+1159p,,Mario Pisu,21,Performer,0.050767,8,0.256177,0.282066,0
+1160p,,Mario Ronga,1,Performer,0.002245,10,0.166962,0.178349,0
+1161p,,Mario Rossi,3,Performer,0.07948,8,0.270344,0.304862,2001.732734
+1162p,,Mario Schiratti,1,Performer,0.003372,8,0.216349,0.227821,0
+1163p,,Mario Solomonoff,1,Performer,0.024905,10,0.217346,0.24303,0
+1164p,,Mariolina De Robertis,1,Performer,0.024905,10,0.217346,0.24303,0
+1165p,,Marisa Amoros,1,Performer,0.002078,8,0.191924,0.202018,0
+1166p,,Marisa Candeloro,1,Performer,0.024905,10,0.217346,0.24303,0
+1167p,,Marisa De Castiglia,1,Performer,0.006146,10,0.179851,0.195067,0
+1168p,,Marisa Del Frate,20,Performer,0.095262,8,0.294844,0.33079,61723.746634
+1169p,,Marisa Fabbri,41,Performer,0.001296,2,0.52381,0.545455,0
+1170p,,Marisa Merlini,13,Performer,0.021195,8,0.23441,0.254546,0
+1171p,,Marisa Rampin,1,Performer,0.006146,10,0.179851,0.195067,0
+1172p,,Marisa Traversi,66,Performer,0.059228,8,0.267812,0.294058,3912.151755
+1173p,,Marise Candeloro,1,Performer,0.007189,10,0.206365,0.221539,0
+1174p,,Marise Flach,43,Performer,0.001425,10,0.15951,0.167741,0
+1175p,,Mariuccia Sangalli,1,Performer,0.000932,2,0.545455,0.583333,0
+1176p,,Marlena Kessick,2,Performer,0.006497,10,0.189306,0.206213,153.99081
+1177p,,Marotta-Wolk,1,Performer,0.006146,10,0.179851,0.195067,0
+1178p,,Marta Argerich,3,Performer,0.060218,8,0.249076,0.28405,1505.835937
+1179p,,Marta Del Vecchio,1,Performer,0,0,0,0,0
+1180p,,Martin Ritt,1,Performer,0.050767,8,0.256177,0.282066,0
+1181p,,Martin Ruhoff,1,Performer,0.002443,10,0.187165,0.199152,0
+1182p,,Massimo Bogianckino,1,Performer,0.024905,10,0.217346,0.24303,0
+1183p,,Massimo Bruni,1,Performer,0.024905,10,0.217346,0.24303,0
+1184p,,Massimo Coen,1,Performer,0.005568,10,0.189116,0.205479,0
+1185p,,Massimo Pradella,3,Performer,0.075673,8,0.268574,0.302566,2852.458831
+1186p,,Matilde Magitteri,1,Performer,0.005568,10,0.189116,0.205479,0
+1187p,,Maureen Forrester,2,Performer,0.07948,8,0.270344,0.304862,2001.732734
+1188p,,Maureen Jones,1,Performer,0.028713,8,0.232046,0.255297,0
+1189p,,Maurice Bejart,2,Performer,0.050767,8,0.256177,0.282066,0
+1190p,,Maurice Gendron,1,Performer,0.028713,8,0.232046,0.255297,0
+1191p,,Maurizio Pollini,8,Performer,0.060218,8,0.249076,0.28405,1505.835937
+1192p,,Max Bennet,2,Performer,0.009586,8,0.210603,0.227642,0
+1193p,,Max Cassoli,2,Performer,0.001532,8,0.181617,0.190101,0
+1194p,,Max Del Frate,1,Performer,0.002298,8,0.200064,0.21113,0
+1195p,,Max Rudolf,1,Performer,0.050767,8,0.256177,0.282066,0
+1196p,,Maxim Scapiro,1,Performer,0.007719,8,0.214676,0.229421,0
+1197p,,McCoy Tyner,2,Performer,0.002385,8,0.199556,0.210663,0
+1198p,,McHenry Boatwright,1,Performer,0.050767,8,0.256177,0.282066,0
+1199p,,Mel Lewis,2,Performer,0.009586,8,0.210603,0.227642,0
+1200p,,Melita Sarcina,1,Performer,0.001813,10,0.187873,0.197561,0
+1201p,,Meme Bianchi,1,Performer,0.003372,8,0.216349,0.227821,0
+1202p,,Memmo Marciani,1,Performer,0.00712,8,0.198298,0.21388,0
+1203p,,Michael Dopson,2,Performer,0.050767,8,0.256177,0.282066,0
+1204p,,Michael Mattos,3,Performer,0.005521,8,0.208647,0.223024,0
+1205p,,Michael Schnaider,1,Performer,0.024905,10,0.217346,0.24303,0
+1206p,,Michel Block,1,Performer,0.028713,8,0.232046,0.255297,0
+1207p,,Michel Cauveton,1,Performer,0.005568,10,0.189116,0.205479,0
+1208p,,Michel Hausser,3,Performer,0.050767,8,0.256177,0.282066,0
+1209p,,Michelangelo Abbado,1,Performer,0.028713,8,0.232046,0.255297,0
+1210p,,Michele Ricciardini,44,Performer,0.009586,8,0.210603,0.227642,0
+1211p,,Michelino,1,Performer,0.000578,1,1,1,0
+1212p,,Milan College Jazz Band,1,Performer,0,0,0,0,0
+1213p,,Milan College Jazz Society,8,Performer,0.010191,8,0.23001,0.243923,1912.261019
+1214p,,Milano Dixieland Group,2,Performer,0.007466,8,0.217196,0.231947,1584.059554
+1215p,,Miles Davis,1,Performer,0.021195,8,0.23441,0.254546,0
+1216p,,Mills Brothers,1,Performer,0.002196,8,0.188323,0.198191,0
+1217p,,Milly,91,Performer,0.018961,8,0.231989,0.25197,549.621415
+1218p,,Milly Arduini,11,Performer,0.00086,2,0.555556,0.6,0
+1219p,,Milva,1,Performer,0.009586,8,0.210603,0.227642,0
+1220p,,Milvio Calusio,69,Performer,0.005314,8,0.200958,0.214131,0
+1221p,,Mimi Baldauf,1,Performer,0.001523,10,0.170184,0.178264,0
+1222p,,Mimma Rizzo,1,Performer,0.00712,8,0.198298,0.21388,0
+1223p,,Mina,3,Performer,0.032347,8,0.237478,0.261249,502.630893
+1224p,,Mira Selva,25,Performer,0.01344,8,0.225988,0.243668,0
+1225p,,Miranda Martino,1,Performer,0.003465,8,0.206817,0.218625,0
+1226p,,Mirella Fiorentini,5,Performer,0.031505,8,0.217497,0.245403,0
+1227p,,Mirella Freni,5,Performer,0.007389,10,0.203692,0.219232,0
+1228p,,Mirella Parutto,2,Performer,0.031505,8,0.217497,0.245403,0
+1229p,,Mirella Vita,1,Performer,0.000648,2,0.666667,0.75,0
+1230p,,Miriam Hauser,1,Performer,0.007189,10,0.206365,0.221539,0
+1231p,,Mirto Picchi,2,Performer,0.031505,8,0.217497,0.245403,0
+1232p,,Mitchell Ruff,1,Performer,0.028713,8,0.232046,0.255297,0
+1233p,,Mitchell Ruff Jazz Trio,1,Performer,0.028713,8,0.232046,0.255297,0
+1234p,,Modern Jazz Combo,1,Performer,0.00108,10,0.16466,0.171489,0
+1235p,,Modern Jazz Quartet,4,Performer,0.030909,8,0.246667,0.267609,10304.340782
+1236p,,Muncher Kammerensemble,1,Performer,0.028713,8,0.232046,0.255297,0
+1237p,,Musica Viva,1,Performer,0.00222,8,0.204,0.214875,0
+1238p,,Musical play,1,Performer,0.00712,8,0.198298,0.21388,0
+1239p,,N. Ragno,10,Performer,0.000985,10,0.165788,0.170879,0
+1240p,,Nana Richard,3,Performer,0.006146,10,0.179851,0.195067,0
+1241p,,Nando Benvenuti,2,Performer,0.007189,10,0.206365,0.221539,0
+1243p,,Nando Maggi,1,Performer,0.000718,2,0.6,0.666667,0
+1244p,,Nanni Svampa,48,Performer,0.018961,8,0.231989,0.25197,549.621415
+1245p,,Narciso Yepes,2,Performer,0.009143,8,0.23125,0.244493,4000.056215
+1246p,,Nat King Cole,2,Performer,0.009586,8,0.210603,0.227642,0
+1247p,,Nathan Milstein,14,Performer,0.081413,8,0.287477,0.32126,75994.444
+1248p,,Natuscia Calza,1,Performer,0.01344,8,0.225988,0.243668,0
+1249p,,Nazzarena Malagutti,1,Performer,0.005568,10,0.189116,0.205479,0
+1250p,,Nell Rankin,4,Performer,0.031505,8,0.217497,0.245403,0
+1251p,,Nella Colombo,6,Performer,0.008461,8,0.203516,0.218597,0
+1252p,,Nelly Crescimanno,8,Performer,0.01272,8,0.219623,0.235958,2455.401779
+1253p,,Nelly Csaky,1,Performer,0.000648,2,0.666667,0.75,0
+1254p,,Nelly Fioramonti,1,Performer,0.001061,10,0.165759,0.17534,0
+1255p,,Nelly Zoy,1,Performer,0.00712,8,0.198298,0.21388,0
+1257p,,Nereo Gasperini,1,Performer,0.005568,10,0.189116,0.205479,0
+1258p,,Nerina Santini,3,Performer,0.002431,10,0.178457,0.187511,0
+1259p,,Nevin Afrouz,1,Performer,0.050767,8,0.256177,0.282066,0
+1260p,,New G. Trio,2,Performer,0.007978,8,0.230628,0.243606,1298.993363
+1261p,,New Jazz Society,1,Performer,0.006385,8,0.215214,0.229315,0
+1262p,,New York Pro Musica,1,Performer,0.007389,10,0.203692,0.219232,0
+1263p,,Newell Jenkins,2,Performer,0.024905,10,0.217346,0.24303,0
+1264p,,Nicanor Zabaleta,1,Performer,0.024905,10,0.217346,0.24303,0
+1265p,,Nicia Giano,2,Performer,0.001083,10,0.164775,0.173641,0
+1266p,,Nicola Arigliano,4,Performer,0.030717,8,0.237239,0.26102,3616.092354
+1267p,,Nicola Filacuridi,5,Performer,0.007389,10,0.203692,0.219232,0
+1268p,,Nicola Pugliese,1,Performer,0.005568,10,0.189116,0.205479,0
+1269p,,Nicola Rossi Lemeni,4,Performer,0.031505,8,0.217497,0.245403,0
+1270p,,Nicola Vincitorio,33,Performer,0.002131,10,0.167258,0.17468,752.4
+1271p,,Nicolai Ghiaurov,17,Performer,0.031505,8,0.217497,0.245403,0
+1272p,,Nicoletta Languasco,43,Performer,0.005521,8,0.208647,0.223024,0
+1273p,,Nicoletta Panni,1,Performer,0.050767,8,0.256177,0.282066,0
+1274p,,Nicoletta Ramorino,6,Performer,0.01344,8,0.225988,0.243668,0
+1275p,,Nicol� Castiglioni,1,Performer,0.050767,8,0.256177,0.282066,0
+1276p,,Nikita Magaloff,11,Performer,0.036535,8,0.239103,0.266664,3202.911205
+1277p,,Nikolai Ghiaurov,9,Performer,0.031505,8,0.217497,0.245403,0
+1278p,,Nikolaj Nekrassov,4,Performer,0.031505,8,0.217497,0.245403,0
+1279p,,Nilde Pignatelli,2,Performer,0.05229,8,0.257084,0.284009,24362
+1280p,,Nilla Pizzi,10,Performer,0.011152,8,0.20837,0.224466,42.976364
+1281p,,Nilo Ossani,2,Performer,0.004904,8,0.218453,0.230934,692.564452
+1282p,,Nino Bonavolont�,1,Performer,0.028713,8,0.232046,0.255297,0
+1283p,,Nino Donato,1,Performer,0.00712,8,0.198298,0.21388,0
+1284p,,Nino Marchini,2,Performer,0.007719,8,0.214676,0.229421,0
+1285p,,Nino Rota,1,Performer,0.024905,10,0.217346,0.24303,0
+1286p,,Nino Sanzogno,73,Performer,0.118375,8,0.28739,0.332034,12155.252607
+1287p,,Nino Taranto,28,Performer,0.009586,8,0.210603,0.227642,0
+1288p,,Nino Terzo,3,Performer,0.013266,8,0.204886,0.225895,1183.170819
+1289p,,Nino Veglia,22,Performer,0.009586,8,0.210603,0.227642,0
+1290p,,Ninos cantores de Murialdo,1,Performer,0,0,0,0,0
+1291p,,Nives Poli,1,Performer,0.024905,10,0.217346,0.24303,0
+1292p,,Noach Greenberg,1,Performer,0.007389,10,0.203692,0.219232,0
+1293p,,Noemi Souza,1,Performer,0.024905,10,0.217346,0.24303,0
+1294p,,Nola F. Madia Rosy,1,Performer,0.006146,10,0.179851,0.195067,0
+1295p,,Norberto Mola,5,Performer,0.031505,8,0.217497,0.245403,0
+1296p,,Nuccia Bongiovanni,2,Performer,0.012277,8,0.21896,0.236989,417.938671
+1297p,,Nuccio Ambrosino,48,Performer,0.018961,8,0.231989,0.25197,549.621415
+1298p,,Nunzio Zappulla,1,Performer,0.005568,10,0.189116,0.205479,0
+1299p,,Nuovo quartetto danese,1,Performer,0.007822,10,0.194938,0.212782,0
+1300p,,Nuovo quartetto di Milano,4,Performer,0.061032,8,0.262302,0.292797,7706.335837
+1301p,,Nuovo quartetto italiano,1,Performer,0.050767,8,0.256177,0.282066,0
+1302p,,Nuto Navarrini,110,Performer,0.068008,8,0.274833,0.302633,13698.472573
+1303p,,O'Brien,1,Performer,0.006146,10,0.179851,0.195067,0
+1304p,,Old Style Jazz Sincopators,1,Performer,0.002298,8,0.200064,0.21113,0
+1305p,,Olga Chianese,2,Performer,0.003812,8,0.223102,0.233653,332.293062
+1306p,,Olga Gherardi,4,Performer,0.031505,8,0.217497,0.245403,0
+1307p,,Opera di Stato di Berlino,4,Performer,0.031505,8,0.217497,0.245403,0
+1308p,,Opera di Stato di Vienna,12,Performer,0.031505,8,0.217497,0.245403,0
+1309p,,Oralia Dominguez,1,Performer,0.024905,10,0.217346,0.24303,0
+1310p,,Orchestra Baby Luna,1,Performer,0.002298,8,0.200064,0.21113,0
+1311p,,Orchestra Berlendis,3,Performer,0.002245,10,0.166962,0.178349,0
+1312p,,Orchestra best-seller,7,Performer,0.00086,2,0.555556,0.6,0
+1313p,,Orchestra Buzzacchi,2,Performer,0.00124,10,0.142415,0.148877,0
+1314p,,Orchestra Caly,1,Performer,0.00712,8,0.198298,0.21388,0
+1315p,,Orchestra Carish,16,Performer,0.008461,8,0.203516,0.218597,0
+1316p,,Orchestra Catellani,2,Performer,0.002831,10,0.166991,0.178702,1886
+1317p,,Orchestra Cavallini-Teresio,1,Performer,0.000932,2,0.545455,0.583333,0
+1318p,,Orchestra classica Gulda,1,Performer,0.028713,8,0.232046,0.255297,0
+1319p,,orchestra Claude Luter,1,Performer,0.00222,8,0.204,0.214875,0
+1320p,,Orchestra Claudio Monteverdi,1,Performer,0.000876,12,0.137416,0.143796,0
+1321p,,Orchestra da camera dei Wiener Symphoniker,1,Performer,0.028713,8,0.232046,0.255297,0
+1322p,,Orchestra da Camera dell'Angelicum,2,Performer,0.024905,10,0.217346,0.24303,0
+1323p,,Orchestra da camera di Berlino,1,Performer,0.001461,10,0.177751,0.186912,0
+1324p,,Orchestra da camera di Firenze,1,Performer,0.007822,10,0.194938,0.212782,0
+1325p,,Orchestra da Camera di Praga,1,Performer,0.028713,8,0.232046,0.255297,0
+1326p,,Orchestra da camera di Stoccarda,1,Performer,0.028713,8,0.232046,0.255297,0
+1327p,,Orchestra da camera di Vienna,1,Performer,0.050767,8,0.256177,0.282066,0
+1328p,,Orchestra da camera olandese,2,Performer,0.07948,8,0.270344,0.304862,2001.732734
+1329p,,Orchestra da camera Ranat Gan,1,Performer,0.050767,8,0.256177,0.282066,0
+1330p,,Orchestra d'archi di Milano,1,Performer,0.028713,8,0.232046,0.255297,0
+1331p,,Orchestra dei Pomeriggi Musicali,102,Performer,0.053152,8,0.259203,0.286133,9368.49458
+1332p,,Orchestra della Giovent� Musicale Olandese,1,Performer,0.002385,8,0.199556,0.210663,0
+1333p,,Orchestra della Polifonica Ambrosiana,1,Performer,0,0,0,0,0
+1334p,,Orchestra della RAI di Milano,45,Performer,0.028713,8,0.232046,0.255297,0
+1338p,,Orchestra della residenza dell'Aja,1,Performer,0.021195,8,0.23441,0.254546,0
+1339p,,Orchestra del Teatro alla Scala,480,Performer,0.067608,8,0.253289,0.289906,3220.09162
+1340p,,Orchestra dell'Accademia di Vienna,1,Performer,0.028713,8,0.232046,0.255297,0
+1341p,,Orchestra da camera dell'Angelicum,98,Performer,0.024905,10,0.217346,0.24303,0
+1342p,,Orchestra di Radio Colonia,2,Performer,0.031505,8,0.217497,0.245403,0
+1343p,,Orchestra e coro della Radiotelevisione di Zagabria,1,Performer,0.028713,8,0.232046,0.255297,0
+1344p,,orchestra Edoardo Lucchina,15,Performer,0.007719,8,0.214676,0.229421,0
+1345p,,orchestra Elio Mauro,15,Performer,0.007719,8,0.214676,0.229421,0
+1346p,,Orchestra Fanciulli,2,Performer,0.000932,2,0.545455,0.583333,0
+1347p,,Orchestra Felix-Cameroni,20,Performer,0.001477,10,0.164775,0.174195,0
+1348p,,Orchestra filarmonica di Praga,1,Performer,0.031505,8,0.217497,0.245403,0
+1349p,,Orchestra filarmonica di Rotterdam,1,Performer,0.028713,8,0.232046,0.255297,0
+1350p,,Orchestra Fiori,1,Performer,0.000578,1,1,1,0
+1351p,,Orchestra Giorgio and His Players,1,Performer,0.002298,8,0.200064,0.21113,0
+1352p,,Orchestra giovanile di Sofia,1,Performer,0.028713,8,0.232046,0.255297,0
+1353p,,orchestra I Lunatici,1,Performer,0.006146,10,0.179851,0.195067,0
+1354p,,Orchestra Impallomeni,1,Performer,0.002245,10,0.166962,0.178349,0
+1355p,,Orchestra Internazionale delle Giovent� Musicali,1,Performer,0.002385,8,0.199556,0.210663,0
+1356p,,Orchestra Lana Lener,25,Performer,0.00086,2,0.555556,0.6,0
+1357p,,Orchestra Lino Siricio,1,Performer,0.000578,1,1,1,0
+1358p,,orchestra Mario Festa,22,Performer,0.009586,8,0.210603,0.227642,0
+1359p,,Orchestra Michelino,1,Performer,0.000946,12,0.124177,0.128841,0
+1360p,,Orchestra Morelli,2,Performer,0.002245,10,0.166962,0.178349,0
+1361p,,Orchestra nazionale di Parigi,2,Performer,0.031505,8,0.217497,0.245403,0
+1362p,,Orchestra Olimpia,20,Performer,0.007719,8,0.214676,0.229421,0
+1363p,,Orchestra Oppi,1,Performer,0.002245,10,0.166962,0.178349,0
+1364p,,Orchestra Philarmonica Hungarica,1,Performer,0,0,0,0,0
+1365p,,Orchestra Pippo Maugeri,1,Performer,0.00086,2,0.555556,0.6,0
+1366p,,Orchestra Poker d'assi,13,Performer,0.002078,8,0.191924,0.202018,0
+1367p,,Orchestra Renato e i 4 Jolly,1,Performer,0.000718,2,0.6,0.666667,0
+1368p,,orchestra Renzo Bado,1,Performer,0.000868,10,0.138893,0.143268,0
+1369p,,Orchestra Rocker's Jazz,4,Performer,0.006146,10,0.179851,0.195067,0
+1370p,,Orchestra Schiavon,2,Performer,0.00124,10,0.142415,0.148877,0
+1371p,,Orchestra Silvano Bado,1,Performer,0.000868,10,0.138893,0.143268,0
+1372p,,Orchestra sinfonica del Guatemala,2,Performer,0.01344,8,0.225988,0.243668,0
+1373p,,Orchestra sinfonica della radio cecoslovacca,1,Performer,0.028713,8,0.232046,0.255297,0
+1374p,,Orchestra sinfonica della radio jugoslava,1,Performer,0.028713,8,0.232046,0.255297,0
+1375p,,Orchestra sinfonica della radio polacca,2,Performer,0.031505,8,0.217497,0.245403,0
+1377p,,Orchestra sinfonica dell'Opera di Montecarlo,1,Performer,0.028713,8,0.232046,0.255297,0
+1378p,,Orchestra sinfonica di Leningrado,2,Performer,0.031505,8,0.217497,0.245403,0
+1379p,,Orchestra sinfonica di Radio Colonia,2,Performer,0.031505,8,0.217497,0.245403,0
+1380p,,Orchestra Sinfonica di Tokyo NHK,2,Performer,0.031505,8,0.217497,0.245403,0
+1381p,,Orchestra Sinfonica Siciliana,1,Performer,0.003013,10,0.200106,0.213612,0
+1382p,,Orchestra Tosi,2,Performer,0.002245,10,0.166962,0.178349,0
+1383p,,Orchestra trombetta,2,Performer,0.006146,10,0.179851,0.195067,0
+1385p,,Orianna Santunioni,2,Performer,0.050767,8,0.256177,0.282066,0
+1386p,,Original Lambro Jazz Band,16,Performer,0.03482,8,0.24628,0.271924,14999.629412
+1387p,,Orio Buccellato,1,Performer,0.005568,10,0.189116,0.205479,0
+1388p,,Ornella Puliti Santoliquido,2,Performer,0.050767,8,0.256177,0.282066,0
+1389p,,Ornella Vannucci,2,Performer,0.054139,8,0.258706,0.285837,1594.720994
+1391p,,Ornella Vanoni,39,Performer,0.035178,8,0.256874,0.279532,8073.764116
+1392p,,Ortensia Beggiato,1,Performer,0.024905,10,0.217346,0.24303,0
+1393p,,Oscar Peterson,8,Performer,0.030781,8,0.239589,0.2654,1605.866221
+1395p,,Oscar Valdambrini,12,Performer,0.036258,8,0.254587,0.279094,8336.885726
+1399p,,Oskar Danon,2,Performer,0.031505,8,0.217497,0.245403,0
+1400p,,Otello Profazio,2,Performer,0.002149,10,0.187165,0.198396,0
+1401p,,Othmar Maga,1,Performer,0.050767,8,0.256177,0.282066,0
+1402p,,Ottavio Fanfani,44,Performer,0.005521,8,0.208647,0.223024,0
+1403p,,Ottavio Imola,1,Performer,0.050767,8,0.256177,0.282066,0
+1404p,,Ottetto da camera di Giorgio Gaslini,1,Performer,0.050767,8,0.256177,0.282066,0
+1405p,,Ottetto di Vienna,2,Performer,0.028713,8,0.232046,0.255297,0
+1406p,,Ottetto sloveno,2,Performer,0.001425,10,0.15951,0.167741,0
+1407p,,Otto Edelmann,5,Performer,0.038895,8,0.227624,0.257449,566.585374
+1408p,,Otto Wiener,4,Performer,0.031505,8,0.217497,0.245403,0
+1409p,,Pablo Morel,13,Performer,0.064208,8,0.271433,0.300997,5788.99153
+1410p,,Pablo Soza,1,Performer,0.024905,10,0.217346,0.24303,0
+1411p,,Pacho Gatti,1,Performer,0.006385,8,0.215214,0.229315,0
+1412p,,Paco de Alba,6,Performer,0.009586,8,0.210603,0.227642,0
+1413p,,Pallino Salonia,8,Performer,0.014372,8,0.226042,0.244021,260.99416
+1414p,,Paola Caffarella,1,Performer,0.050767,8,0.256177,0.282066,0
+1415p,,Paola D'Alba,2,Performer,0.015011,10,0.215411,0.236407,1200.911788
+1416p,,Paola Marcellan,1,Performer,0.009586,8,0.210603,0.227642,0
+1417p,,Paola Penni,7,Performer,0.021195,8,0.23441,0.254546,0
+1418p,,Paolo Bonomi,1,Performer,0.007822,10,0.194938,0.212782,0
+1419p,,Paolo Carlini,13,Performer,0.021195,8,0.23441,0.254546,0
+1420p,,Paolo Paglia,1,Performer,0.009586,8,0.210603,0.227642,0
+1421p,,Paolo Panelli,71,Performer,0.021195,8,0.23441,0.254546,0
+1422p,,Paolo Poli,146,Performer,0.036904,8,0.256038,0.280388,4629.068428
+1423p,,Paolo Salonia,1,Performer,0.01344,8,0.225988,0.243668,0
+1424p,,Paolo Spagnolo,2,Performer,0.003372,8,0.216349,0.227821,0
+1425p,,Paolo Washington,1,Performer,0.024905,10,0.217346,0.24303,0
+1426p,,Patruno-Longhi-Swing Quintett,1,Performer,0.006385,8,0.215214,0.229315,0
+1427p,,Paul Angerer,1,Performer,0.050767,8,0.256177,0.282066,0
+1428p,,Paul Anka,4,Performer,0.021195,8,0.23441,0.254546,0
+1429p,,Paul Badura Skoda,2,Performer,0.035902,8,0.235111,0.261709,866.583552
+1430p,,Paul Chambers,1,Performer,0.021195,8,0.23441,0.254546,0
+1431p,,Paul Hauger,1,Performer,0.024905,10,0.217346,0.24303,0
+1432p,,Paul Hindemith,1,Performer,0.050767,8,0.256177,0.282066,0
+1433p,,Paul Klecki,2,Performer,0.031505,8,0.217497,0.245403,0
+1434p,,Paul Strauss,5,Performer,0.050767,8,0.256177,0.282066,0
+1435p,,Paula,1,Performer,0.021195,8,0.23441,0.254546,0
+1436p,,Paulette De Bedin,1,Performer,0.028713,8,0.232046,0.255297,0
+1437p,,Pauline O'Connor,2,Performer,0.050767,8,0.256177,0.282066,0
+1438p,,Pellegrina Pereno-Rossi,1,Performer,0.007822,10,0.194938,0.212782,0
+1439p,,Peppino di Capri,10,Performer,0.039079,8,0.246023,0.27599,22009.496377
+1440p,,Peppino Sacchi,2,Performer,0.000932,2,0.545455,0.583333,0
+1441p,,Perez Prado,2,Performer,0.006146,10,0.179851,0.195067,0
+1442p,,Peter Fischer,3,Performer,0.018961,8,0.231989,0.25197,549.621415
+1443p,,Peter Gelhorn,1,Performer,0.024905,10,0.217346,0.24303,0
+1444p,,Peter Maag,6,Performer,0.110986,8,0.284787,0.327839,7440.391647
+1445p,,Peter Pascol,1,Performer,0.00712,8,0.198298,0.21388,0
+1446p,,Peter Rummenholler,1,Performer,0.028713,8,0.232046,0.255297,0
+1447p,,Petre Munteanu,5,Performer,0.085124,8,0.263547,0.307288,6604.167699
+1448p,,Philippe Arru Blachette,1,Performer,0.028713,8,0.232046,0.255297,0
+1449p,,Phineas Newborn,1,Performer,0.002196,8,0.188323,0.198191,0
+1450p,,Phyllis Curtin,5,Performer,0.007389,10,0.203692,0.219232,0
+1451p,,Phyllis Curtis,2,Performer,0.050767,8,0.256177,0.282066,0
+1452p,,Pia Colombo,12,Performer,0.01344,8,0.225988,0.243668,0
+1453p,,Pia Velsi,1,Performer,0.00712,8,0.198298,0.21388,0
+1454p,,Piccolo complesso di Milano,2,Performer,0.005568,10,0.189116,0.205479,0
+1455p,,Pier Emilio Bassi,20,Performer,0.034342,8,0.240566,0.268342,32662.77546
+1456p,,Pieralberto Biondi,1,Performer,0.005568,10,0.189116,0.205479,0
+1457p,,Piero Bastianelli,2,Performer,0.007822,10,0.194938,0.212782,0
+1458p,,Piero Bellugi,4,Performer,0.031505,8,0.217497,0.245403,0
+1459p,,Piero Chini,1,Performer,0.006385,8,0.215214,0.229315,0
+1460p,,Piero De Palma,31,Performer,0.031505,8,0.217497,0.245403,0
+1462p,,Piero Francia,3,Performer,0.002431,10,0.178457,0.187511,0
+1463p,,Piero Giorgetti,3,Performer,0.021813,8,0.234468,0.254899,1886
+1464p,,Piero Guarino,1,Performer,0.024905,10,0.217346,0.24303,0
+1465p,,Piero Mazzarella,30,Performer,0.013982,8,0.221583,0.240283,2209.067895
+1466p,,Piero Nuti,39,Performer,0.002269,8,0.194416,0.205164,0
+1467p,,Piero Rattalino,1,Performer,0.007822,10,0.194938,0.212782,0
+1468p,,Piero Rolla,2,Performer,0.01344,8,0.225988,0.243668,0
+1469p,,Piero Santi,5,Performer,0.084207,8,0.275233,0.312232,23142.096754
+1470p,,Piero Toso,2,Performer,0.001532,8,0.181617,0.190101,0
+1471p,,Piero Trombetta,1,Performer,0.021195,8,0.23441,0.254546,0
+1472p,,Piero Weiss,1,Performer,0.050767,8,0.256177,0.282066,0
+1473p,,Pierre Boulez,1,Performer,0.050767,8,0.256177,0.282066,0
+1474p,,Pierre Philippe,10,Performer,0.005521,8,0.208647,0.223024,0
+1475p,,Pietro Argento,2,Performer,0.053618,8,0.246152,0.280398,2079.456142
+1476p,,Pietro Bellugi,5,Performer,0.007389,10,0.203692,0.219232,0
+1477p,,Pietro Bottazzo,3,Performer,0.050767,8,0.256177,0.282066,0
+1478p,,Pietro Ferrari,1,Performer,0.007822,10,0.194938,0.212782,0
+1479p,,Pietro Grossi,1,Performer,0.050767,8,0.256177,0.282066,0
+1480p,,Pietro Mazzarella,42,Performer,0.009586,8,0.210603,0.227642,0
+1481p,,Pietro Scarpini,4,Performer,0.034877,8,0.239285,0.26559,5348.287448
+1482p,,Pietro Spada,4,Performer,0.082273,8,0.271121,0.308487,3932.822976
+1483p,,Pilar Lopez,6,Performer,0.009586,8,0.210603,0.227642,0
+1484p,,Pina Carminelli,2,Performer,0.050767,8,0.256177,0.282066,0
+1485p,,Pina Cei,14,Performer,0.002385,8,0.199556,0.210663,0
+1486p,,Pino Calvi,4,Performer,0.015709,8,0.226639,0.245478,365.628625
+1487p,,Pino Donaggio,1,Performer,0.003465,8,0.206817,0.218625,0
+1488p,,Pino Guerra,2,Performer,0.001477,10,0.164775,0.174195,0
+1489p,,Pino Vinci,2,Performer,0.028315,8,0.23874,0.263581,3068.271078
+1490p,,Pippo Barzizza,1,Performer,0.008461,8,0.203516,0.218597,0
+1491p,,Pippo Volpe,1,Performer,0.00712,8,0.198298,0.21388,0
+1492p,,Platters,24,Performer,0.011926,8,0.210556,0.227416,115.525418
+1493p,,Pocho Gatti,1,Performer,0.003742,8,0.213849,0.225519,414.217738
+1494p,,Polifonica Ambrosiana,103,Performer,0.036708,8,0.235698,0.261471,3618.165396
+1495p,,Primo Borali,1,Performer,0.003013,10,0.200106,0.213612,0
+1496p,,Pupo De Luca,4,Performer,0.02123,8,0.232676,0.253781,1390.984154
+1497p,,Quartetto All Stars,4,Performer,0.021195,8,0.23441,0.254546,0
+1498p,,Quartetto Amadeus,1,Performer,0.028713,8,0.232046,0.255297,0
+1499p,,Quartetto Carmirelli,2,Performer,0.050767,8,0.256177,0.282066,0
+1500p,,quartetto Ceroni,23,Performer,0.050767,8,0.256177,0.282066,0
+1501p,,Quartetto Cetra,71,Performer,0.032347,8,0.237478,0.261249,502.630893
+1502p,,Quartetto Chigiano,1,Performer,0.00222,8,0.204,0.214875,0
+1503p,,Quartetto De Angeli,1,Performer,0.000648,2,0.666667,0.75,0
+1504p,,quartetto della Lucia,1,Performer,0.001458,10,0.18099,0.190147,0
+1505p,,Quartetto della Scala,3,Performer,0.058157,8,0.260061,0.289158,3000.605276
+1506p,,Quartetto della Tonhalle di Zurigo,2,Performer,0.002234,10,0.188323,0.200445,0
+1507p,,Quartetto di Budapest,2,Performer,0.028713,8,0.232046,0.255297,0
+1508p,,Quartetto di Lucca,2,Performer,0.008605,8,0.218656,0.233837,305.646255
+1509p,,Quartetto di Madrid,1,Performer,0.001424,10,0.183311,0.193758,0
+1510p,,Quartetto di Milano,4,Performer,0.088879,8,0.278977,0.31648,34318.981292
+1512p,,Quartetto di Praga,1,Performer,0.028713,8,0.232046,0.255297,0
+1513p,,Quartetto di Roma,1,Performer,0.001461,10,0.177751,0.186912,0
+1514p,,Quartetto di Zagabria,2,Performer,0.036535,8,0.239103,0.266664,3202.911205
+1515p,,Quartetto Endres,1,Performer,0.01344,8,0.225988,0.243668,0
+1516p,,Quartetto Filarmonico di Vienna,1,Performer,0.028713,8,0.232046,0.255297,0
+1517p,,Quartetto Fonit,1,Performer,0.00712,8,0.198298,0.21388,0
+1518p,,Quartetto Franco Cerri,1,Performer,0.006385,8,0.215214,0.229315,0
+1519p,,Quartetto italiano,6,Performer,0.121188,8,0.289773,0.335417,18253.291974
+1520p,,Quartetto Janacek,2,Performer,0.052229,8,0.256735,0.283347,3458.407226
+1521p,,Quartetto Koeckert,1,Performer,0.028713,8,0.232046,0.255297,0
+1522p,,Quartetto Konzerthaus di Vienna,1,Performer,0.001461,10,0.177751,0.186912,0
+1523p,,Quartetto Loewenguth di Parigi,1,Performer,0.050767,8,0.256177,0.282066,0
+1524p,,Quartetto Margand,1,Performer,0.028713,8,0.232046,0.255297,0
+1525p,,Quartetto Milord Boys,1,Performer,0.00712,8,0.198298,0.21388,0
+1526p,,Quartetto Monteceneri,1,Performer,0.000578,1,1,1,0
+1527p,,Quartetto Parrenin,3,Performer,0.082862,8,0.272137,0.308404,5953.659979
+1529p,,Quartetto Polistrumentale,69,Performer,0.018961,8,0.231989,0.25197,549.621415
+1530p,,Quartetto Pro Arte,1,Performer,0.050767,8,0.256177,0.282066,0
+1532p,,Quartetto Radar,46,Performer,0.061919,8,0.270189,0.296473,7046.132873
+1533p,,Quartetto Record's,82,Performer,0.071962,8,0.280637,0.310299,8803.1138
+1535p,,Quartetto Strauss,1,Performer,0.005568,10,0.189116,0.205479,0
+1536p,,quartetto Stross di Monaco,1,Performer,0.050767,8,0.256177,0.282066,0
+1537p,,Quartetto Tatrai,1,Performer,0.028713,8,0.232046,0.255297,0
+1538p,,Quartetto Ungherese,1,Performer,0.050767,8,0.256177,0.282066,0
+1539p,,Quartetto Urfer,2,Performer,0.050767,8,0.256177,0.282066,0
+1540p,,Quartetto V�gh,2,Performer,0.050767,8,0.256177,0.282066,0
+1541p,,Quincy Jones,2,Performer,0.009586,8,0.210603,0.227642,0
+1542p,,Quintetto a fiato italiano,1,Performer,0.003013,10,0.200106,0.213612,0
+1543p,,Quintetto Basso-Valdambrini,2,Performer,0.011906,8,0.223897,0.241318,569.501819
+1544p,,Quintetto Bruno De Lucia,2,Performer,0.007719,8,0.214676,0.229421,0
+1545p,,Quintetto Chigiano,1,Performer,0.050767,8,0.256177,0.282066,0
+1546p,,Quintetto di fiati di Radio Colonia,1,Performer,0.01344,8,0.225988,0.243668,0
+1547p,,Quintetto di sassofoni Marcel Mule,1,Performer,0.028713,8,0.232046,0.255297,0
+1548p,,Quintetto Italiano,1,Performer,0.006385,8,0.215214,0.229315,0
+1549p,,quintetto Petris,1,Performer,0.000932,2,0.545455,0.583333,0
+1550p,,Quintetto Ragoni,1,Performer,0.000718,2,0.6,0.666667,0
+1551p,,Rafael Kubelik,8,Performer,0.031505,8,0.217497,0.245403,0
+1552p,,Rafael Polani,1,Performer,0.007189,10,0.206365,0.221539,0
+1553p,,Raffaele Ari�,1,Performer,0.028713,8,0.232046,0.255297,0
+1554p,,Raffaele Giangrande,41,Performer,0.001296,2,0.52381,0.545455,0
+1555p,,Raffaele Pisu,33,Performer,0.050767,8,0.256177,0.282066,0
+1556p,,Raffaella D'Esposito,1,Performer,0.001523,10,0.170184,0.178264,0
+1557p,,Raimondo Vianello,169,Performer,0.03497,8,0.238679,0.264199,1102.785674
+1558p,,Raina Kabaiwanska,7,Performer,0.031505,8,0.217497,0.245403,0
+1559p,,Rama Jucker,1,Performer,0.005568,10,0.189116,0.205479,0
+1560p,,Raoul Ceroni,134,Performer,0.075043,8,0.280971,0.31261,20375.494822
+1561p,,Raoul Magrini,1,Performer,0.001824,10,0.170615,0.181825,0
+1562p,,Ray Brown,1,Performer,0.009586,8,0.210603,0.227642,0
+1563p,,Raymonde Servernis,1,Performer,0.050767,8,0.256177,0.282066,0
+1564p,,Regina Crespin,4,Performer,0.031505,8,0.217497,0.245403,0
+1565p,,Regolo Romani,9,Performer,0.031505,8,0.217497,0.245403,0
+1566p,,Reinhold Schmidt,2,Performer,0.031505,8,0.217497,0.245403,0
+1567p,,Rena Gary Falachi,1,Performer,0.024905,10,0.217346,0.24303,0
+1568p,,Renata Mauro,29,Performer,0.021195,8,0.23441,0.254546,0
+1569p,,Renata Scotto,26,Performer,0.031505,8,0.217497,0.245403,0
+1570p,,Renata Tebaldi,15,Performer,0.041092,8,0.242234,0.272723,16051.609231
+1572p,,Renata Villani,8,Performer,0.009586,8,0.210603,0.227642,0
+1573p,,Renato Capecchi,16,Performer,0.038895,8,0.227624,0.257449,566.585374
+1574p,,Renato Carosone,2,Performer,0.021195,8,0.23441,0.254546,0
+1575p,,Renato De Carmine,1,Performer,0.005521,8,0.208647,0.223024,0
+1576p,,Renato Ercolani,4,Performer,0.031505,8,0.217497,0.245403,0
+1577p,,Renato Fait,2,Performer,0.027348,10,0.217898,0.244584,173.295076
+1578p,,Renato Fasano,4,Performer,0.060218,8,0.249076,0.28405,1505.835937
+1579p,,Renato Federighi,1,Performer,0.005568,10,0.189116,0.205479,0
+1580p,,Renato Giangrandi,1,Performer,0.050767,8,0.256177,0.282066,0
+1581p,,Renato Maddalena,5,Performer,0.001166,8,0.181059,0.188801,0
+1582p,,Renato Rascel,122,Performer,0.034635,8,0.255207,0.278578,2368.431336
+1583p,,Renato Ricciardi,2,Performer,0.002245,10,0.166962,0.178349,0
+1584p,,Renato Sellani,6,Performer,0.032993,8,0.252408,0.27516,7394.644063
+1585p,,Renato Tabarroni,1,Performer,0.002245,10,0.166962,0.178349,0
+1586p,,Renato Zanfini,1,Performer,0.050767,8,0.256177,0.282066,0
+1587p,,Rene Alix,2,Performer,0.031505,8,0.217497,0.245403,0
+1588p,,Ren� Blanc,1,Performer,0.003013,10,0.200106,0.213612,0
+1589p,,Ren� Leibowitz,2,Performer,0.024905,10,0.217346,0.24303,0
+1590p,,Renzo Bado,1,Performer,0.000868,10,0.138893,0.143268,0
+1591p,,Renzo Bossi,1,Performer,0.007822,10,0.194938,0.212782,0
+1592p,,Renzo Ferraguzzi,3,Performer,0.009354,8,0.214871,0.231193,2025.037799
+1594p,,Renzo Robuschi,2,Performer,0.050767,8,0.256177,0.282066,0
+1595p,,Renzo Tozzi,1,Performer,0,0,0,0,0
+1596p,,Rheno Jazz Gang,1,Performer,0.006385,8,0.215214,0.229315,0
+1597p,,Ricardo Odnoposoff,2,Performer,0.050767,8,0.256177,0.282066,0
+1598p,,Riccardo Billi,102,Performer,0.071962,8,0.280637,0.310299,8803.1138
+1599p,,Riccardo Brengola,1,Performer,0.050767,8,0.256177,0.282066,0
+1600p,,Riccardo Castagnone,1,Performer,0.007189,10,0.206365,0.221539,0
+1601p,,Riccardo Mantani,35,Performer,0.006385,8,0.215214,0.229315,0
+1603p,,Riccardo Rauchi,11,Performer,0.033558,8,0.238559,0.26374,6249.917916
+1604p,,Riccardo Tamagno,1,Performer,0.024905,10,0.217346,0.24303,0
+1605p,,Ricet Barrier,6,Performer,0.01344,8,0.225988,0.243668,0
+1606p,,Richard Norris,1,Performer,0.007822,10,0.194938,0.212782,0
+1607p,,Richard Rossmayer,4,Performer,0.031505,8,0.217497,0.245403,0
+1608p,,Richard Schumacher,3,Performer,0.075673,8,0.268574,0.302566,2852.458831
+1609p,,Rik Roland,3,Performer,0.01344,8,0.225988,0.243668,0
+1610p,,Rik Valente,2,Performer,0.023447,8,0.235404,0.25663,767.071612
+1611p,,Riki Gianco,1,Performer,0.001136,10,0.177483,0.186098,0
+1612p,,Rina Sala Gallo,1,Performer,0.005568,10,0.189116,0.205479,0
+1613p,,Rinaldo Tosatti,2,Performer,0.005568,10,0.189116,0.205479,0
+1614p,,Rino Castagnino,1,Performer,0.021195,8,0.23441,0.254546,0
+1615p,,Rino Salviati,9,Performer,0.008461,8,0.203516,0.218597,0
+1616p,,Rino Vanni,1,Performer,0.009586,8,0.210603,0.227642,0
+1617p,,Rita Renoir,2,Performer,0.001166,8,0.181059,0.188801,0
+1618p,,Rita Shell,2,Performer,0.006146,10,0.179851,0.195067,0
+1619p,,Riverside Jazz Band,65,Performer,0.056921,8,0.271589,0.302098,43967.285911
+1620p,,Rivista brasiliana,15,Performer,0.008461,8,0.203516,0.218597,0
+1621p,,Rob Nebbia,11,Performer,0.035802,8,0.240505,0.268174,12626.838807
+1622p,,Robert Alexander Bohake,1,Performer,0.050767,8,0.256177,0.282066,0
+1623p,,Robert Fizdale,1,Performer,0.028713,8,0.232046,0.255297,0
+1624p,,Robert Goldsand,1,Performer,0,0,0,0,0
+1625p,,Robert Haas,1,Performer,0.007822,10,0.194938,0.212782,0
+1626p,,Robert Schrade,1,Performer,0.028713,8,0.232046,0.255297,0
+1627p,,Roberto Caruana,4,Performer,0.024905,10,0.217346,0.24303,0
+1628p,,Roberto Herlitzka,14,Performer,0.002385,8,0.199556,0.210663,0
+1629p,,Roberto Lupi,1,Performer,0.050767,8,0.256177,0.282066,0
+1630p,,Roberto Murolo,7,Performer,0.01344,8,0.225988,0.243668,0
+1631p,,Roberto Negri,1,Performer,0.007189,10,0.206365,0.221539,0
+1632p,,Roberto Petrin,1,Performer,0.006385,8,0.215214,0.229315,0
+1633p,,Roberto Pistone,20,Performer,0.01344,8,0.225988,0.243668,0
+1634p,,Roberts Casadeus,1,Performer,0.050767,8,0.256177,0.282066,0
+1635p,,Roby Milione,3,Performer,0.00124,10,0.142415,0.148877,0
+1636p,,Rocky Mountains,2,Performer,0.002252,8,0.196932,0.207754,0
+1637p,,Rocky Mountains Old Time Stompers,2,Performer,0.002252,8,0.196932,0.207754,0
+1638p,,Rodolfo Bonetto,2,Performer,0.003372,8,0.216349,0.227821,0
+1639p,,Rodolfo Caporali,1,Performer,0.050767,8,0.256177,0.282066,0
+1640p,,Roger,2,Performer,0.000718,2,0.6,0.666667,0
+1641p,,Rohan De Saram,1,Performer,0.050767,8,0.256177,0.282066,0
+1642p,,Roland Pellegrini,1,Performer,0.009586,8,0.210603,0.227642,0
+1643p,,Rolando Panerai,16,Performer,0.038895,8,0.227624,0.257449,566.585374
+1644p,,Rolf Rapp,3,Performer,0.024905,10,0.217346,0.24303,0
+1645p,,Roman New Orleans Jazz Band,1,Performer,0.006385,8,0.215214,0.229315,0
+1646p,,Romana Righetti,1,Performer,0,0,0,0,0
+1647p,,Romano Lucchini,13,Performer,0.000985,10,0.165788,0.170879,0
+1648p,,Romano Mussolini,5,Performer,0.008342,8,0.19685,0.213261,1018.412835
+1649p,,Rosa Laghezza,3,Performer,0.050767,8,0.256177,0.282066,0
+1650p,,Rosanna Carteri,5,Performer,0.031505,8,0.217497,0.245403,0
+1651p,,Rosanna Giancola,1,Performer,0.007822,10,0.194938,0.212782,0
+1652p,,Rosella Masseglia Natali,1,Performer,0.002691,8,0.202685,0.213816,0
+1653p,,Rosemarie De Rive,1,Performer,0.01344,8,0.225988,0.243668,0
+1654p,,Rosetta Ely,1,Performer,0.001593,10,0.192002,0.204552,0
+1655p,,Rosita Bentivegna,3,Performer,0.009354,8,0.214871,0.231193,2025.037799
+1656p,,Rosita Winter,1,Performer,0.001523,10,0.170184,0.178264,0
+1657p,,Rossano Jalente,3,Performer,0.00124,10,0.142415,0.148877,0
+1658p,,Rossella Gui,1,Performer,0.021195,8,0.23441,0.254546,0
+1659p,,Rosy De Sevilla,2,Performer,0.00712,8,0.198298,0.21388,0
+1660p,,Rosy Grison,3,Performer,0.006146,10,0.179851,0.195067,0
+1661p,,Rosy Madia,1,Performer,0.006146,10,0.179851,0.195067,0
+1662p,,Roy Bradley,31,Performer,0.007719,8,0.214676,0.229421,0
+1663p,,Roy Bradley and His Crazy Band,31,Performer,0.007719,8,0.214676,0.229421,0
+1664p,,Roy Eldrige,2,Performer,0.021195,8,0.23441,0.254546,0
+1665p,,Ruben Calzado,1,Performer,0.000648,2,0.666667,0.75,0
+1666p,,Rudolf Ewerhart,1,Performer,0.024905,10,0.217346,0.24303,0
+1667p,,Rudolf Firkusny,3,Performer,0.060218,8,0.249076,0.28405,1505.835937
+1668p,,Rudolf Kempe,5,Performer,0.060218,8,0.249076,0.28405,1505.835937
+1669p,,Rudolf Serkin,3,Performer,0.060218,8,0.249076,0.28405,1505.835937
+1670p,,Rudolf Zastner,1,Performer,0.024905,10,0.217346,0.24303,0
+1671p,,Ruggeri Oppi,1,Performer,0.002245,10,0.166962,0.178349,0
+1672p,,Ruggero Gori,50,Performer,0.050767,8,0.256177,0.282066,0
+1673p,,Ruggero Maghini,3,Performer,0.024905,10,0.217346,0.24303,0
+1674p,,Ruggero Oppi,1,Performer,0.002245,10,0.166962,0.178349,0
+1675p,,Ruth Binder,1,Performer,0.028713,8,0.232046,0.255297,0
+1676p,,Ruth Schmid-Gagnebis,1,Performer,0.005568,10,0.189116,0.205479,0
+1677p,,Ryoko Ohono,1,Performer,0.00129,10,0.177017,0.18653,0
+1678p,,Sabrina Nava,2,Performer,0.006146,10,0.179851,0.195067,0
+1679p,,Sacha Distel,1,Performer,0.007719,8,0.214676,0.229421,0
+1680p,,Salvatore Accardo,3,Performer,0.086669,8,0.273716,0.310365,4810.232369
+1681p,,Salvatore Bona,1,Performer,0.002245,10,0.166962,0.178349,0
+1682p,,Salvatore Buccheri,1,Performer,0.002234,10,0.188323,0.200445,0
+1683p,,Salvatore Gioia,3,Performer,0.002431,10,0.178457,0.187511,0
+1684p,,Salvatore Puma,4,Performer,0.031505,8,0.217497,0.245403,0
+1685p,,Sammy Walker,1,Performer,0.006385,8,0.215214,0.229315,0
+1686p,,Samson Francois,1,Performer,0.001424,10,0.183311,0.193758,0
+1687p,,Sandor Konya,8,Performer,0.031505,8,0.217497,0.245403,0
+1688p,,Sandra Ballinari,78,Performer,0.085737,8,0.285304,0.318027,16671.838307
+1689p,,Sandra Mondaini,213,Performer,0.028705,8,0.237239,0.26102,2343.038686
+1690p,,Sandra Peruzzi,1,Performer,0.002078,8,0.191924,0.202018,0
+1691p,,Sandro Dalla Libera,1,Performer,0,0,0,0,0
+1692p,,Sandro Delle Donne,1,Performer,0.000946,12,0.124177,0.128841,0
+1693p,,Sandro Materassi,1,Performer,0.031505,8,0.217497,0.245403,0
+1694p,,Sashko Gravriloff,1,Performer,0.005568,10,0.189116,0.205479,0
+1695p,,Sauro,2,Performer,0.006146,10,0.179851,0.195067,0
+1696p,,Sauro e i ribelli di A. Celentano,3,Performer,0.006146,10,0.179851,0.195067,0
+1697p,,Sbarra e Simoni,1,Performer,0.006146,10,0.179851,0.195067,0
+1698p,,Serafino Bimbo,6,Performer,0.001073,8,0.185948,0.194232,0
+1699p,,Serge Baduo,4,Performer,0.031505,8,0.217497,0.245403,0
+1700p,,Serge Lifar,2,Performer,0.031505,8,0.217497,0.245403,0
+1701p,,Sergia Maddalena,5,Performer,0.001166,8,0.181059,0.188801,0
+1702p,,Sergio Bonfanti,1,Performer,0.007822,10,0.194938,0.212782,0
+1703p,,Sergio Bozzetti,65,Performer,0.065281,8,0.271667,0.301615,7169.03069
+1704p,,Sergio Bruni,5,Performer,0.009586,8,0.210603,0.227642,0
+1705p,,Sergio Cafaro,3,Performer,0.07948,8,0.270344,0.304862,2001.732734
+1706p,,Sergio Crozzoli,3,Performer,0.081241,8,0.273241,0.310321,36325.140566
+1707p,,Sergio Endrigo,8,Performer,0.033942,8,0.241551,0.26895,18072.108629
+1708p,,Sergio Fanni,3,Performer,0.003742,8,0.213849,0.225519,414.217738
+1709p,,Sergio Fiorentino,1,Performer,0.007189,10,0.206365,0.221539,0
+1710p,,Sergio Franchi,1,Performer,0.021195,8,0.23441,0.254546,0
+1711p,,Sergio Lorenzi,4,Performer,0.107178,8,0.28453,0.328192,9804.157428
+1712p,,Sergio Marzorati,1,Performer,0,0,0,0,0
+1713p,,Sergio Massaron,3,Performer,0.050767,8,0.256177,0.282066,0
+1714p,,Sergio Nardi,6,Performer,0.032562,8,0.238438,0.263175,17145.412066
+1715p,,Sergio Renda,1,Performer,0.021195,8,0.23441,0.254546,0
+1716p,,Sergiu Celibidache,33,Performer,0.110986,8,0.284787,0.327839,7440.391647
+1717p,,Sergiu Commissiona,1,Performer,0.050767,8,0.256177,0.282066,0
+1718p,,Serse Busetto,1,Performer,0.001296,2,0.52381,0.545455,0
+1719p,,Sestetto Basso-Valdambrini,1,Performer,0.006385,8,0.215214,0.229315,0
+1720p,,Sestetto Felix,26,Performer,0.002061,10,0.164803,0.174548,1886
+1721p,,Sestetto Jazz Borruto,1,Performer,0.00712,8,0.198298,0.21388,0
+1722p,,sestetto Woltz,1,Performer,0.001477,10,0.164775,0.174195,0
+1723p,,Severino Gazzelloni,7,Performer,0.14308,8,0.302889,0.352269,22114.835706
+1724p,,Shirley Bassey,29,Performer,0.007719,8,0.214676,0.229421,0
+1725p,,Sidney Bechet,2,Performer,0.002196,8,0.188323,0.198191,0
+1726p,,Silvano Bado,1,Performer,0.000868,10,0.138893,0.143268,0
+1727p,,Silvano Berlinghieri,2,Performer,0.002431,10,0.178457,0.187511,0
+1728p,,Silvano De Francesco,5,Performer,0.05402,8,0.258706,0.286106,13203.538433
+1729p,,Silvano Giaccheri,1,Performer,0.001523,10,0.170184,0.178264,0
+1730p,,Silver Disy,1,Performer,0.00712,8,0.198298,0.21388,0
+1731p,,Silvia Guidi,4,Performer,0.01344,8,0.225988,0.243668,0
+1732p,,Simona Gori,3,Performer,0.01344,8,0.225988,0.243668,0
+1733p,,Simonian Bedoyan,1,Performer,0.028713,8,0.232046,0.255297,0
+1734p,,Singakademie di Vienna,2,Performer,0.031505,8,0.217497,0.245403,0
+1735p,,Sirio Piovesan,1,Performer,0.050767,8,0.256177,0.282066,0
+1736p,,Slavko Zlatic,1,Performer,0.028713,8,0.232046,0.255297,0
+1737p,,Societ� cameristica italiana di Firenze,1,Performer,0.007822,10,0.194938,0.212782,0
+1738p,,solisti della Soci�t� Bach d'Anvers,1,Performer,0.050767,8,0.256177,0.282066,0
+1739p,,Sonia Gessner,14,Performer,0.001425,10,0.15951,0.167741,0
+1740p,,Sportelli,1,Performer,0.00712,8,0.198298,0.21388,0
+1741p,,Stan Getz,5,Performer,0.030781,8,0.239589,0.2654,1605.866221
+1742p,,Stanley Weiner,1,Performer,0.00129,10,0.177017,0.18653,0
+1743p,,Stefania Malag�,14,Performer,0.038895,8,0.227624,0.257449,566.585374
+1744p,,Stefania Sina Daris,3,Performer,0.002431,10,0.178457,0.187511,0
+1745p,,Stella Dizzy,3,Performer,0.026509,8,0.236525,0.259209,556.668468
+1746p,,Stepjan Sulek,1,Performer,0.028713,8,0.232046,0.255297,0
+1747p,,Stjepan Andrasevic,2,Performer,0.031505,8,0.217497,0.245403,0
+1748p,,Suddeutsches Kammertrio,1,Performer,0.000928,10,0.185363,0.196144,0
+1749p,,Susanna Egri,2,Performer,0.024905,10,0.217346,0.24303,0
+1750p,,Susanna Mildonian,1,Performer,0.007189,10,0.206365,0.221539,0
+1751p,,Sviatoslav Richter,3,Performer,0.060218,8,0.249076,0.28405,1505.835937
+1752p,,Sylvia Rosenberg,1,Performer,0.050767,8,0.256177,0.282066,0
+1753p,,Szymon Goldberg,1,Performer,0.050767,8,0.256177,0.282066,0
+1754p,,Takahiro Sonoda,1,Performer,0.050767,8,0.256177,0.282066,0
+1755p,,Tamas Vasary,1,Performer,0.050767,8,0.256177,0.282066,0
+1756p,,Tatiana Kozelkin,1,Performer,0,0,0,0,0
+1757p,,Teatro dei burattini di Mosca,14,Performer,0.005521,8,0.208647,0.223024,0
+1758p,,Teatro di studio della danza di Torino,2,Performer,0.024905,10,0.217346,0.24303,0
+1759p,,Teatro Stabile di Torino,13,Performer,0.050767,8,0.256177,0.282066,0
+1760p,,Teddy Lane,7,Performer,0.021195,8,0.23441,0.254546,0
+1761p,,Teddy Reno,15,Performer,0.008461,8,0.203516,0.218597,0
+1762p,,Teodoro Rovetta,9,Performer,0.034105,10,0.219266,0.248612,2103.206403
+1763p,,Teresa Berganza,9,Performer,0.007389,10,0.203692,0.219232,0
+1764p,,Teresa Stich Randall,2,Performer,0.031505,8,0.217497,0.245403,0
+1765p,,Teresa Strauss,3,Performer,0.031505,8,0.217497,0.245403,0
+1766p,,Thaddeus Kozouch,1,Performer,0,0,0,0,0
+1767p,,The Four Saints,53,Performer,0.01525,8,0.222052,0.240107,7980.788809
+1768p,,The golden age singers of London,1,Performer,0.002234,10,0.188323,0.200445,0
+1769p,,The King's Men,1,Performer,0.002252,8,0.196932,0.207754,0
+1770p,,Th��tre d'Art du Ballet,2,Performer,0.021195,8,0.23441,0.254546,0
+1771p,,Theatre National Populaire,13,Performer,0.005521,8,0.208647,0.223024,0
+1772p,,Thelonius Monk,2,Performer,0.021195,8,0.23441,0.254546,0
+1773p,,Thomas Schippers,5,Performer,0.031505,8,0.217497,0.245403,0
+1774p,,Thomas Ungar,1,Performer,0.050767,8,0.256177,0.282066,0
+1775p,,Tina Brooks,3,Performer,0.005521,8,0.208647,0.223024,0
+1776p,,Tina Signorile,1,Performer,0.002245,10,0.166962,0.178349,0
+1777p,,Tina Toscano,1,Performer,0.00108,10,0.16466,0.171489,0
+1778p,,Tino Buazzelli,51,Performer,0.005521,8,0.208647,0.223024,0
+1779p,,Tino Carraro,363,Performer,0.021244,8,0.232561,0.253675,5649.132081
+1780p,,Tino D'Ambrosio,1,Performer,0.006146,10,0.179851,0.195067,0
+1781p,,Tino Scotti,55,Performer,0.0149,8,0.218251,0.237846,415.454575
+1782p,,Tito Gobbi,6,Performer,0.031505,8,0.217497,0.245403,0
+1783p,,Toni,2,Performer,0.000718,2,0.6,0.666667,0
+1784p,,Tonina Torrielli,20,Performer,0.080423,8,0.283333,0.31476,13033.219743
+1785p,,Tonini Nava,7,Performer,0.021195,8,0.23441,0.254546,0
+1786p,,Tonino Formisano,3,Performer,0.000946,12,0.124177,0.128841,0
+1787p,,Tonino Pierfederici,32,Performer,0.005314,8,0.200958,0.214131,0
+1788p,,Tony Dallara,10,Performer,0.034579,8,0.238559,0.26344,1966.189045
+1789p,,Tony De Vita Quartet,3,Performer,0.002298,8,0.200064,0.21113,0
+1790p,,Tony Renis,5,Performer,0.029656,8,0.236941,0.260136,317.954188
+1791p,,Tot� Ruta,1,Performer,0.001824,10,0.170615,0.181825,0
+1792p,,Trio Akeff,5,Performer,0.028914,8,0.240935,0.264597,1057.053937
+1793p,,Trio Cacciatori,1,Performer,0.01344,8,0.225988,0.243668,0
+1794p,,Trio Daniels,1,Performer,0.00712,8,0.198298,0.21388,0
+1795p,,Trio Davide Mosconi,2,Performer,0.006385,8,0.215214,0.229315,0
+1796p,,Trio di Colonia,1,Performer,0.007822,10,0.194938,0.212782,0
+1797p,,Trio di Como,1,Performer,0.005568,10,0.189116,0.205479,0
+1798p,,Trio di Trieste,8,Performer,0.110986,8,0.284787,0.327839,7440.391647
+1799p,,Trio Los Paraguajos,16,Performer,0.008461,8,0.203516,0.218597,0
+1800p,,Trio Oscar Peterson,1,Performer,0.009586,8,0.210603,0.227642,0
+1801p,,Trio Pro Musica,3,Performer,0.042103,8,0.24443,0.27562,16871.933074
+1802p,,"Trio Rock ""La rovina del secolo""",1,Performer,0.00712,8,0.198298,0.21388,0
+1803p,,Trio sorelle Joyce,6,Performer,0.008461,8,0.203516,0.218597,0
+1804p,,Tullio Pendoli,27,Performer,0.006385,8,0.215214,0.229315,0
+1805p,,Tusa Santo,2,Performer,0.002385,8,0.199556,0.210663,0
+1806p,,Ugo Calise,6,Performer,0.01344,8,0.225988,0.243668,0
+1807p,,Ugo Rinaldi,1,Performer,0.006146,10,0.179851,0.195067,0
+1808p,,Ugo Tognazzi,10,Performer,0.008461,8,0.203516,0.218597,0
+1809p,,Ugo Trama,2,Performer,0.024905,10,0.217346,0.24303,0
+1810p,,Umberto Benedetti Michelangeli,1,Performer,0.050767,8,0.256177,0.282066,0
+1811p,,Umberto Bindi,24,Performer,0.051965,8,0.264954,0.296216,43000.42484
+1812p,,Umberto Cas�,3,Performer,0.003801,8,0.198967,0.211234,295.045803
+1813p,,Umberto Cattini,9,Performer,0.107178,8,0.28453,0.328192,9804.157428
+1814p,,Umberto Fusco,3,Performer,0.021195,8,0.23441,0.254546,0
+1815p,,Valentina Fortunato,135,Performer,0.000773,10,0.158812,0.165085,0
+1816p,,Valentino Barcellesi,2,Performer,0.006444,10,0.189306,0.206363,9410
+1817p,,Valeria Fabrizi,20,Performer,0.021195,8,0.23441,0.254546,0
+1818p,,Valeria Moriconi,44,Performer,0.009586,8,0.210603,0.227642,0
+1819p,,Valerio e i suoi milionari,3,Performer,0.006146,10,0.179851,0.195067,0
+1820p,,Vally Losacco,1,Performer,0.007822,10,0.194938,0.212782,0
+1821p,,Van Cliburn,2,Performer,0.031505,8,0.217497,0.245403,0
+1822p,,Vanna Ibba,2,Performer,0.002252,8,0.196932,0.207754,0
+1823p,,Vanni Catellani,2,Performer,0.002245,10,0.166962,0.178349,0
+1824p,,Vera Biondi,1,Performer,0.001523,10,0.170184,0.178264,0
+1825p,,Vera Franceschi,1,Performer,0.050767,8,0.256177,0.282066,0
+1826p,,Vici De Roll,2,Performer,0.013266,8,0.204886,0.225895,1183.170819
+1827p,,Vigilio Piubeni,16,Performer,0.008461,8,0.203516,0.218597,0
+1828p,,Vincenzo De Toma,41,Performer,0.001296,2,0.52381,0.545455,0
+1829p,,Vincenzo Menghini,2,Performer,0.024905,10,0.217346,0.24303,0
+1830p,,Vinicio Cocchieri,3,Performer,0.002431,10,0.178457,0.187511,0
+1831p,,Virgilio Carbonari,18,Performer,0.031505,8,0.217497,0.245403,0
+1832p,,Virgilio Mortari,1,Performer,0.050767,8,0.256177,0.282066,0
+1833p,,Virginia Babikian,1,Performer,0.024905,10,0.217346,0.24303,0
+1834p,,Virginia Zeani,4,Performer,0.031505,8,0.217497,0.245403,0
+1835p,,Virginio Puecher,20,Performer,0,0,0,0,0
+1836p,,Vito Maltesi,2,Performer,0.002245,10,0.166962,0.178349,0
+1837p,,Vittoria Crispo,22,Performer,0.009586,8,0.210603,0.227642,0
+1838p,,Vittoria Milicescu,1,Performer,0.024905,10,0.217346,0.24303,0
+1839p,,Vittoria Mongardi,11,Performer,0.008461,8,0.203516,0.218597,0
+1840p,,Vittorina Gatti,2,Performer,0.006146,10,0.179851,0.195067,0
+1841p,,Vittorio Caprioli,23,Performer,0.050767,8,0.256177,0.282066,0
+1842p,,Vittorio Congia,2,Performer,0.021195,8,0.23441,0.254546,0
+1843p,,Vittorio Franceschi,1,Performer,0.00117,10,0.167198,0.174194,0
+1844p,,Vittorio Gassman,39,Performer,0.000648,2,0.666667,0.75,0
+1845p,,Vittorio Giuliani,13,Performer,0.014607,8,0.226313,0.244684,1188.87085
+1846p,,Vittorio Gui,6,Performer,0.135891,8,0.29886,0.346899,15391.182241
+1847p,,Vittorio Paltrinieri,10,Performer,0.003285,10,0.165034,0.175496,16922
+1848p,,Vittorio Paltrinieri e i suoi solisti,1,Performer,0.000663,12,0.124112,0.128312,0
+1849p,,Vittorio Sforzi,1,Performer,0.00712,8,0.198298,0.21388,0
+1850p,,Vivienne Bocca,2,Performer,0.002149,10,0.187165,0.198396,0
+1851p,,Vladimir Vogel,1,Performer,0.024905,10,0.217346,0.24303,0
+1852p,,Vladimiro Ganzarolli,8,Performer,0.031505,8,0.217497,0.245403,0
+1853p,,Walter Artioli,1,Performer,0.003372,8,0.216349,0.227821,0
+1854p,,Walter Baracchi,4,Performer,0.027919,10,0.218049,0.245105,365.723241
+1855p,,Walter Battagliola,1,Performer,0.005568,10,0.189116,0.205479,0
+1856p,,Walter Chiari,118,Performer,0.071962,8,0.280637,0.310299,8803.1138
+1857p,,Walter Gullino,21,Performer,0.038895,8,0.227624,0.257449,566.585374
+1858p,,Walter Marcheselli,1,Performer,0.005314,8,0.200958,0.214131,0
+1859p,,Walter Marchetti,1,Performer,0.00712,8,0.198298,0.21388,0
+1860p,,Walter Quiricone,1,Performer,0.001813,10,0.187873,0.197561,0
+1861p,,Wanda Luzzato,1,Performer,0.028713,8,0.232046,0.255297,0
+1862p,,Wanda Osiris,86,Performer,0.093863,6,0.293468,0.328343,22259.680956
+1863p,,Weber Bianchi,1,Performer,0.005568,10,0.189116,0.205479,0
+1864p,,Wera Nepy,10,Performer,0.030729,8,0.237179,0.260887,1248.778413
+1865p,,West-deutsches Kammer Trio,1,Performer,0.00129,10,0.177017,0.18653,0
+1866p,,Wiener Kammerchor,1,Performer,0.024905,10,0.217346,0.24303,0
+1867p,,Wilhelm Backhaus,6,Performer,0.060218,8,0.249076,0.28405,1505.835937
+1868p,,Wilhelm Huebner,1,Performer,0.028713,8,0.232046,0.255297,0
+1869p,,Wilhelm Kempff,2,Performer,0.071962,8,0.280637,0.310299,8803.1138
+1870p,,Willem van Otterloo,2,Performer,0.071962,8,0.280637,0.310299,8803.1138
+1871p,,William Steiberg,2,Performer,0.031505,8,0.217497,0.245403,0
+1872p,,Willie Ruff,4,Performer,0.001425,10,0.15951,0.167741,0
+1873p,,Wilma De Angelis,5,Performer,0.014101,8,0.210509,0.228417,1160.527108
+1874p,,Wilma Lipp,2,Performer,0.031505,8,0.217497,0.245403,0
+1875p,,Wilma Zawar,10,Performer,0.00712,8,0.198298,0.21388,0
+1876p,,Winy Vagliani,6,Performer,0.01344,8,0.225988,0.243668,0
+1877p,,Wladimiro Ganzarolli,8,Performer,0.038895,8,0.227624,0.257449,566.585374
+1878p,,Wolfgang Sawallisch,2,Performer,0.031505,8,0.217497,0.245403,0
+1879p,,Wynton Kelly,1,Performer,0.021195,8,0.23441,0.254546,0
+1880p,,X 4,57,Performer,0.021195,8,0.23441,0.254546,0
+1881p,,Xaver Meyer,1,Performer,0.028713,8,0.232046,0.255297,0
+1882p,,Xavier Cugat,5,Performer,0.021195,8,0.23441,0.254546,0
+1883p,,Yehudi Menuhin,1,Performer,0.031505,8,0.217497,0.245403,0
+1884p,,Yvan Baarspul,1,Performer,0,0,0,0,0
+1885p,,Yves Montand,3,Performer,0.050767,8,0.256177,0.282066,0
+1886p,,Zelmira Brunel,1,Performer,0.007189,10,0.206365,0.221539,0
+1887p,,Zimra Ornatt,2,Performer,0.008781,10,0.2099,0.22625,563.281724
+1888p,,Zino Francescatti,4,Performer,0.110986,8,0.284787,0.327839,7440.391647
+1889p,,Zita Pellegrini,1,Performer,0.005568,10,0.189116,0.205479,0
+1890p,,Zoe Collins,2,Performer,0.006385,8,0.215214,0.229315,0
+1891p,,Zoot Sims,3,Performer,0.009586,8,0.210603,0.227642,0
+1892p,,Zubin Mehta,3,Performer,0.056411,8,0.244493,0.281619,3018.875621
+1893p,,Zvi Zeitlin,1,Performer,0.050767,8,0.256177,0.282066,0
+1894p,,Teatro Popolare Italiano,39,Performer,0.000648,2,0.666667,0.75,0
+1895p,,Aldo Allori,37,Performer,0.009586,8,0.210603,0.227642,0
+1896p,,Aldo Mancinelli,3,Performer,0.031505,8,0.217497,0.245403,0
+1897p,,Alexander Zakin,1,Performer,0.028713,8,0.232046,0.255297,0
+1898p,,Alexandre Lagoya,1,Performer,0.050767,8,0.256177,0.282066,0
+1899p,,Alfredo Giacomotti,13,Performer,0.038895,8,0.227624,0.257449,566.585374
+1900p,,Alicia Diaz,6,Performer,0.009586,8,0.210603,0.227642,0
+1901p,,Alois Kina,1,Performer,0.028713,8,0.232046,0.255297,0
+1902p,,Alvaro Alvisi,7,Performer,0.021195,8,0.23441,0.254546,0
+1903p,,Alvaro Vicencio,1,Performer,0.009586,8,0.210603,0.227642,0
+1904s,,Amedeo Manzato,1,Performer,0.000932,2,0.545455,0.583333,0
+1905s,,Amelia Benvenuti,2,Performer,0.021195,8,0.23441,0.254546,0
+1906s,,Amy Shuard,3,Performer,0.031505,8,0.217497,0.245403,0
+1907s,,Andr� Jaunet,1,Performer,0.024905,10,0.217346,0.24303,0
+1908s,,Andrei Mitrik,1,Performer,0.028713,8,0.232046,0.255297,0
+1909s,,Andreja Preger,1,Performer,0.028713,8,0.232046,0.255297,0
+1910s,,Angelo Musco,1,Performer,0.003013,10,0.200106,0.213612,0
+1911s,,Angiola Gigliani,2,Performer,0.050767,8,0.256177,0.282066,0
+1912s,,Anna Bonomelli,1,Performer,0.007822,10,0.194938,0.212782,0
+1913s,,Anna Maccianti,2,Performer,0.002431,10,0.178457,0.187511,0
+1914s,,Anna Maria Greco,2,Performer,0.009586,8,0.210603,0.227642,0
+1915s,,Anna Ridolfi,33,Performer,0.002131,10,0.167258,0.17468,752.4
+1916s,,Anna Salento,16,Performer,0.007719,8,0.214676,0.229421,0
+1917s,,Annie Fisher,2,Performer,0.031505,8,0.217497,0.245403,0
+1918s,,Antonio De Vico,1,Performer,0.00712,8,0.198298,0.21388,0
+1919s,,Arlette Eggman,1,Performer,0.050767,8,0.256177,0.282066,0
+1920s,,Art Farmer,1,Performer,0.021195,8,0.23441,0.254546,0
+1921s,,Asmara,1,Performer,0.00712,8,0.198298,0.21388,0
+1922s,,Aureliano Arcidiacono,1,Performer,0.024905,10,0.217346,0.24303,0
+001s,,Accademia Csaky,4,Sala da concerto,0.001164,1,1,1,1
+002s,,Agape degli Artisti,3,Sala da concerto,0.003596,1,1,1,15
+003s,,Al pozzo club,0,Whisky a go-go,0,0,0,0,0
+004s,,Ambrosianeum,42,Sala da concerto,0.060887,9,0.233193,0.270692,104660.842098
+005s,,Angelicum,150,Sala da concerto,0.433606,9,0.277663,0.347597,282932.510303
+006s,,Arenella,143,Dancing,0.01132,9,0.197261,0.215332,15340.159231
+007s,,Astoria,12,Night club,0.016344,9,0.20569,0.227701,14358.975821
+008s,,Auditorium Tesio,1,Teatro,0,0,0,0,0
+009s,,Basilica di San Ambrogio,37,Teatro/Sala da concerto,0.015525,9,0.239103,0.260521,3783.860208
+010s,,Bel Sit,1,Night club,0.001164,1,1,1,1
+011s,,Biblioteca Germanica,2,Sala da concerto,0.007372,9,0.227514,0.248046,2467.142369
+012s,,Birra Italia,22,Night club,0.006597,9,0.166051,0.177852,16938
+013s,,Caff� Missori,1,Altro,0,0,0,0,0
+014s,,Caprice,0,Night club,0,0,0,0,0
+015s,,Caravella,0,Night club,0,0,0,0,0
+017s,,Centro Culturale Pirelli,5,Sala da concerto,0.014448,9,0.237598,0.262695,10239.46854
+018s,,Centro francese di studi e informazioni,5,Sala da concerto,0.004308,9,0.1887,0.201626,7538
+019s,,Chet Baker Club,0,Night club,0.007932,9,0.221012,0.237777,5869.574165
+020s,,Cinema Carcano,90,Cinema teatro,0.067419,9,0.219266,0.254997,97699.286624
+021s,,Cinema Gloria,8,Cinema teatro,0.014158,9,0.216151,0.234055,9524.105745
+022s,,Cinema Orfeo,1,Cinema teatro,0.008406,9,0.215756,0.232414,4570.709361
+023s,,Circolo Alessandro Volta,2,Sala da concerto,0.003323,11,0.159294,0.170017,7538
+024s,,Circolo del Castello,1,Sala da concerto,0.000578,1,1,1,0
+025s,,Circolo della Rinascente,9,Sala da concerto,0.024115,7,0.256247,0.279356,18678.192939
+026s,,Circolo della Stampa,38,Sala da concerto,0.110571,9,0.259989,0.295514,73089.782977
+027s,,Circolo di Via Marsala,1,Sala da concerto,0.007147,9,0.208878,0.223567,72.419509
+028s,,Circolo Filologico Milanese,5,Sala da concerto,0.006324,9,0.20948,0.224536,8064.635355
+029s,,Coccodrillo,0,Night club,0,0,0,0,0
+030s,,Conservatorio Giuseppe Verdi (sala Puccini),60,Sala da concerto,0.104587,9,0.242109,0.284214,104988.128956
+031s,,Conservatorio Giuseppe Verdi (sala Verdi),182,Sala da concerto,0.52244,7,0.302113,0.369082,346057.036266
+032s,,Conty Grill (Hotel Continental),1,Night club,0.002051,9,0.181757,0.191179,1886
+033s,,Derby Club,1,Night club,0,0,0,0,0
+034s,,Eidac,1,Sala da concerto,0.000578,1,1,1,0
+035s,,El Flamingo,1,Night club,0.001424,11,0.141688,0.148163,1886
+036s,,El Maroco,41,Night club,0.020657,7,0.237478,0.258696,29249.878819
+037s,,Embassy Club,0,Night club,0,0,0,0,0
+038s,,Europa Club,1,Night club,0.000578,1,1,1,0
+039s,,Famiglia Artistica Milanese,5,Sala da concerto,0.006093,9,0.197096,0.209831,7805.521134
+040s,,Famiglia Siciliana,1,Sala da concerto,0.008424,9,0.215165,0.229693,498.242881
+041s,,Florida,2,Night club,0.000728,11,0.157697,0.164382,0
+042s,,Galleria Blu,1,Sala da concerto,0.000578,1,1,1,0
+043s,,Gatto Verde,4,Night club,0.003125,9,0.161282,0.168697,7538
+044s,,Hi-Fi Club,0,Whisky a go-go,0,0,0,0,0
+045s,,Hotel Cavalieri,5,Night club,0.003596,1,1,1,15
+046s,,Hotel Principe & Savoia,2,Night club,0.014163,9,0.22096,0.239038,6512.18252
+047s,,Il Globo (Bande Nere),9,Teatro,0.004122,11,0.143411,0.149558,1891
+048s,,Il Globo (Molino delle Armi),39,Teatro,0.001164,1,1,1,1
+049s,,Il Globo (Restelli),104,Teatro,0.006973,9,0.200745,0.214089,16922
+050s,,Il Globo (San Barnaba),21,Teatro,0.012471,7,0.221896,0.239107,12802.631905
+051s,,Istituto dei ciechi (Sala Barozzi),19,Sala da concerto,0.033017,9,0.230234,0.254449,4097.00884
+052s,,La Bagatelle,1,Night club,0.001164,1,1,1,1
+053s,,La Barca d'Oro,1,Night club,0.000578,1,1,1,0
+054s,,La Lucciola,2,Night club,0.001759,1,1,1,3
+055s,,La Maggiolina,5,Dancing,0.000697,11,0.141497,0.147394,0
+056s,,La Tarantola,0,Whisky a go-go,0,0,0,0,0
+057s,,Le Roi,2,Night club,0,0,0,0,0
+058s,,Lido,4,Night club,0.000842,11,0.141667,0.14781,0
+059s,,Lid� Trianon,23,Night club,0.003842,11,0.141773,0.149576,9420
+060s,,Lid� Trianon,1,Night club,0,0,0,0,0
+061s,,Lyceum,7,Sala da concerto,0.010436,9,0.205064,0.221091,22566
+062s,,Maxim,3,Dancing,0.002051,9,0.181757,0.191179,1886
+063s,,Montemerlo Rendez-Vous,1,Night club,0.000578,1,1,1,0
+064s,,Monterosa,83,Dancing,0.004828,9,0.198715,0.208251,7583.328279
+065s,,Moulin Rouge,0,Night club,0,0,0,0,0
+066s,,Museo della Scienza,1,Sala da concerto,0.007651,9,0.199767,0.215422,220.118219
+067s,,Night Club 68 (Milan Noueva),8,Night club,0.010031,7,0.228395,0.244513,1967.121214
+068s,,Odeon Giardino,17,Night club,0.018623,9,0.200404,0.223445,37629.640004
+069s,,Palazzo del Ghiaccio,12,Palazzetto,0.046337,7,0.260707,0.286574,28200.671681
+070s,,Palazzo dello Sport,19,Palazzetto,0.035709,7,0.254176,0.277779,9636.883563
+071s,,Palazzo Durini,8,Sala da concerto,0.042777,9,0.250133,0.278233,21097.347796
+072s,,Palazzo Sormani,1,Sala da concerto,0.004844,9,0.190799,0.203419,0.166667
+073s,,Piccola Scala,153,Teatro/Sala da concerto,0.114307,9,0.25576,0.292026,62786.815334
+074s,,Piccolo bar,2,Night club,0.001634,9,0.189954,0.199952,0
+075s,,Piccolo Teatro,766,Teatro/Sala da concerto,0.067146,7,0.263621,0.297459,68636.637001
+076s,,Pick-up Club,0,Whisky a go-go,0,0,0,0,0
+077s,,Pigalle,0,Dancing,0,0,0,0,0
+078s,,Pinacoteca di Brera,13,Sala da concerto,0.027299,9,0.231989,0.256513,10849.173576
+079s,,Politecnico,7,Sala da concerto,0.01121,9,0.224429,0.245133,10714.29114
+080s,,Porta d'Oro,5,Night club,0.007245,9,0.197261,0.213731,24415.900667
+081s,,Punta dell'Est,1,Night club,0.00073,9,0.164574,0.170916,0
+082s,,Ristorante Grande Italia,4,Night club,0.000578,1,1,1,0
+083s,,Sala Leone XIII,13,Sala da concerto,0.00933,9,0.215067,0.233593,12138.079535
+084s,,Sans Souci,1,Night club,0.000578,1,1,1,0
+085s,,Santa Tecla Saloon,16,Night club,0.025917,7,0.245192,0.267894,16875.141494
+086s,,Sede U.S.I.S.,3,Sala da concerto,0,0,0,0,0
+087s,,Sferisterio Diana,3,Sala da concerto,0.004884,9,0.213703,0.227546,3771
+088s,,Shangai,0,Night club,0.00101,9,0.176785,0.184754,0
+089s,,Societ� del Giardino,1,Sala da concerto,0,0,0,0,0
+090s,,Star Jolly Club,2,Night club,0.000578,1,1,1,0
+091s,,Stork,0,Night club,0.001759,1,1,1,3
+093s,,Supercinema Alcione,67,Cinema/Teatro,0.085433,7,0.247313,0.285292,129045.934884
+094s,,Taverna della giarrettiera,1,Night club,0.000743,11,0.143106,0.150033,0
+095s,,Taverna Duomo (Gran Hotel Duomo),14,Night club,0.021405,7,0.250066,0.273871,32633.785299
+096s,,Taverna Messicana,1,Night club,0,0,0,0,0
+097s,,Teatrino del Corso,124,Teatro/Sala da concerto,0.023032,9,0.230234,0.253245,18505.409208
+098s,,Teatro all'aperto di Vermezzo,50,Teatro/Sala da concerto,0.008967,9,0.189763,0.205456,20691
+099s,,Teatro alle Maschere,148,Teatro,0.009958,7,0.221064,0.236196,5788.558208
+100s,,Teatro alla Scala,803,Teatro/Sala da concerto,0.564029,7,0.277909,0.356769,318953.431396
+101s,,Teatro Convegno,73,Teatro,0.006837,1,1,1,55
+102s,,Teatro dal Verme,35,Cinema teatro,0.022531,7,0.231989,0.252729,20806.715941
+103s,,Teatro dell'arte,35,Teatro/Sala da concerto,0.022585,7,0.249273,0.273235,33296.342609
+104s,,Teatro Elena,2,Cinema teatro,0.017418,9,0.231307,0.251253,15130.113027
+105s,,Teatro Gerolamo,545,Teatro/Sala da concerto,0.197306,7,0.291925,0.339332,217562.264398
+106s,,Teatro Lirico,877,Teatro/Sala da concerto,0.338186,7,0.306132,0.364148,381289.800525
+107s,,Teatro Manzoni,396,Teatro/Sala da concerto,0.124905,7,0.266751,0.310094,137195.639133
+108s,,Teatro Nuovo,805,Teatro/Sala da concerto,1,7,0.344343,0.427875,738557.439471
+109s,,Teatro Odeon,838,Teatro,0.076053,7,0.251466,0.281639,47697.427027
+110s,,Teatro Olimpia (Olimpia Music Hall),498,Teatro/Sala da concerto/Dancing,0.105084,7,0.27332,0.309782,110411.945641
+111s,,Teatro Puccini,16,Teatro/Sala da concerto,0.020208,9,0.217196,0.236773,39438.831854
+112s,,Teatro Rosetum,1,Sala da concerto,0.006785,9,0.198673,0.216457,4392.507384
+113s,,Teatro San Marco,82,Teatro/Sala da concerto,0.080381,7,0.274194,0.308401,85956.776583
+114s,,Teatro Sant'Erasmo,118,Teatro/Sala da concerto,0.025945,7,0.241304,0.263828,14845.138743
+115s,,Teatro Smeraldo,212,Cinema teatro,0.129424,7,0.255483,0.292046,80750.461782
+116s,,Trocadero,33,Night club,0.002975,1,1,1,10
+117s,,Teatro del Popolo (Umanitaria),1,Sala da concerto,0.043644,7,0.276039,0.301513,33841.123845
+118s,,Universit� Cattolica,1,Sala da concerto,0.000578,1,1,1,0
+119s,,Universit� degli Studi,1,Sala da concerto,0.002883,9,0.195301,0.210269,0
+120s,,Universit� popolare,1,Sala da concerto,0,0,0,0,0
+121s,,Whisky notte a gogo,0,Whisky a go-go,0,0,0,0,0
+122s,,Sala Ricordi,3,Sala da concerto,0.00919,9,0.22973,0.250794,2088.622739
+123s,,International Sporting Club,1,Night club,0.00255,9,0.206591,0.217286,0
+124s,,Yamaican Night,1,Night club,0.001759,1,1,1,3
+135s,,Castello Sforzesco,,,0.00303,9,0.188776,0.199767,2163.11757

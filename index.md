@@ -18,7 +18,7 @@ Part of the project was realized with the support of Small Grants AIUCD 2022.
 
 
 
-<img src="images/AIUCD_logo.png" style="width:279px;height:50px;">
+<img src="images/AIUCD_logo.png" style="width:329px;height:100px;">
 
 <img src="images/Billie.jpg">
 

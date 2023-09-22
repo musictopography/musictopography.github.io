@@ -4,7 +4,7 @@ tagline:             'Music Topography of a City'
 description:         'Prototype website for PhD project "Milan 1958-1962: Music Topography of a City" by Martin Nicastro'
 url:                 https://musictopography.github.io/
 baseurl:             ''
-paginate:            3
+paginate:            4
 permalink:           pretty
 
 # About/contact

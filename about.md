@@ -27,7 +27,7 @@ These data are geographically visualized in four interactive digital maps, progr
 
 <b>Both visualizations were used to catalyze the memories of eight musicians of the time</b>, during interviews recorded with professional equipment. The audio-video materials created from these meetings are visualized in a [specific digital map] (https://musictopography.github.io/Milan_1958_1962_mmm/Milan_1958_1962_mmm.html), creating a <b>feedback-based synergy between quantitative and qualitative tools </b>. In addition to this, the use of field research was crucial to balance the risk of a research exclusively based on the analysis of data and as such potentially too distant from the experiential dimension of musical practices.
 
-All the materials produced during the research ([maps](https://musictopography.github.io//map/), [network graphs] (https://musictopography.github.io//graphs/), graphs and [interviews] (https://musictopography.github.io//interviews/) ) are accessible through dedicated pages.
+All the materials produced during the research ([maps](https://musictopography.github.io//map/), [network graphs] (https://musictopography.github.io//network_graphs/), graphs and [interviews] (https://musictopography.github.io//interviews/) ) are accessible through dedicated pages.
 
 ## Topics:
 

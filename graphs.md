@@ -9,17 +9,19 @@ title: Graphs
 
 [Full graph](https://musictopography.github.io/cicli_totale.html)
 
-<img src="https://musictopography.github.io/cicli_totale.html" width="800" height="800">
+<iframe src="https://musictopography.github.io/cicli_totale.html" width="110%" height="650"></iframe>
+
+
 
 
 ## Weekly cycle
 
 [Full graph](https://musictopography.github.io/cicli_settimana.html)
 
-<img src="https://musictopography.github.io/cicli_settimana.html" width="800" height="800">
+<iframe src="https://musictopography.github.io/cicli_settimana.html" width="110%" height="650"></iframe>
 
 ## Yearly cycle
 
 [Full graph](https://musictopography.github.io/cicli_anno.html)
 
-<img src="https://musictopography.github.io/cicli_anno.html" width="800" height="800">
+<iframe src="https://musictopography.github.io/cicli_anno.html" width="110%" height="650"></iframe>

@@ -1,0 +1,124 @@
+Id,Label,nome,attributo,tipologia,categoria,eigencentrality,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,Weighted Degree,modularity_class,clustering,triangles,giantcomponent
+001s,Accademia Csaky,Accademia Csaky,4,Sala da concerto,Spazio,0.001164,0,0,0,0,0,0,0,0,0
+002s,Agape degli Artisti,Agape degli Artisti,3,Sala da concerto,Spazio,0.003596,0,0,0,0,0,1,0,0,1
+003s,Al pozzo club,Al pozzo club,0,Whisky a go-go,Spazio,0,0,0,0,0,0,2,0,0,2
+004s,Ambrosianeum,Ambrosianeum,42,Sala da concerto,Spazio,0.060887,4,0.426316,0.490741,91.500653,15,0,0.422222,19,3
+005s,Angelicum,Angelicum,150,Sala da concerto,Spazio,0.433606,4,0.487952,0.579218,54.27718,116,8,0.452632,86,3
+006s,Arenella,Arenella,143,Dancing,Spazio,0.01132,4,0.417526,0.465021,80.25,9,7,0.666667,14,3
+007s,Astoria,Astoria,12,Night club,Spazio,0.016344,4,0.442623,0.5,12.016422,17,7,0.733333,33,3
+008s,Auditorium Tesio,Auditorium Tesio,1,Teatro,Spazio,0,0,0,0,0,0,4,0,0,4
+009s,Basilica di San Ambrogio,Basilica di San Ambrogio,37,Teatro/Sala da concerto,Spazio,0.015525,4,0.462857,0.527778,25.243669,29,3,0.636364,42,3
+010s,Bel Sit,Bel Sit,1,Night club,Spazio,0.001164,0,0,0,0,0,5,0,0,5
+011s,Biblioteca Germanica,Biblioteca Germanica,2,Sala da concerto,Spazio,0.007372,4,0.417526,0.466049,0.333333,6,0,0.933333,14,3
+012s,Birra Italia,Birra Italia,22,Night club,Spazio,0.006597,4,0.340336,0.36214,0,1,7,0,0,3
+013s,Caff� Missori,Caff� Missori,1,Altro,Spazio,0,0,0,0,0,0,6,0,0,6
+014s,Caprice,Caprice,0,Night club,Spazio,0,0,0,0,0,0,7,0,0,7
+015s,Caravella,Caravella,0,Night club,Spazio,0,0,0,0,0,0,8,0,0,8
+017s,Centro Culturale Pirelli,Centro Culturale Pirelli,5,Sala da concerto,Spazio,0.014448,4,0.445055,0.513374,14.640924,14,6,0.484848,32,3
+018s,Centro francese di studi e informazioni,Centro francese di studi e informazioni,5,Sala da concerto,Spazio,0.004308,4,0.363229,0.388889,0,1,8,0,0,3
+019s,Chet Baker Club,Chet Baker Club,0,Night club,Spazio,0.007932,4,0.442623,0.48251,0,6,6,1,10,3
+020s,Cinema Carcano,Cinema Carcano,90,Cinema teatro,Spazio,0.067419,4,0.455056,0.513374,7.133927,25,7,0.672727,37,3
+021s,Cinema Gloria,Cinema Gloria,8,Cinema teatro,Spazio,0.014158,4,0.415385,0.449588,0,6,8,1,3,3
+022s,Cinema Orfeo,Cinema Orfeo,1,Cinema teatro,Spazio,0.008406,4,0.455056,0.51749,8.632304,15,7,0.742424,49,3
+023s,Circolo Alessandro Volta,Circolo Alessandro Volta,2,Sala da concerto,Spazio,0.003323,5,0.3,0.323868,0,1,0,0,0,3
+024s,Circolo del Castello,Circolo del Castello,1,Sala da concerto,Spazio,0.000578,0,0,0,0,0,9,0,0,9
+025s,Circolo della Rinascente,Circolo della Rinascente,9,Sala da concerto,Spazio,0.024115,3,0.532895,0.598765,62.341806,28,6,0.51462,88,3
+026s,Circolo della Stampa,Circolo della Stampa,38,Sala da concerto,Spazio,0.110571,4,0.476471,0.542181,32.66372,51,8,0.512821,40,3
+027s,Circolo di Via Marsala,Circolo di Via Marsala,1,Sala da concerto,Spazio,0.007147,4,0.428571,0.466049,0.0625,8,6,0.9,9,3
+028s,Circolo Filologico Milanese,Circolo Filologico Milanese,5,Sala da concerto,Spazio,0.006324,4,0.402985,0.438272,0.705195,3,0,0.666667,2,3
+029s,Coccodrillo,Coccodrillo,0,Night club,Spazio,0,0,0,0,0,0,10,0,0,10
+030s,Conservatorio Giuseppe Verdi (sala Puccini),Conservatorio Giuseppe Verdi (sala Puccini),60,Sala da concerto,Spazio,0.104587,4,0.47093,0.559671,45.954179,49,0,0.431373,66,3
+031s,Conservatorio Giuseppe Verdi (sala Verdi),Conservatorio Giuseppe Verdi (sala Verdi),182,Sala da concerto,Spazio,0.52244,3,0.566434,0.658436,391.965712,151,8,0.26601,108,3
+032s,Conty Grill (Hotel Continental),Conty Grill (Hotel Continental),1,Night club,Spazio,0.002051,4,0.389423,0.427984,0,4,5,1,6,3
+033s,Derby Club,Derby Club,1,Night club,Spazio,0,0,0,0,0,0,12,0,0,11
+034s,Eidac,Eidac,1,Sala da concerto,Spazio,0.000578,0,0,0,0,0,13,0,0,12
+035s,El Flamingo,El Flamingo,1,Night club,Spazio,0.001424,5,0.301115,0.330658,0,3,4,1,3,3
+036s,El Maroco,El Maroco,41,Night club,Spazio,0.020657,3,0.493902,0.545267,102.862128,19,7,0.560606,37,3
+037s,Embassy Club,Embassy Club,0,Night club,Spazio,0,0,0,0,0,0,14,0,0,13
+038s,Europa Club,Europa Club,1,Night club,Spazio,0.000578,0,0,0,0,0,15,0,0,14
+039s,Famiglia Artistica Milanese,Famiglia Artistica Milanese,5,Sala da concerto,Spazio,0.006093,4,0.395122,0.432099,0.125,4,6,0.666667,2,3
+040s,Famiglia Siciliana,Famiglia Siciliana,1,Sala da concerto,Spazio,0.008424,4,0.465517,0.509259,0.076923,16,6,0.964286,27,3
+041s,Florida,Florida,2,Night club,Spazio,0.000728,5,0.329268,0.351235,0,1,6,0,0,3
+042s,Galleria Blu,Galleria Blu,1,Sala da concerto,Spazio,0.000578,0,0,0,0,0,16,0,0,15
+043s,Gatto Verde,Gatto Verde,4,Night club,Spazio,0.003125,4,0.331967,0.349794,0,1,7,0,0,3
+044s,Hi-Fi Club,Hi-Fi Club,0,Whisky a go-go,Spazio,0,0,0,0,0,0,17,0,0,16
+045s,Hotel Cavalieri,Hotel Cavalieri,5,Night club,Spazio,0.003596,0,0,0,0,0,18,0,0,17
+046s,Hotel Principe & Savoia,Hotel Principe & Savoia,2,Night club,Spazio,0.014163,4,0.482143,0.546296,11.877249,22,7,0.703297,64,3
+047s,Il Globo (Bande Nere),Il Globo (Bande Nere),9,Teatro,Spazio,0.004122,5,0.293478,0.309877,0,5,2,0,0,3
+048s,Il Globo (Molino delle Armi),Il Globo (Molino delle Armi),39,Teatro,Spazio,0.001164,0,0,0,0,0,19,0,0,18
+049s,Il Globo (Restelli),Il Globo (Restelli),104,Teatro,Spazio,0.006973,4,0.413265,0.449588,80,8,2,0.5,3,3
+050s,Il Globo (San Barnaba),Il Globo (San Barnaba),21,Teatro,Spazio,0.012471,3,0.47929,0.530864,5.780656,15,6,0.745455,41,3
+051s,Istituto dei ciechi (Sala Barozzi),Istituto dei ciechi (Sala Barozzi),19,Sala da concerto,Spazio,0.033017,4,0.440217,0.506173,9.072687,39,3,0.727273,40,3
+052s,La Bagatelle,La Bagatelle,1,Night club,Spazio,0.001164,0,0,0,0,0,21,0,0,19
+053s,La Barca d'Oro,La Barca d'Oro,1,Night club,Spazio,0.000578,0,0,0,0,0,22,0,0,20
+054s,La Lucciola,La Lucciola,2,Night club,Spazio,0.001759,0,0,0,0,0,23,0,0,21
+055s,La Maggiolina,La Maggiolina,5,Dancing,Spazio,0.000697,5,0.29562,0.314609,0,1,7,0,0,3
+056s,La Tarantola,La Tarantola,0,Whisky a go-go,Spazio,0,0,0,0,0,0,24,0,0,22
+057s,Le Roi,Le Roi,2,Night club,Spazio,0,0,0,0,0,0,25,0,0,23
+058s,Lido,Lido,4,Night club,Spazio,0.000842,5,0.301115,0.330658,0,3,4,1,3,3
+059s,Lid� Trianon,Lid� Trianon,23,Night club,Spazio,0.003842,5,0.301115,0.330658,0,3,4,1,3,3
+060s,Lid� Trianon,Lid� Trianon,1,Night club,Spazio,0,0,0,0,0,0,27,0,0,24
+061s,Lyceum,Lyceum,7,Sala da concerto,Spazio,0.010436,4,0.38756,0.414609,0,1,8,0,0,3
+062s,Maxim,Maxim,3,Dancing,Spazio,0.002051,4,0.389423,0.427984,0,4,5,1,6,3
+063s,Montemerlo Rendez-Vous,Montemerlo Rendez-Vous,1,Night club,Spazio,0.000578,0,0,0,0,0,28,0,0,25
+064s,Monterosa,Monterosa,83,Dancing,Spazio,0.004828,4,0.409091,0.447531,0,4,1,1,6,3
+065s,Moulin Rouge,Moulin Rouge,0,Night club,Spazio,0,0,0,0,0,0,29,0,0,26
+066s,Museo della Scienza,Museo della Scienza,1,Sala da concerto,Spazio,0.007651,4,0.405,0.458848,1.829457,18,3,0.857143,18,3
+067s,Night Club 68 (Milan Noueva),Night Club 68 (Milan Noueva),8,Night club,Spazio,0.010031,3,0.457627,0.489712,0,7,6,1,10,3
+068s,Odeon Giardino,Odeon Giardino,17,Night club,Spazio,0.018623,4,0.435484,0.502058,83.650904,14,7,0.666667,44,3
+069s,Palazzo del Ghiaccio,Palazzo del Ghiaccio,12,Palazzetto,Spazio,0.046337,3,0.570423,0.664609,145.382839,72,1,0.434483,189,3
+070s,Palazzo dello Sport,Palazzo dello Sport,19,Palazzetto,Spazio,0.035709,3,0.54,0.619342,74.608181,52,7,0.501976,127,3
+071s,Palazzo Durini,Palazzo Durini,8,Sala da concerto,Spazio,0.042777,4,0.455056,0.52572,9.688072,29,8,0.653846,51,3
+072s,Palazzo Sormani,Palazzo Sormani,1,Sala da concerto,Spazio,0.004844,4,0.375,0.419753,0,10,3,1,10,3
+073s,Piccola Scala,Piccola Scala,153,Teatro/Sala da concerto,Spazio,0.114307,4,0.465517,0.533951,8.649113,52,8,0.589744,46,3
+074s,Piccolo bar,Piccolo bar,2,Night club,Spazio,0.001634,4,0.395122,0.417695,0,1,7,0,0,3
+075s,Piccolo Teatro,Piccolo Teatro,766,Teatro/Sala da concerto,Spazio,0.067146,3,0.558621,0.650206,159.198908,54,6,0.396825,150,3
+076s,Pick-up Club,Pick-up Club,0,Whisky a go-go,Spazio,0,0,0,0,0,0,31,0,0,27
+077s,Pigalle,Pigalle,0,Dancing,Spazio,0,0,0,0,0,0,32,0,0,28
+078s,Pinacoteca di Brera,Pinacoteca di Brera,13,Sala da concerto,Spazio,0.027299,4,0.445055,0.514403,14.593596,35,3,0.666667,44,3
+079s,Politecnico,Politecnico,7,Sala da concerto,Spazio,0.01121,4,0.428571,0.488683,8.107322,10,0,0.583333,21,3
+080s,Porta d'Oro,Porta d'Oro,5,Night club,Spazio,0.007245,4,0.424084,0.47428,234.298611,9,4,0.392857,11,3
+081s,Punta dell'Est,Punta dell'Est,1,Night club,Spazio,0.00073,4,0.34322,0.365226,0,1,1,0,0,3
+082s,Ristorante Grande Italia,Ristorante Grande Italia,4,Night club,Spazio,0.000578,0,0,0,0,0,34,0,0,29
+083s,Sala Leone XIII,Sala Leone XIII,13,Sala da concerto,Spazio,0.00933,4,0.411168,0.450617,6.033322,4,8,0.5,3,3
+084s,Sans Souci,Sans Souci,1,Night club,Spazio,0.000578,0,0,0,0,0,35,0,0,30
+085s,Santa Tecla Saloon,Santa Tecla Saloon,16,Night club,Spazio,0.025917,3,0.519231,0.590535,98.432587,35,1,0.590643,101,3
+086s,Sede U.S.I.S.,Sede U.S.I.S.,3,Sala da concerto,Spazio,0,0,0,0,0,0,36,0,0,31
+087s,Sferisterio Diana,Sferisterio Diana,3,Sala da concerto,Spazio,0.004884,4,0.460227,0.505144,0,8,6,1,28,3
+088s,Shangai,Shangai,0,Night club,Spazio,0.00101,4,0.361607,0.384774,0,1,7,0,0,3
+089s,Societ� del Giardino,Societ� del Giardino,1,Sala da concerto,Spazio,0,0,0,0,0,0,37,0,0,32
+090s,Star Jolly Club,Star Jolly Club,2,Night club,Spazio,0.000578,0,0,0,0,0,38,0,0,33
+091s,Stork,Stork,0,Night club,Spazio,0.001759,0,0,0,0,0,39,0,0,34
+093s,Supercinema Alcione,Supercinema Alcione,67,Cinema/Teatro,Spazio,0.085433,3,0.512658,0.582305,111.178904,42,7,0.535948,82,3
+094s,Taverna della giarrettiera,Taverna della giarrettiera,1,Night club,Spazio,0.000743,5,0.304511,0.327984,0,1,7,0,0,3
+095s,Taverna Duomo (Gran Hotel Duomo),Taverna Duomo (Gran Hotel Duomo),14,Night club,Spazio,0.021405,3,0.522581,0.580247,63.767778,18,1,0.575,69,3
+096s,Taverna Messicana,Taverna Messicana,1,Night club,Spazio,0,0,0,0,0,0,40,0,0,35
+097s,Teatrino del Corso,Teatrino del Corso,124,Teatro/Sala da concerto,Spazio,0.023032,4,0.487952,0.554527,91.103084,34,6,0.542857,57,3
+098s,Teatro all'aperto di Vermezzo,Teatro all'aperto di Vermezzo,50,Teatro/Sala da concerto,Spazio,0.008967,4,0.366516,0.397119,0,2,8,1,1,3
+099s,Teatro alle Maschere,Teatro alle Maschere,148,Teatro,Spazio,0.009958,3,0.45,0.479424,0,6,1,1,6,3
+100s,Teatro alla Scala,Teatro alla Scala,803,Teatro/Sala da concerto,Spazio,0.564029,3,0.490909,0.539095,14.686419,105,8,0.545455,30,3
+101s,Teatro Convegno,Teatro Convegno,73,Teatro,Spazio,0.006837,0,0,0,0,0,41,0,0,36
+102s,Teatro dal Verme,Teatro dal Verme,35,Cinema teatro,Spazio,0.022531,3,0.47929,0.522634,8.759355,17,7,0.694444,25,3
+103s,Teatro dell'arte,Teatro dell'arte,35,Teatro/Sala da concerto,Spazio,0.022585,3,0.509434,0.563786,22.686567,15,6,0.626374,57,3
+104s,Teatro Elena,Teatro Elena,2,Cinema teatro,Spazio,0.017418,4,0.47929,0.536008,11.2786,20,7,0.772727,51,3
+105s,Teatro Gerolamo,Teatro Gerolamo,545,Teatro/Sala da concerto,Spazio,0.197306,3,0.609023,0.711934,346.651417,129,6,0.298799,199,3
+106s,Teatro Lirico,Teatro Lirico,877,Teatro/Sala da concerto,Spazio,0.338186,3,0.648,0.736626,547.329435,168,7,0.311741,231,3
+107s,Teatro Manzoni,Teatro Manzoni,396,Teatro/Sala da concerto,Spazio,0.124905,3,0.536424,0.604938,117.097578,59,1,0.457895,87,3
+108s,Teatro Nuovo,Teatro Nuovo,805,Teatro/Sala da concerto,Spazio,1,3,0.627907,0.73251,578.610574,217,8,0.280769,219,3
+109s,Teatro Odeon,Teatro Odeon,838,Teatro,Spazio,0.076053,3,0.529412,0.604938,64.235621,57,1,0.47619,100,3
+110s,Teatro Olimpia (Olimpia Music Hall),Teatro Olimpia (Olimpia Music Hall),498,Teatro/Sala da concerto/Dancing,Spazio,0.105084,3,0.5625,0.644033,216.884161,76,7,0.4,130,3
+111s,Teatro Puccini,Teatro Puccini,16,Teatro/Sala da concerto,Spazio,0.020208,4,0.433155,0.461934,5.822245,4,0,0.333333,1,3
+112s,Teatro Rosetum,Teatro Rosetum,1,Sala da concerto,Spazio,0.006785,4,0.409091,0.447531,0.284722,6,7,0.7,7,3
+113s,Teatro San Marco,Teatro San Marco,82,Teatro/Sala da concerto,Spazio,0.080381,3,0.566434,0.650206,134.627548,71,6,0.430199,151,3
+114s,Teatro Sant'Erasmo,Teatro Sant'Erasmo,118,Teatro/Sala da concerto,Spazio,0.025945,3,0.490909,0.547325,1.99404,22,1,0.846154,66,3
+115s,Teatro Smeraldo,Teatro Smeraldo,212,Cinema teatro,Spazio,0.129424,3,0.558621,0.63786,126.315771,105,7,0.45,135,3
+116s,Trocadero,Trocadero,33,Night club,Spazio,0.002975,0,0,0,0,0,45,0,0,37
+117s,Teatro del Popolo (Umanitaria),Teatro del Popolo (Umanitaria),1,Sala da concerto,Spazio,0.043644,3,0.532895,0.615226,62.15651,37,1,0.490119,124,3
+118s,Universit� Cattolica,Universit� Cattolica,1,Sala da concerto,Spazio,0.000578,0,0,0,0,0,46,0,0,38
+119s,Universit� degli Studi,Universit� degli Studi,1,Sala da concerto,Spazio,0.002883,4,0.376744,0.417695,0,4,0,1,6,3
+120s,Universit� popolare,Universit� popolare,1,Sala da concerto,Spazio,0,0,0,0,0,0,47,0,0,39
+121s,Whisky notte a gogo,Whisky notte a gogo,0,Whisky a go-go,Spazio,0,0,0,0,0,0,48,0,0,40
+122s,Sala Ricordi,Sala Ricordi,3,Sala da concerto,Spazio,0.00919,4,0.430851,0.489712,2.540595,10,0,0.722222,26,3
+123s,International Sporting Club,International Sporting Club,1,Night club,Spazio,0.00255,4,0.424084,0.453704,0,3,1,1,3,3
+124s,Yamaican Night,Yamaican Night,1,Night club,Spazio,0.001759,0,0,0,0,0,49,0,0,41
+135s,Castello Sforzesco,Castello Sforzesco,,,Spazio,0.00303,4,0.395122,0.432099,0,4,3,1,3,3

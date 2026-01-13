@@ -38,5 +38,5 @@ title: Maps
 
 [Full map](https://musictopography.github.io/milan_today.html)
 
-<iframe src="https://musictopography.com/milan_today.html" width="110%" height="650"></iframe>
+
 

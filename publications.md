@@ -14,7 +14,7 @@ title: Publications
 <h3>Datasets and media</h3>
 <ul class="pub-list">
   <li>
-    Nicastro, Martin. <strong>Milan 1958–1962: Music Topography of a City (main dataset)</strong>.
+    Nicastro, Martin. Milan 1958–1962: Music Topography of a City (main dataset).
     Zenodo, 2023.<br>
     <a href="https://doi.org/10.5281/zenodo.8126445" target="_blank" rel="noopener noreferrer">
       DOI: 10.5281/zenodo.8126445
@@ -22,7 +22,7 @@ title: Publications
   </li>
 
   <li>
-    Nicastro, Martin. <strong>Milan 1958–1962: Music Topography of a City (dataset, v1.0.0)</strong>.
+    Nicastro, Martin. Milan 1958–1962: Music Topography of a City (dataset, v1.0.0).
     Zenodo, 2023.<br>
     <a href="https://doi.org/10.5281/zenodo.8340459" target="_blank" rel="noopener noreferrer">
       DOI: 10.5281/zenodo.8340459
@@ -30,7 +30,7 @@ title: Publications
   </li>
 
   <li>
-    Nicastro, Martin. <strong>Milan 1958–1962: Music Topography of a City (videomap library)</strong>.
+    Nicastro, Martin. Milan 1958–1962: Music Topography of a City (videomap library).
     Zenodo, 2023.<br>
     <a href="https://doi.org/10.5281/zenodo.7990185" target="_blank" rel="noopener noreferrer">
       DOI: 10.5281/zenodo.7990185
@@ -38,7 +38,7 @@ title: Publications
   </li>
 
   <li>
-    Nicastro, Martin. <strong>Milan 1958–1962: Music Topography of a City (monographic video library)</strong>.
+    Nicastro, Martin. Milan 1958–1962: Music Topography of a City (monographic video library).
     Zenodo, 2023.<br>
     <a href="https://doi.org/10.5281/zenodo.8126423" target="_blank" rel="noopener noreferrer">
       DOI: 10.5281/zenodo.8126423
@@ -49,7 +49,7 @@ title: Publications
 <h3>Articles</h3>
 <ul class="pub-list">
   <li>
-    Nicastro, Martin. <strong>From Thin to Deep: Mapping Urban Music through Multimedia Web Apps</strong>.
+    Nicastro, Martin. From Thin to Deep: Mapping Urban Music through Multimedia Web Apps.
     <em>Sound Stage Screen</em>, III/2, 2024, pp. 77–105.<br>
     <a href="https://doi.org/10.54103/sss22317" target="_blank" rel="noopener noreferrer">
       DOI: 10.54103/sss22317
@@ -57,7 +57,7 @@ title: Publications
   </li>
 
   <li>
-    Nicastro, Martin. <strong>Combining Network Analysis and GIS for Music Historiography: Genre, Urban Space and Music Ecologies</strong>.
+    Nicastro, Martin. Combining Network Analysis and GIS for Music Historiography: Genre, Urban Space and Music Ecologies.
     <em>Umanistica Digitale</em>, VIII/17, 2024, pp. 95–119.<br>
     <a href="https://doi.org/10.6092/issn.2532-8816/19246" target="_blank" rel="noopener noreferrer">
       DOI: 10.6092/issn.2532-8816/19246
@@ -68,6 +68,6 @@ title: Publications
 <h3>Forthcoming</h3>
 <ul class="pub-list">
   <li>
-    Nicastro, Martin. <strong>Monograph in preparation</strong>.
+    Nicastro, Martin. Monograph in preparation.
   </li>
 </ul>

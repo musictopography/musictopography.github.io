@@ -52,13 +52,13 @@ html {
 .map-card {
   display: flex;
   flex-direction: column;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid #e6e6e6;
 }
 
 .map-card h3 {
   margin-top: 0;
   margin-bottom: 0.7rem;
-  padding-bottom: 1.2rem;
-  border-bottom: 1px solid #e6e6e6;
 }
 
 .map-card p {

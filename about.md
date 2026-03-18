@@ -51,7 +51,7 @@ These data are geographically visualised in interactive digital maps. The same d
 
 <b>Both forms of visualisation were used to catalyse the memories of eight musicians active at the time</b>. The audio-video materials produced through these meetings are displayed in a <a href="https://www.musictopography.com/maps/music_memories.html" target="_blank" rel="noopener noreferrer">dedicated digital map</a>, creating a <b>feedback-based synergy between quantitative and qualitative tools </b>. 
 
-All the materials produced during the research ([maps](https://www.musictopography.com/maps/), [network graphs](https://www.musictopography.com/network_graphs/), graphs and [interviews](https://www.musictopography.com/interviews/) are accessible through dedicated pages.
+All the materials produced during the research ([maps](https://www.musictopography.com/maps/), [network graphs](https://www.musictopography.com/network_graphs/), graphs and [interviews](https://www.musictopography.com/interviews/)) are accessible through dedicated pages.
 
 
 

@@ -12,7 +12,7 @@ The project was supervised by <b>Prof. Alessandro Bratus</b> (University of Pavi
 On this website are stored all the digital resources of the project. They are divided in three different sections, according to the methodological framework of the research: [mapping](https://musictopography.github.io//map/), [network visualization and analysis](https://musictopography.github.io//network_graphs/), [field research](https://musictopography.github.io//interviews/).
 
 
-## Topics:
+### Topics:
 
 - Music, sound and space
 - Italian popular music history

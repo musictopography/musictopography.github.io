@@ -11,6 +11,7 @@ The project was supervised by <b>Prof. Alessandro Bratus</b> (University of Pavi
 
 On this website are stored all the digital resources of the project. They are divided in three different sections, according to the methodological framework of the research: [mapping](https://musictopography.github.io//maps/), [network visualization and analysis](https://musictopography.github.io//network_graphs/), [field research](https://musictopography.github.io//interviews/).
 
+Data, scripts, media content, and scientific publications are accessible from here: [publications](https://musictopography.github.io//publications/)
 
 ### Topics:
 

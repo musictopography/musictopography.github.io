@@ -12,7 +12,17 @@ The project was supervised by <b>Prof. Alessandro Bratus</b> (University of Pavi
 On this website are stored all the digital resources of the project. They are divided in three different sections, according to the methodological framework of the research: [mapping](https://musictopography.github.io//map/), [network visualization and analysis](https://musictopography.github.io//network_graphs/), [field research](https://musictopography.github.io//interviews/).
 
 
-Part of the project was realized with the support of Small Grants [AIUCD] (https://www.aiucd.it/) 2022.
+## Topics:
+
+- Music, sound and space
+- Italian popular music history
+- Urban musicology
+- Deep mapping
+- Live music ecologies
+
+
+Part of the project was realized with the support of Small Grants [AIUCD](https://www.aiucd.it/) 2022.
+
 
 
 <img src="images/Billie.jpg">

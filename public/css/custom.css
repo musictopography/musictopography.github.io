@@ -45,30 +45,42 @@ html {
 .maps-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1.5rem;
+  gap: 2rem;
   margin-top: 1.5rem;
+}
+
+.map-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.map-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+}
+
+.map-card p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
 }
 
 .map-card img {
   display: block;
   width: 100%;
   height: auto;
+  margin: 1.2rem 0 1.2rem 0;
   border-radius: 8px;
   border: 1px solid #ddd;
-  margin-bottom: 0.8rem;
 }
 
-.map-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-}
-
-.map-card p {
-  margin-bottom: 0.7rem;
+.map-card a:last-child,
+.map-card p:last-child {
+  margin-bottom: 0;
 }
 
 @media (min-width: 56em) {
   .maps-grid {
     grid-template-columns: 1fr 1fr;
+    gap: 2.2rem 2rem;
   }
 }

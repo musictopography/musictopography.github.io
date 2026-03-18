@@ -1,4 +1,9 @@
-<h2>Publications</h2>
+
+---
+layout: page
+title: Publications
+---
+
 
 <p>
   Research outputs from the project include open datasets and media collections on Zenodo,

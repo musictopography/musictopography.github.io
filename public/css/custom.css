@@ -86,3 +86,52 @@ html {
     gap: 2.2rem 2rem;
   }
 }
+
+
+.graphs-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.graph-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.graph-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.graph-card p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.graph-preview {
+  display: block;
+  margin: 1.2rem 0 1.2rem 0;
+}
+
+.graph-preview img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+.graph-links {
+  margin-bottom: 0;
+}
+
+@media (min-width: 56em) {
+  .graphs-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 2.2rem 2rem;
+  }
+}

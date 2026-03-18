@@ -41,3 +41,34 @@ html {
   font-weight: 600;
 }
 }
+
+.maps-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.map-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  margin-bottom: 0.8rem;
+}
+
+.map-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.map-card p {
+  margin-bottom: 0.7rem;
+}
+
+@media (min-width: 56em) {
+  .maps-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}

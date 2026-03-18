@@ -8,48 +8,67 @@ title: Maps
 
 
 
-## Geography of Performative Spaces
+<div class="maps-grid">
 
-This map geolocates 122 live music venues active in Milan between 1958 and 1962. By including the three circles that represent the city’s underlying model of expansion, it becomes possible to observe the close relationship between this urban structure and Milan’s music ecosystem.
+  <div class="map-card">
+    <a href="https://musictopography.github.io/maps/performative_spaces.html" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/geography.jpg' | relative_url }}" alt="Preview of the Geography of Performative Spaces map">
+    </a>
+    <h3>Geography of Performative Spaces</h3>
+    <p>
+      This map geolocates 122 live music venues active in Milan between 1958 and 1962,
+      highlighting their relationship with the city’s model of urban expansion.
+    </p>
+    <p><a href="https://musictopography.github.io/maps/performative_spaces.html" target="_blank" rel="noopener noreferrer">Open interactive map</a></p>
+  </div>
 
+  <div class="map-card">
+    <a href="https://musictopography.github.io/maps/performance_circuits.html" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/circuits.jpg' | relative_url }}" alt="Preview of the Performance Circuits Map">
+    </a>
+    <h3>Performance Circuits Map</h3>
+    <p>
+      This map visualises the connections between live music venues and performers,
+      revealing genre-based circuits and their spatial overlaps.
+    </p>
+    <p><a href="https://musictopography.github.io/maps/performance_circuits.html" target="_blank" rel="noopener noreferrer">Open interactive map</a></p>
+  </div>
 
-[Full map](https://musictopography.github.io/maps/performative_spaces.html)
+  <div class="map-card">
+    <a href="https://musictopography.github.io/maps/music_memories.html" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/memories.jpg' | relative_url }}" alt="Preview of the Music Memories Map">
+    </a>
+    <h3>Music Memories Map</h3>
+    <p>
+      This map combines spatial data with video interviews, linking memories of musicians
+      to specific places in the city.
+    </p>
+    <p><a href="https://musictopography.github.io/maps/music_memories.html" target="_blank" rel="noopener noreferrer">Open interactive map</a></p>
+  </div>
 
-<iframe src="https://musictopography.github.io/maps/performative_spaces.html" width="110%" height="650"></iframe>
+  <div class="map-card">
+    <a href="https://musictopography.github.io/maps/performance_mobility.html" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/mobility.jpg' | relative_url }}" alt="Preview of the Performers Mobility Map">
+    </a>
+    <h3>Performers Mobility Map</h3>
+    <p>
+      This map traces the birthplaces of performers active in Milan’s venues,
+      extending the analysis beyond the city itself.
+    </p>
+    <p><a href="https://musictopography.github.io/maps/performance_mobility.html" target="_blank" rel="noopener noreferrer">Open interactive map</a></p>
+  </div>
 
+  <div class="map-card">
+    <a href="https://musictopography.github.io/maps/milan_today.html" target="_blank" rel="noopener noreferrer">
+      <img src="{{ '/images/today.jpg' | relative_url }}" alt="Preview of the Milan Today Map">
+    </a>
+    <h3>Milan Today Map</h3>
+    <p>
+      This map documents the present-day condition of historical venues through photographs
+      taken during fieldwork across the city.
+    </p>
+    <p><a href="https://musictopography.github.io/maps/milan_today.html" target="_blank" rel="noopener noreferrer">Open interactive map</a></p>
+  </div>
 
-## Performance Circuits Map
-
-This map represents the connections between live music venues and performers as documented in the project’s dataset. It makes it possible to observe genre-based performance circuits, with layers divided by relational intensity and reflecting different musical practices. Notably, the venues that connect different circuits are all located within the city’s inner circle.
-
-[Full map](https://musictopography.github.io/maps/performance_circuits.html)
-
-<iframe src="https://musictopography.github.io/maps/performance_circuits.html" width="110%" height="650"></iframe>
-
-
-## Music Memories Map
-
-This map includes a media layer that provides direct access to video recordings of interviews with musicians active in the city at the time. Each marker in this layer geolocates a memory related to the musicians’ experience of music and urban space. Since interactive maps were used to catalyse the emergence of memories, the Music Memory Map is the product of a circular research process.
-
-[Full map](https://musictopography.github.io/maps/music_memories.html)
-
-<iframe src="https://musictopography.github.io/maps/music_memories.html" width="110%" height="650"></iframe>
-
-## Performers Mobility Map
-
-This map extends the perspective beyond the city’s boundaries by geolocating the birthplaces of 1,234 performers who appeared in Milan’s live music venues between 1958 and 1962. Its layers are organised by macro-genre, thereby shedding light on the relationship between performer mobility and the geopolitical division between the Western and Eastern blocs.
-
-
-[Full map](https://musictopography.github.io/maps/performance_mobility.html)
-
-<iframe src="https://musictopography.github.io/maps/performance_mobility.html" width="110%" height="650"></iframe>
-
-## Milan Today Map
-
-This map includes a layer based on photographs taken during a first-person exploration of the city. The researcher used the maps produced during the project as a guide to assess the current state of the venues active during the economic boom. The colour of the markers indicates whether the venues are still active, while their position reflects the exact point from which the photographs were taken.
-
-
-[Full map](https://musictopography.github.io/maps/milan_today.html)
-
-<iframe src="https://musictopography.github.io/maps/milan_today.html" width="110%" height="650"></iframe>
+</div>
 

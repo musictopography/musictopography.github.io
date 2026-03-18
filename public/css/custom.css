@@ -21,3 +21,42 @@ html {
     max-width: 49rem;
   }
 }
+
+
+.pub-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1rem 0 2rem 0;
+}
+
+.pub-card {
+  padding: 1rem 1.1rem;
+  border: 1px solid #e3e3e3;
+  border-radius: 10px;
+  background: #fafafa;
+}
+
+.pub-title {
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 0.35rem;
+}
+
+.pub-meta {
+  font-size: 0.95rem;
+  line-height: 1.45;
+  color: #555;
+  margin-bottom: 0.45rem;
+}
+
+.pub-link a {
+  font-size: 0.95rem;
+  word-break: break-word;
+}
+
+@media (min-width: 56em) {
+  .pub-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}

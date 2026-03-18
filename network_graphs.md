@@ -29,7 +29,6 @@ This graph connects Milanese music venues with the performers who appeared there
 The network relates performance spaces to musical genres. It features 122 nodes, divided into 99 venues and 23 musical genres, and 309 weighted edges, amounting in total to 11,434 relationships. Through the topology of the graph, it becomes possible to observe, from a different perspective, the link between spatial dimension and genre.
 
 
-
 [Full graph](https://raw.githubusercontent.com/musictopography/musictopography.github.io/14d4d07b1e5c1b46db9ab25eb276252d07f0ab75/images/generi_spazi.svg)
 
 <img src="https://raw.githubusercontent.com/musictopography/musictopography.github.io/14d4d07b1e5c1b46db9ab25eb276252d07f0ab75/images/generi_spazi.svg" width="800" height="800">

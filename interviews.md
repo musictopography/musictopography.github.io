@@ -7,9 +7,7 @@ title: Interviews
 
 ### Gian Franco Reverberi
 
-Gian Franco Reverberi (1934) is a musician and composer of Genoese origin. A member of “I Cavalieri”, he plays a crucial role in introducing the first Genoese “cantautori”, including Luigi Tenco and Gino Paoli, to Dischi Ricordi, where he is employed, as well as in the production of their records. In the interview he tells how Milan was central to his career, the importance of a performative space such as the Santa Tecla, of Ricordi's first recording studio, as well as the conditions in which the new musical aesthetics of “cantautorato” came to life.
-
-
+Gian Franco Reverberi (1934-2024) was a musician and composer from Genoa. A member of I Cavalieri, he played a crucial role in introducing the first Genoese "cantautori", including Luigi Tenco and Gino Paoli, to Dischi Ricordi, where he was employed, and in producing their records. In the interview, he reflects on Milan’s centrality to his career, the importance of a performance venue such as Santa Tecla, Ricordi’s first recording studio, and the conditions in which the new musical aesthetics of "cantautorato" took shape.
 
 
 
@@ -21,7 +19,7 @@ Gian Franco Reverberi (1934) is a musician and composer of Genoese origin. A mem
 
 ### Gaetano Liguori
 
-Gaetano Liguori (1950) is a Milanese jazz pianist. The interview focuses on the memories of his father, Pasquale "Lino" Liguori, a jazz drummer of Neapolitan origins, active both in the Milanese night club scene and in the world of the nascent record industry; in fact, in the wake of his father's professional activity, Gaetano took his first steps in the world of music.
+Gaetano Liguori (1950) is a Milanese jazz pianist. The interview centres on the memories of his father, Pasquale "Lino" Liguori, a jazz drummer of Neapolitan origin who was active both in the Milanese nightclub scene and in the world of the emerging recording industry. It was in the wake of his father’s professional activity that Gaetano took his first steps in music.
 
 
 
@@ -36,7 +34,8 @@ Gaetano Liguori (1950) is a Milanese jazz pianist. The interview focuses on the 
 
 ### Paolo Tomelleri
 
-Paolo Tomelleri (1938) is a jazz clarinetist, saxophonist and bandleader. Member of various traditional jazz bands, including the Windy City Stompers, he is part of “I Cavalieri”, the band that played most of the first works published by Dischi Ricordi. In the interview he recalls his experiences in night clubs, describing with precision the performance and professional conditions that characterized them, and how these have formed an entire generation of musicians.
+Paolo Tomelleri (1938) is a jazz clarinettist, saxophonist, and bandleader. A member of various traditional jazz bands, including the Windy City Stompers, he was also part of I Cavalieri, the group that performed on many of the first works released by Dischi Ricordi. In the interview, he recalls his experiences in nightclubs, describing with precision the performance conditions and professional environment that shaped an entire generation of musicians.
+
 
 
 
@@ -49,7 +48,8 @@ Paolo Tomelleri (1938) is a jazz clarinetist, saxophonist and bandleader. Member
 
 ### Natale Massara
 
-Natale Massara (1942) is a clarinetist, saxophonist, composer and arranger. In 1958 he joined “I Ribelli di Adriano Celentano” and after a few years he met Lucio Battisti, of whom he was to collaborate. During the interview he tells how his studies at the Conservatory led him to move to Milan at a very young age and how the experiences in the new urban context, primarily the audition with Celentano, were central to his career. Furthermore, his memories allow us to reconstruct the phenomenology and the specific performance conditions of the Milanese dance halls, then called “dancing”.
+Natale Massara (1942) is a clarinettist, saxophonist, composer, and arranger. In 1958 he joined I Ribelli di Adriano Celentano and a few years later began collaborating with Lucio Battisti. In the interview, he recounts how his studies at the Conservatory led him to move to Milan at a very young age, and how his early experiences in this new urban context, above all the audition with Celentano, proved central to his career. His memories also make it possible to reconstruct the specific phenomenology and performance conditions of the Milanese dance halls, then known as "dancing".
+
 
 <iframe width="580" height="500" src="https://www.youtube.com/embed/VsBMWWNWyow" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
@@ -59,7 +59,7 @@ Natale Massara (1942) is a clarinetist, saxophonist, composer and arranger. In 1
 
 ### Giacomo Manzoni
 
-Giacomo Manzoni (1932) is a Milanese composer, translator and music critic. His activity is firmly linked to experimental and contemporary repertoires, both in the compositional field and as a critic for the newspaper “L'Unità”, on which he begins to write right from 1958. His interview explores the central role, at national and international level, covered by the “Studio di Fonologia Musicale”, the first electronic production studio in Italy, as well as the particular status of avant-garde music in the Milanese performative context.
+Giacomo Manzoni (1932) is a Milanese composer, translator, and music critic. His work is closely associated with experimental and contemporary repertoires, both as a composer and as a critic for "L’Unità", for which he began writing in 1958. His interview explores the central role played, both nationally and internationally, by the Studio di Fonologia Musicale, the first electronic music studio in Italy, as well as the distinctive position of avant-garde music within Milan’s performance scene.
 
 
 

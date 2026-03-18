@@ -10,4 +10,14 @@ html {
   html {
     font-size: 18px;
   }
+
+  .container {
+    max-width: 46rem;
+  }
+}
+
+@media (min-width: 56em) {
+  .container {
+    max-width: 52rem;
+  }
 }

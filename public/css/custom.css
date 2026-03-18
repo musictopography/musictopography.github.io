@@ -12,12 +12,12 @@ html {
   }
 
   .container {
-    max-width: 44rem;
+    max-width: 42rem;
   }
 }
 
 @media (min-width: 56em) {
   .container {
-    max-width: 50rem;
+    max-width: 49rem;
   }
 }

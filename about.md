@@ -43,11 +43,11 @@ In the face of such a variety of impulses, <b>few traces of that music scene rem
 ### Methodology
 
 
-The methodological approach of the research is based on <b>“deep mapping”</b>, a practice grounded in the synergy between visual maps, computational data analysis, and fieldwork.
+The methodological approach is based on <b>“deep mapping”</b>, a practice grounded in the synergy between visual maps, computational data analysis, and fieldwork.
 
 The reference dataset brings together <b>8,288 musical events</b>; it is built on information drawn from two of the major newspapers of the time, «Il Giorno» and «Il Corriere della Sera».
 
-These data are geographically visualised in interactive digital maps. The same dataset was also used to create network graphs showing the reticular structure of the relationships between venues and music genres, venues and performers, and performers and composers.
+These data are geographically visualised in interactive digital maps. The same dataset is also analysed through network graphs showing the relationships between venues and music genres, venues and performers, and performers and composers.
 
 <b>Both forms of visualisation were used to catalyse the memories of eight musicians active at the time</b>. The audio-video materials produced through these meetings are displayed in a [dedicated digital map](https://www.musictopography.com/maps/music_memories.html), creating a <b>feedback-based synergy between quantitative and qualitative tools </b>. 
 

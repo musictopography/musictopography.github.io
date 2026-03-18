@@ -88,7 +88,7 @@ html {
 }
 
 
-.graphs-grid {
+..graphs-grid {
   display: grid;
   grid-template-columns: 1fr;
   gap: 2rem;
@@ -103,7 +103,7 @@ html {
 .graph-card h3 {
   margin-top: 0;
   margin-bottom: 0.7rem;
-  padding-bottom: 1rem;
+  padding-bottom: 1.2rem;
   border-bottom: 1px solid #e6e6e6;
 }
 
@@ -121,8 +121,11 @@ html {
   display: block;
   width: 100%;
   height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
   border-radius: 8px;
   border: 1px solid #ddd;
+  background: #fff;
 }
 
 .graph-links {

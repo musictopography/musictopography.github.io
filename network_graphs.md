@@ -13,7 +13,7 @@ title: Network Graphs
     </p>
 
     <a class="graph-preview" href="https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/64c0bc2a31d2ebe7fd8d3c86de1fefafb6284e68/modularity.svg" target="_blank" rel="noopener noreferrer">
-      <img src="{{ '/images/modularity.png' | relative_url }}" alt="Preview of the Performers and Composers network graph">
+      <img src="{{ '/images/perf_comp_ok.png' | relative_url }}" alt="Preview of the Performers and Composers network graph">
     </a>
 
     <p class="graph-links">

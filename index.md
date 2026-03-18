@@ -5,7 +5,7 @@ title: Home
 
 
 
-<b>“Milan 1958-62: Musical Topography of a City”</b> is a PhD research project by [Martin Nicastro](https://www.martinnicastro.com/). It revolves around the mapping of live music venues in the city of Milan at the time of the Italian economic boom.
+<b>“Milan 1958-62: Musical Topography of a City”</b> is a PhD research project conducted by <a href="https://www.martinnicastro.com/" target="_blank" rel="noopener noreferrer">Martin Nicastro</a> between 2020 and 2024. It focuses on the mapping of live music venues in Milan during the years of the Italian economic boom.
 
 The project was supervised by <b>Prof. Alessandro Bratus</b> (University of Pavia) and co-tutored by <b>Prof. Giovanni Pietro Vitali</b> (University of Versailles Saint-Quentin-en-Yvelines).
 
@@ -22,7 +22,7 @@ Data, scripts, media content, and scientific publications are accessible from he
 - Digital Humanities
 
 
-Part of the project was realized with the support of Small Grants [AIUCD](https://www.aiucd.it/) 2022.
+Part of the project was realized with the support of Small Grants <a href="https://www.aiucd.it/" target="_blank" rel="noopener noreferrer">AIUCD</a> 2022.
 
 
 <p>

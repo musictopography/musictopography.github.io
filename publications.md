@@ -42,8 +42,8 @@
     <div class="pub-title">Milan 1958–1962: Music Topography of a City (monographic video library)</div>
     <div class="pub-meta">Zenodo, 2023</div>
     <div class="pub-link">
-      <a href="https://doi.org/10.5281/zenodo.7990185" target="_blank" rel="noopener noreferrer">
-        DOI: 10.5281/zenodo.7990185
+      <a href="https://doi.org/10.5281/zenodo.8126423" target="_blank" rel="noopener noreferrer">
+        DOI: 10.5281/zenodo.8126423
       </a>
     </div>
   </div>

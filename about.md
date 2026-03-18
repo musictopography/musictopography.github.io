@@ -22,7 +22,7 @@ The Teatro Gerolamo was a <b>key venue for the “canzone intellettuale”</b>. 
 ### A forgotten city
 
 
-In the face of such a variety of impulses, <b>few traces of that music scene remains in either the physical or the cultural landscape of contemporary Milan</b>. Investigating its historical music ecosystem through the lens of space thus offers a way to bring to light a cultural heritage that has been lost over time, buried beneath the layers of an ever-changing city.
+In the face of such a variety of impulses, <b>few traces of that music scene remain in either the physical or the cultural landscape of contemporary Milan</b>. Investigating its historical music ecosystem through the lens of space thus offers a way to bring to light a cultural heritage that has been lost over time, buried beneath the layers of an ever-changing city.
 
 
 <p>

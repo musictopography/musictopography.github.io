@@ -54,23 +54,6 @@ These data are geographically visualised in interactive digital maps. The same d
 All the materials produced during the research ([maps](https://www.musictopography.com/maps/), [network graphs](https://www.musictopography.com/network_graphs/), graphs and [interviews](https://www.musictopography.com/interviews/) are accessible through dedicated pages.
 
 
-### Publications
-
-All data, scripts and media content produced during the research are published on Zenodo:
-
-Nicastro, Martin. "Milan 1958-1962: Music Topography of a City (main dataset), Zenodo. https://doi.org/10.5281/zenodo.8126445
-
-Nicastro, Martin. “Milan_1958_1962_Music_Topography_of_a_City (v1.0.0).” Zenodo, 2023. https://doi.org/10.5281/zenodo.8340459
-
-Nicastro, Martin. “Milan 1958-1962: Music Topography of a City (videomap library).” Zenodo, 2023. https://doi.org/10.5281/zenodo.7990185
-
-Nicastro, Martin. “Milan 1958-1962: Music Topography of a City (monographic video library).” Zenodo, 2023. https://doi.org/10.5281/zenodo.7990185
-
-The research is discussed in two peer-reviewed journal articles published in open-access. It is also the subject of an upcoming monography.
-
-Nicastro, Martin. “From Thin to Deep: Mapping Urban Music through Multimedia Web Apps,” Sound Stage Screen III/2, 2024, pp. 77-105. https://doi.org/10.54103/sss22317
-
-Nicastro, Martin. "Combining Network Analysis and GIS for Music Historiography: Genre, Urban Space and Music Ecologies," Umanistica Digitale, VIII/17, 2024, pp. 95-119. https://doi.org/10.6092/issn.2532-8816/19246
 
 
 

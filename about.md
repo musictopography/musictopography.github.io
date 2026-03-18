@@ -27,6 +27,21 @@ Finally, <b>Italy’s first electronic music production studio</b>, the Studio d
 In the face of such a variety of impulses, <b>almost no trace of that music scene remains in either the physical or the cultural landscape of contemporary Milan</b>. Investigating its historical music ecosystem through the lens of space thus offers a way to bring to light a cultural heritage that has been lost over time, buried beneath the layers of an ever-changing city.
 
 
+<p>
+  <img 
+    src="images/derby.jpg" 
+    alt="Derby Club today"
+    style="width: 70%; max-width: 600px; display: block; margin: 0 auto;"
+  >
+</p>
+
+<p style="font-size: 0.85em; text-align: center;">
+  The entrance of the Derby today. It was one of the most important music venues in Milan during the 60s.
+</p>
+
+
+
+
 ### Methodology
 
 

@@ -29,7 +29,7 @@ In the face of such a variety of impulses, <b>almost no trace of that music scen
 
 <p>
   <img 
-    src="musictopography.github.io/images/derby.jpg" 
+    src="https://raw.githubusercontent.com/musictopography/musictopography.github.io/refs/heads/main/images/derby.jpg" 
     alt="Derby Club today"
     style="width: 70%; max-width: 600px; display: block; margin: 0 auto;"
   >

@@ -15,7 +15,7 @@ In the same years, <b>Milan was “the city of jazz”</b>, home to musicians of
 
 <b>Italian rock and roll also took shape in Milan</b>: it was in Milanese nightclubs and sports arenas that Adriano Celentano and Tony Dallara first emerged.
 
-The Teatro Gerolamo was a <b>key venue for the “canzone intellettuale”</b>. Finally, <b>Italy’s first electronic music production studio</b>, the Studio di fonologia musicale della RAI, was experiencing one of its most significant phases during the same period.
+The Teatro Gerolamo was a <b>key venue for the “canzone intellettuale”</b>. Finally, <b>Italy’s first electronic music production studio</b>, the Studio di fonologia musicale della RAI, was experiencing one of its most significant phases.
 
 
 

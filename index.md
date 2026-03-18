@@ -28,7 +28,7 @@ Part of the project was realized with the support of Small Grants [AIUCD](https:
   <img 
     src="images/Billie.jpg" 
     alt="Billie Holiday at Taverna Messicana"
-    style="width: 60%; max-width: 500px; display: block; margin: 0 auto;"
+    style="width: 70%; max-width: 600px; display: block; margin: 0 auto;"
   >
 </p>
 

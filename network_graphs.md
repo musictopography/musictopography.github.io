@@ -3,6 +3,9 @@ layout: page
 title: Network Graphs
 ---
 
+<p>
+  The following network visualisations explore the relationships between performers, venues, composers, and musical genres within Milan’s live music ecosystem between 1958 and 1962.
+</p>
 
 <div class="graphs-grid">
 

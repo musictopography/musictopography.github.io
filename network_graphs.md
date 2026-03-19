@@ -19,6 +19,7 @@ title: Network Graphs
       <a href="https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/64c0bc2a31d2ebe7fd8d3c86de1fefafb6284e68/modularity.svg" target="_blank" rel="noopener noreferrer">
         Open full graph
       </a>
+      Given the dimension of the file it be necessary to zoom out.
     </p>
   </div>
 

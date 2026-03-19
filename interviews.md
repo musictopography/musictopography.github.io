@@ -3,7 +3,6 @@ layout: page
 title: Interviews
 ---
 
-
 <div class="interviews-grid">
 
   <div class="interview-card">
@@ -11,15 +10,14 @@ title: Interviews
     <p>
       Gian Franco Reverberi (1934-2024) was a musician and composer from Genoa. A member of I Cavalieri, he played a crucial role in introducing the first Genoese "cantautori", including Luigi Tenco and Gino Paoli, to Dischi Ricordi, where he was employed, and in producing their records. In the interview, he reflects on Milan’s centrality to his career, the importance of a performance venue such as Santa Tecla, Ricordi’s first recording studio, and the conditions in which the new musical aesthetics of "cantautorato" took shape.
     </p>
-
     <button class="interview-preview open-video-modal"
             type="button"
             data-video="https://www.youtube-nocookie.com/embed/E-wiDg7Oa_A?autoplay=1"
             data-title="Gian Franco Reverberi">
       <img src="{{ '/images/reverberi.jpg' | relative_url }}"
-           alt="Preview image for the interview with Gian Franco Reverberi">
+           alt="Preview image for the interview with Gian Franco Reverberi"
+           loading="lazy">
     </button>
-
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
@@ -35,15 +33,14 @@ title: Interviews
     <p>
       Gaetano Liguori (1950) is a Milanese jazz pianist. The interview centres on the memories of his father, Pasquale "Lino" Liguori, a jazz drummer of Neapolitan origin who was active both in the Milanese nightclub scene and in the world of the emerging recording industry. It was in the wake of his father’s professional activity that Gaetano took his first steps in music.
     </p>
-
     <button class="interview-preview open-video-modal"
             type="button"
             data-video="https://www.youtube-nocookie.com/embed/-lzNykhh_PU?autoplay=1"
             data-title="Gaetano Liguori">
       <img src="{{ '/images/liguori.jpg' | relative_url }}"
-           alt="Preview image for the interview with Gaetano Liguori">
+           alt="Preview image for the interview with Gaetano Liguori"
+           loading="lazy">
     </button>
-
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
@@ -59,15 +56,14 @@ title: Interviews
     <p>
       Paolo Tomelleri (1938) is a jazz clarinettist, saxophonist, and bandleader. A member of various traditional jazz bands, including the Windy City Stompers, he was also part of I Cavalieri, the group that performed on many of the first works released by Dischi Ricordi. In the interview, he recalls his experiences in nightclubs, describing with precision the performance conditions and professional environment that shaped an entire generation of musicians.
     </p>
-
     <button class="interview-preview open-video-modal"
             type="button"
             data-video="https://www.youtube-nocookie.com/embed/bBXRV2kQsI4?autoplay=1"
             data-title="Paolo Tomelleri">
       <img src="{{ '/images/tomelleri.jpg' | relative_url }}"
-           alt="Preview image for the interview with Paolo Tomelleri">
+           alt="Preview image for the interview with Paolo Tomelleri"
+           loading="lazy">
     </button>
-
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
@@ -83,15 +79,14 @@ title: Interviews
     <p>
       Natale Massara (1942) is a clarinettist, saxophonist, composer, and arranger. In 1958 he joined I Ribelli di Adriano Celentano and a few years later began collaborating with Lucio Battisti. In the interview, he recounts how his studies at the Conservatory led him to move to Milan at a very young age, and how his early experiences in this new urban context, above all the audition with Celentano, proved central to his career. His memories also make it possible to reconstruct the specific phenomenology and performance conditions of the Milanese dance halls, then known as "dancing".
     </p>
-
     <button class="interview-preview open-video-modal"
             type="button"
             data-video="https://www.youtube-nocookie.com/embed/VsBMWWNWyow?autoplay=1"
             data-title="Natale Massara">
       <img src="{{ '/images/massara.jpg' | relative_url }}"
-           alt="Preview image for the interview with Natale Massara">
+           alt="Preview image for the interview with Natale Massara"
+           loading="lazy">
     </button>
-
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
@@ -107,15 +102,14 @@ title: Interviews
     <p>
       Giacomo Manzoni (1932) is a Milanese composer, translator, and music critic. His work is closely associated with experimental and contemporary repertoires, both as a composer and as a critic for "L’Unità", for which he began writing in 1958. His interview explores the central role played, both nationally and internationally, by the Studio di Fonologia Musicale, the first electronic music studio in Italy, as well as the distinctive position of avant-garde music within Milan’s performance scene.
     </p>
-
     <button class="interview-preview open-video-modal"
             type="button"
             data-video="https://www.youtube-nocookie.com/embed/08PDtNigUvI?autoplay=1"
             data-title="Giacomo Manzoni">
       <img src="{{ '/images/manzoni.jpg' | relative_url }}"
-           alt="Preview image for the interview with Giacomo Manzoni">
+           alt="Preview image for the interview with Giacomo Manzoni"
+           loading="lazy">
     </button>
-
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
@@ -131,15 +125,14 @@ title: Interviews
     <p>
       Enrico Intra (1935) is a Milanese jazz pianist, composer and conductor. In addition to his activity as a musician, in 1962 he was founder of the Intra's Derby Club, later known as Derby, one of the most famous performance spaces in the city, which hosted both jazz performances and, with greater preponderance over the years, cabaret. In the interview he talks about the conditions in which jazz has spread in the spatial and cultural fabric of the city, between cellars and night clubs, as well as the reasons that led him to commit himself to the creation of a space dedicated to it.
     </p>
-
     <button class="interview-preview open-video-modal"
             type="button"
             data-video="https://www.youtube-nocookie.com/embed/BOB1lLGVd0A?autoplay=1"
             data-title="Enrico Intra">
       <img src="{{ '/images/intra.jpg' | relative_url }}"
-           alt="Preview image for the interview with Enrico Intra">
+           alt="Preview image for the interview with Enrico Intra"
+           loading="lazy">
     </button>
-
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
@@ -155,15 +148,14 @@ title: Interviews
     <p>
       Bruno Canino (1935) is a pianist, harpsichordist and composer of Neapolitan origins, particularly active in the field of modern and contemporary music. During his interview, he talks about the exceptional environment of the Conservatorio G. Verdi of Milan, where he completed his studies after his family moved, and the crucial role played by teachers and older students (including Giacomo Manzoni and Luciano Berio) in the diffusion of experimental and contemporary music. His memories help us to contextualize the different performative circuits of classical music in the Milanese urban space.
     </p>
-
     <button class="interview-preview open-video-modal"
             type="button"
             data-video="https://www.youtube-nocookie.com/embed/NsAHcXIyqyk?autoplay=1"
             data-title="Bruno Canino">
       <img src="{{ '/images/canino.jpg' | relative_url }}"
-           alt="Preview image for the interview with Bruno Canino">
+           alt="Preview image for the interview with Bruno Canino"
+           loading="lazy">
     </button>
-
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
@@ -179,15 +171,14 @@ title: Interviews
     <p>
       Lino Patruno (1935) is a banjoist and guitarist involved both in the field of traditional jazz, with formations such as the Milan College Jazz Society or the Riverside Jazz Band, and in the field of cabaret with “I Gufi”, of which he is co-founder. During the interview he recalls how the Santa Tecla was for him not only a sort of home, but also a place of learning and evokes encounters and trajectories through various urban performance spaces, essential for the development of his career.
     </p>
-
     <button class="interview-preview open-video-modal"
             type="button"
             data-video="https://www.youtube-nocookie.com/embed/uPrpF_YJIrY?autoplay=1"
             data-title="Lino Patruno">
       <img src="{{ '/images/patruno.jpg' | relative_url }}"
-           alt="Preview image for the interview with Lino Patruno">
+           alt="Preview image for the interview with Lino Patruno"
+           loading="lazy">
     </button>
-
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
@@ -201,12 +192,10 @@ title: Interviews
 </div>
 
 <div id="videoModal" class="video-modal" aria-hidden="true">
-  <div class="video-modal__overlay" data-close="true"></div>
-
+  <div class="video-modal__overlay"></div>
   <div class="video-modal__dialog" role="dialog" aria-modal="true" aria-labelledby="videoModalTitle">
     <button class="video-modal__close" type="button" aria-label="Close video">&times;</button>
     <h3 id="videoModalTitle" class="video-modal__title"></h3>
-
     <div class="video-modal__video-wrapper">
       <iframe id="videoModalFrame"
               src=""
@@ -223,9 +212,11 @@ document.addEventListener("DOMContentLoaded", function () {
   const modal = document.getElementById("videoModal");
   const frame = document.getElementById("videoModalFrame");
   const title = document.getElementById("videoModalTitle");
-  const closeBtn = modal.querySelector(".video-modal__close");
-  const overlay = modal.querySelector(".video-modal__overlay");
+  const closeBtn = modal ? modal.querySelector(".video-modal__close") : null;
+  const overlay = modal ? modal.querySelector(".video-modal__overlay") : null;
   const triggers = document.querySelectorAll(".open-video-modal");
+
+  if (!modal || !frame || !title || !closeBtn || !overlay) return;
 
   function openModal(videoUrl, videoTitle) {
     frame.src = videoUrl;
@@ -242,7 +233,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.body.classList.remove("modal-open");
   }
 
-  triggers.forEach((trigger) => {
+  triggers.forEach(function (trigger) {
     trigger.addEventListener("click", function () {
       openModal(this.dataset.video, this.dataset.title);
     });

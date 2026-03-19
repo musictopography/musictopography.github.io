@@ -136,16 +136,6 @@ html {
 }
 
 
-.text-link {
-  padding: 0;
-  border: none;
-  background: none;
-  color: inherit;
-  text-decoration: underline;
-  cursor: pointer;
-  font: inherit;
-}
-
 .video-modal {
   position: fixed;
   inset: 0;
@@ -208,11 +198,4 @@ html {
 
 body.modal-open {
   overflow: hidden;
-}
-
-@media (min-width: 56em) {
-  .interviews-grid {
-    grid-template-columns: 1fr 1fr;
-    gap: 2.2rem 2rem;
-  }
 }

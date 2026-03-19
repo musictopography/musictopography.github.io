@@ -124,7 +124,6 @@ html {
   aspect-ratio: 1 / 1;
   object-fit: contain;
   border-radius: 8px;
-  border: 1px solid #ddd;
   background: #fff;
 }
 

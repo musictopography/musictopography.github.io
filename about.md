@@ -26,7 +26,7 @@ Investigating its historical music ecosystem through the lens of space offers a 
   <img 
     src="https://raw.githubusercontent.com/musictopography/musictopography.github.io/refs/heads/main/images/derby.jpg" 
     alt="Derby Club today"
-    style="width: 70%; max-width: 600px; display: block; margin: 0 auto;"
+    style="width: 70%; max-width: 600px; display: block; margin: 1.5rem auto 0 auto;"
   >
 </p>
 

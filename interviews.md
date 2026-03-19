@@ -3,6 +3,9 @@ layout: page
 title: Interviews
 ---
 
+<p>
+      The interviews were conducted in Milan and Rome between February and May 2022. The sessions with Enrico Intra and Natale Massara were recorded with the support of Alessandro Bratus, while those with Paolo Tomelleri, Bruno Canino, Giacomo Manzoni, and Gaetano Liguori were recorded with the support of Ermanno Novali.
+    </p>
 
 <div class="interviews-grid">
 

@@ -43,10 +43,9 @@ title: Home
 </p>
 
 <div class="home-image">
-  <img
-    src="images/Billie.jpg"
-    alt="Billie Holiday at Taverna Messicana"
-  >
+  <img src="images/Billie.jpg" 
+  alt="Billie Holiday at Taverna Messicana" 
+  style="width: 70%; max-width: 600px; display: block; margin: 0 auto;" >
   <p class="home-caption">
     Billie Holiday at Taverna Messicana, 3–8 November 1958, with Oscar Valdambrini, Gianni Basso, Enrico Intra, Gianni Cazzola and Giorgio Azzolini
   </p>

@@ -23,6 +23,7 @@ title: Home
 <div class="home-sections">
   <p><strong>Explore the project:</strong></p>
   <ul>
+    <li><a href="https://musictopography.github.io/about/">Objectives and methodology</a></li>
     <li><a href="https://musictopography.github.io/maps/">Mapping</a></li>
     <li><a href="https://musictopography.github.io/network_graphs/">Network analysis</a></li>
     <li><a href="https://musictopography.github.io/interviews/">Field research</a></li>

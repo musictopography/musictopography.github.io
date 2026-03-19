@@ -134,3 +134,127 @@ html {
     gap: 2.2rem 2rem;
   }
 }
+
+.interviews-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.interview-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.interview-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+}
+
+.interview-card p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.interview-preview {
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 1.2rem 0 1rem 0;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.interview-preview img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.interview-link {
+  margin-bottom: 0;
+}
+
+.text-link {
+  padding: 0;
+  border: none;
+  background: none;
+  color: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+  font: inherit;
+}
+
+.video-modal {
+  position: fixed;
+  inset: 0;
+  display: none;
+  z-index: 9999;
+}
+
+.video-modal.is-open {
+  display: block;
+}
+
+.video-modal__overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.75);
+}
+
+.video-modal__dialog {
+  position: relative;
+  width: min(960px, calc(100vw - 2rem));
+  margin: 4vh auto;
+  background: #fff;
+  border-radius: 10px;
+  padding: 1rem 1rem 1.2rem 1rem;
+  z-index: 1;
+  max-height: 92vh;
+  overflow: auto;
+}
+
+.video-modal__close {
+  position: absolute;
+  top: 0.4rem;
+  right: 0.7rem;
+  border: none;
+  background: none;
+  font-size: 2rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.video-modal__title {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding-right: 2rem;
+}
+
+.video-modal__video-wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.video-modal__video-wrapper iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+body.modal-open {
+  overflow: hidden;
+}
+
+@media (min-width: 56em) {
+  .interviews-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 2.2rem 2rem;
+  }
+}

@@ -52,6 +52,7 @@ html {
 .map-card {
   display: flex;
   flex-direction: column;
+  padding-bottom: 1.6rem;
 }
 
 .map-card h3 {

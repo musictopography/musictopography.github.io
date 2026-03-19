@@ -21,7 +21,7 @@ title: Home
 </div>
 
 <div class="home-sections">
-  <h3>Explore the project</h3>
+  <h3>Explore the project:</h3>
   <ul>
     <li><a href="https://musictopography.github.io/about/">Objectives and methodology</a></li>
     <li><a href="https://musictopography.github.io/maps/">Mapping</a></li>
@@ -32,7 +32,7 @@ title: Home
 </div>
 
 <div class="home-topics">
-  <h3>Topics</h3>
+  <h3>Topics:</h3>
   <p>
     Music, Sound and Space · Italian Popular Music History · Deep Mapping · Live Music Ecologies · Digital Humanities
   </p>

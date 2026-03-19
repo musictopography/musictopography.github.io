@@ -12,11 +12,11 @@ title: Network Graphs
     <p>
       This visualisation represents all instances in which two performers took part in the same musical event, as well as all instances in which a performer performed the music of a given composer. It consists of 2,466 nodes and 11,423 unique edges, with a total weight of 52,282 effective relationships. 
     </p>
-    <a class="graph-preview" href="https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/64c0bc2a31d2ebe7fd8d3c86de1fefafb6284e68/modularity.svg" target="_blank" rel="noopener noreferrer">
+    <a class="graph-preview" href="https://www.musictopography.com/images/performer_composer.svg" target="_blank" rel="noopener noreferrer">
       <img src="{{ '/images/perf_comp_ok.png' | relative_url }}" alt="Preview of the Performers and Composers network graph">
     </a>
     <p class="graph-links">
-      <a href="https://raw.githubusercontent.com/martinnicastro/martinnicastro.github.io/64c0bc2a31d2ebe7fd8d3c86de1fefafb6284e68/modularity.svg" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.musictopography.com/images/performer_composer.svg" target="_blank" rel="noopener noreferrer">
         Open full graph
       </a>
       (given the dimension of the file it will be necessary to zoom out).

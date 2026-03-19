@@ -199,3 +199,39 @@ html {
 body.modal-open {
   overflow: hidden;
 }
+
+.home-intro,
+.home-sections,
+.home-topics,
+.home-support,
+.home-image {
+  margin-bottom: 2rem;
+}
+
+.home-sections ul {
+  margin-top: 0.5rem;
+  padding-left: 1.2rem;
+}
+
+.home-topics p:last-child {
+  line-height: 1.7;
+}
+
+.home-support {
+  font-size: 0.95rem;
+}
+
+.home-image img {
+  width: 70%;
+  max-width: 600px;
+  display: block;
+  margin: 0 auto 0.8rem auto;
+}
+
+.home-caption {
+  font-size: 0.85em;
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto;
+  line-height: 1.5;
+}

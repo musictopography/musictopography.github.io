@@ -3,9 +3,6 @@ layout: page
 title: Interviews
 ---
 
-<p>
-  The following interviews document the memories of musicians, composers, and critics whose experiences help reconstruct Milan’s live music ecosystem between 1958 and 1962.
-</p>
 
 <div class="interviews-grid">
 

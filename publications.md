@@ -4,7 +4,6 @@ title: Publications
 ---
 
 
-<h2>Publications</h2>
 
 <p>
   Research outputs from the project include open datasets and media collections on Zenodo,

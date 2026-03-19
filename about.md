@@ -15,7 +15,6 @@ In the same years, <b>Milan was also “the city of jazz”</b>, home to musicia
 
 The Teatro Gerolamo was a <b>key venue for the “canzone intellettuale”</b>. At the same time, <b>Italy’s first electronic music production studio</b>, the Studio di fonologia musicale della RAI, was experiencing one of its most significant phases.
 
----
 
 ### A forgotten city
 
@@ -35,7 +34,6 @@ Investigating its historical music ecosystem through the lens of space offers a 
   The entrance of the Derby today. It was one of the most important music venues in Milan during the 1960s.
 </p>
 
----
 
 ### Methodology
 

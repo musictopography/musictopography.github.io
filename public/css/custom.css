@@ -135,48 +135,6 @@ html {
   }
 }
 
-.interviews-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 2rem;
-  margin-top: 1.5rem;
-}
-
-.interview-card {
-  display: flex;
-  flex-direction: column;
-}
-
-.interview-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.7rem;
-}
-
-.interview-card p {
-  margin-bottom: 1rem;
-  line-height: 1.6;
-}
-
-.interview-preview {
-  display: block;
-  width: 100%;
-  padding: 0;
-  margin: 1.2rem 0 1rem 0;
-  border: none;
-  background: none;
-  cursor: pointer;
-}
-
-.interview-preview img {
-  display: block;
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
-
-.interview-link {
-  margin-bottom: 0;
-}
 
 .text-link {
   padding: 0;

@@ -37,11 +37,11 @@ English and Italian subtitles are available and can be activated within the play
   <div class="interview-card">
     <h3>Gaetano Liguori</h3>
     <p>
-      Gaetano Liguori (1950) is a Milanese jazz pianist. The interview centres on the memories of his father, Pasquale "Lino" Liguori, a jazz drummer of Neapolitan origin who was active both in the Milanese nightclub scene and in the world of the emerging recording industry. It was in the wake of his father’s professional activity that Gaetano took his first steps in music.
+      Gaetano Liguori (1950) is a Milanese jazz pianist. The interview centres on the memories of his father, Pasquale "Lino" Liguori, a jazz drummer of Neapolitan origin who was active both in the Milanese nightclub scene and in the world of the emerging recording industry. It was in the wake of his father’s professional activity that Gaetano took his first steps in music. hDF3rD5qJjU
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/-lzNykhh_PU?autoplay=1"
+            data-video="https://www.youtube-nocookie.com/embed/-hDF3rD5qJjU?autoplay=1"
             data-title="Gaetano Liguori">
       <img src="{{ '/images/liguori.jpg' | relative_url }}"
            alt="Preview image for the interview with Gaetano Liguori">
@@ -49,7 +49,7 @@ English and Italian subtitles are available and can be activated within the play
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
-              data-video="https://www.youtube-nocookie.com/embed/-lzNykhh_PU?autoplay=1"
+              data-video="https://www.youtube-nocookie.com/embed/-hDF3rD5qJjU?autoplay=1"
               data-title="Gaetano Liguori">
         Watch interview
       </button>

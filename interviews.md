@@ -151,7 +151,7 @@ English and Italian subtitles are available and can be activated within the play
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/NsAHcXIyqyk?autoplay=1"
+            data-video="https://www.youtube-nocookie.com/embed/6phBEvwkYzI?autoplay=1"
             data-title="Bruno Canino">
       <img src="{{ '/images/canino.jpg' | relative_url }}"
            alt="Preview image for the interview with Bruno Canino">
@@ -159,7 +159,7 @@ English and Italian subtitles are available and can be activated within the play
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
-              data-video="https://www.youtube-nocookie.com/embed/NsAHcXIyqyk?autoplay=1"
+              data-video="https://www.youtube-nocookie.com/embed/6phBEvwkYzI?autoplay=1"
               data-title="Bruno Canino">
         Watch interview
       </button>

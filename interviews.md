@@ -107,7 +107,7 @@ English and Italian subtitles are available and can be activated within the play
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/08PDtNigUvI?autoplay=1"
+            data-video="https://www.youtube-nocookie.com/embed/QmeHhjYNlWI?autoplay=1"
             data-title="Giacomo Manzoni">
       <img src="{{ '/images/manzoni.jpg' | relative_url }}"
            alt="Preview image for the interview with Giacomo Manzoni">
@@ -115,7 +115,7 @@ English and Italian subtitles are available and can be activated within the play
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
-              data-video="https://www.youtube-nocookie.com/embed/08PDtNigUvI?autoplay=1"
+              data-video="https://www.youtube-nocookie.com/embed/QmeHhjYNlWI?autoplay=1"
               data-title="Giacomo Manzoni">
         Watch interview
       </button>

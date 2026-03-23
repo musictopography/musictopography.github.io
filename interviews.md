@@ -41,7 +41,7 @@ English and Italian subtitles are available and can be activated within the play
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/-hDF3rD5qJjU?autoplay=1"
+            data-video="https://www.youtube-nocookie.com/embed/hDF3rD5qJjU?autoplay=1"
             data-title="Gaetano Liguori">
       <img src="{{ '/images/liguori.jpg' | relative_url }}"
            alt="Preview image for the interview with Gaetano Liguori">
@@ -49,7 +49,7 @@ English and Italian subtitles are available and can be activated within the play
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
-              data-video="https://www.youtube-nocookie.com/embed/-hDF3rD5qJjU?autoplay=1"
+              data-video="https://www.youtube-nocookie.com/embed/hDF3rD5qJjU?autoplay=1"
               data-title="Gaetano Liguori">
         Watch interview
       </button>

@@ -147,7 +147,7 @@ English subtitles are included.
   <div class="interview-card">
     <h3>Bruno Canino</h3>
     <p>
-      Bruno Canino (1935) is a pianist, harpsichordist, and composer. In his interview, he reflects on the environment of the Conservatorio G. Verdi in Milan and on the role played by teachers and older students, including Giacomo Manzoni and Luciano Berio, in the diffusion of experimental and contemporary music. His memories help to contextualise the different performance circuits of classical music.
+      Bruno Canino (1935) is a pianist, harpsichordist, and composer. During his interview, he recalls the environment of the Conservatorio G. Verdi in Milan and the role played by teachers and older students, including Giacomo Manzoni and Luciano Berio, in the diffusion of contemporary music. His memories help to contextualise the different performance circuits of classical music.
     </p>
     <button class="interview-preview open-video-modal"
             type="button"

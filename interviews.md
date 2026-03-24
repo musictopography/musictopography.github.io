@@ -129,7 +129,7 @@ English subtitles are included.
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/BOB1lLGVd0A?autoplay=1"
+            data-video="https://www.youtube-nocookie.com/embed/El23EkXm3fg?autoplay=1"
             data-title="Enrico Intra">
       <img src="{{ '/images/intra.jpg' | relative_url }}"
            alt="Preview image for the interview with Enrico Intra">
@@ -137,7 +137,7 @@ English subtitles are included.
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
-              data-video="https://www.youtube-nocookie.com/embed/BOB1lLGVd0A?autoplay=1"
+              data-video="https://www.youtube-nocookie.com/embed/El23EkXm3fg?autoplay=1"
               data-title="Enrico Intra">
         Watch interview
       </button>

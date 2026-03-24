@@ -7,7 +7,7 @@ title: Interviews
 The interviews were conducted in Milan and Rome between February and May 2022. The sessions with Enrico Intra and Natale Massara were recorded with the support of Alessandro Bratus, while those with Paolo Tomelleri, Bruno Canino, Giacomo Manzoni, and Gaetano Liguori were recorded with the support of Ermanno Novali.
    
   
-English and Italian subtitles are available and can be activated within the player.
+English subtitles are included.
   
 
 <div class="interviews-grid">
@@ -63,7 +63,7 @@ English and Italian subtitles are available and can be activated within the play
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/bBXRV2kQsI4?autoplay=1"
+            data-video="https://www.youtube-nocookie.com/embed/ApKBwUDRoNU?autoplay=1"
             data-title="Paolo Tomelleri">
       <img src="{{ '/images/tomelleri.jpg' | relative_url }}"
            alt="Preview image for the interview with Paolo Tomelleri">
@@ -71,7 +71,7 @@ English and Italian subtitles are available and can be activated within the play
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
-              data-video="https://www.youtube-nocookie.com/embed/bBXRV2kQsI4?autoplay=1"
+              data-video="https://www.youtube-nocookie.com/embed/ApKBwUDRoNU?autoplay=1"
               data-title="Paolo Tomelleri">
         Watch interview
       </button>

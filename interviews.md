@@ -83,7 +83,13 @@ English subtitles are included.
     <p>
       Natale Massara (1942) is a clarinettist, saxophonist, composer, and arranger. In 1958 he joined I Ribelli di Adriano Celentano and a few years later began collaborating with Lucio Battisti. In the interview, he recounts how his studies at the Conservatory led him to move to Milan at a young age, and how his early experiences in the city proved central to his career. His memories contribute to the reconstruction of historical venue categories such as "Cinema teatro" and "Dancing".
     </p>
-    <div style="position:relative;padding-top:56.25%;"><iframe src="https://player.mediadelivery.net/embed/625069/cc3ca156-59e8-4ce4-8a57-daa524de5b62?autoplay=true&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+    <button class="interview-preview open-video-modal"
+            type="button"
+            data-video="https://player.mediadelivery.net/play/625069/cc3ca156-59e8-4ce4-8a57-daa524de5b62"
+            data-title="Natale Massara">
+      <img src="{{ '/images/massara.jpg' | relative_url }}"
+           alt="Preview image for the interview with Natale Massara">
+    </button>
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"

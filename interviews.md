@@ -19,7 +19,7 @@ English subtitles are included.
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/qQ_iXLZHxoE?autoplay=1"
+            data-video="https://player.mediadelivery.net/play/625069/3578f8f1-86f5-42fb-b3f3-65f3415af129"
             data-title="Gian Franco Reverberi">
       <img src="{{ '/images/reverberi.jpg' | relative_url }}"
            alt="Preview image for the interview with Gian Franco Reverberi">
@@ -27,7 +27,7 @@ English subtitles are included.
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
-              data-video="https://www.youtube-nocookie.com/embed/qQ_iXLZHxoE?autoplay=1"
+              data-video="https://player.mediadelivery.net/play/625069/3578f8f1-86f5-42fb-b3f3-65f3415af129"
               data-title="Gian Franco Reverberi">
         Watch interview
       </button>

@@ -85,7 +85,7 @@ English subtitles are included.
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/VsBMWWNWyow?autoplay=1"
+            data-video="https://player.mediadelivery.net/play/625069/cc3ca156-59e8-4ce4-8a57-daa524de5b62"
             data-title="Natale Massara">
       <img src="{{ '/images/massara.jpg' | relative_url }}"
            alt="Preview image for the interview with Natale Massara">
@@ -93,7 +93,7 @@ English subtitles are included.
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
-              data-video="https://www.youtube-nocookie.com/embed/VsBMWWNWyow?autoplay=1"
+              data-video="https://player.mediadelivery.net/play/625069/cc3ca156-59e8-4ce4-8a57-daa524de5b62"
               data-title="Natale Massara">
         Watch interview
       </button>

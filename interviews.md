@@ -48,9 +48,9 @@ English subtitles are included.
     </button>
     <p class="interview-link">
       <button class="text-link open-video-modal"
-              type="button"s
+              type="button"
               data-video="https://player.mediadelivery.net/play/625069/d7fa290a-580e-475b-92d1-ea66b6babfd4"
-              data-title="Gaetano Liguori">
+              data-title="Paolo Tomelleri">
         Watch interview
       </button>
     </p>

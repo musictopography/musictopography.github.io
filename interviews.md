@@ -41,7 +41,7 @@ English subtitles are included.
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://player.mediadelivery.net/play/625069/ae24425f-dd91-4153-90d0-9f57211ea9f9"
+            data-video="https://player.mediadelivery.net/play/625069/d7fa290a-580e-475b-92d1-ea66b6babfd4"
             data-title="Gaetano Liguori">
       <img src="{{ '/images/liguori.jpg' | relative_url }}"
            alt="Preview image for the interview with Gaetano Liguori">
@@ -49,7 +49,7 @@ English subtitles are included.
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"s
-              data-video="https://player.mediadelivery.net/play/625069/ae24425f-dd91-4153-90d0-9f57211ea9f9"
+              data-video="https://player.mediadelivery.net/play/625069/d7fa290a-580e-475b-92d1-ea66b6babfd4"
               data-title="Gaetano Liguori">
         Watch interview
       </button>

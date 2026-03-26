@@ -41,7 +41,7 @@ English subtitles are included.
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/hDF3rD5qJjU?autoplay=1"
+            data-video="https://player.mediadelivery.net/play/625069/ae24425f-dd91-4153-90d0-9f57211ea9f9"
             data-title="Gaetano Liguori">
       <img src="{{ '/images/liguori.jpg' | relative_url }}"
            alt="Preview image for the interview with Gaetano Liguori">
@@ -49,7 +49,7 @@ English subtitles are included.
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"s
-              data-video="https://www.youtube-nocookie.com/embed/hDF3rD5qJjU?autoplay=1"
+              data-video="https://player.mediadelivery.net/play/625069/ae24425f-dd91-4153-90d0-9f57211ea9f9"
               data-title="Gaetano Liguori">
         Watch interview
       </button>
@@ -63,7 +63,7 @@ English subtitles are included.
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/ApKBwUDRoNU?autoplay=1"
+            data-video="https://player.mediadelivery.net/play/625069/2f47e8eb-dee3-460c-92e3-a83d463901e5"
             data-title="Paolo Tomelleri">
       <img src="{{ '/images/tomelleri.jpg' | relative_url }}"
            alt="Preview image for the interview with Paolo Tomelleri">
@@ -71,7 +71,7 @@ English subtitles are included.
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
-              data-video="https://www.youtube-nocookie.com/embed/ApKBwUDRoNU?autoplay=1"
+              data-video="https://player.mediadelivery.net/play/625069/2f47e8eb-dee3-460c-92e3-a83d463901e5"
               data-title="Paolo Tomelleri">
         Watch interview
       </button>
@@ -107,7 +107,7 @@ English subtitles are included.
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/QmeHhjYNlWI?autoplay=1"
+            data-video="https://player.mediadelivery.net/play/625069/a9ec7b66-b68c-4ea8-a4d7-be7990a93122"
             data-title="Giacomo Manzoni">
       <img src="{{ '/images/manzoni.jpg' | relative_url }}"
            alt="Preview image for the interview with Giacomo Manzoni">
@@ -115,7 +115,7 @@ English subtitles are included.
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
-              data-video="https://www.youtube-nocookie.com/embed/QmeHhjYNlWI?autoplay=1"
+              data-video="https://player.mediadelivery.net/play/625069/a9ec7b66-b68c-4ea8-a4d7-be7990a931221"
               data-title="Giacomo Manzoni">
         Watch interview
       </button>
@@ -129,7 +129,7 @@ English subtitles are included.
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/El23EkXm3fg?autoplay=1"
+            data-video="https://player.mediadelivery.net/play/625069/0f82a343-26c5-430e-b894-f7279c959a09"
             data-title="Enrico Intra">
       <img src="{{ '/images/intra.jpg' | relative_url }}"
            alt="Preview image for the interview with Enrico Intra">
@@ -137,7 +137,7 @@ English subtitles are included.
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
-              data-video="https://www.youtube-nocookie.com/embed/El23EkXm3fg?autoplay=1"
+              data-video="https://player.mediadelivery.net/play/625069/0f82a343-26c5-430e-b894-f7279c959a09"
               data-title="Enrico Intra">
         Watch interview
       </button>
@@ -151,7 +151,7 @@ English subtitles are included.
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/K6XionrtC_0?autoplay=1"
+            data-video="https://player.mediadelivery.net/play/625069/06a20748-2fc2-47ee-b547-675b5476f647"
             data-title="Bruno Canino">
       <img src="{{ '/images/canino.jpg' | relative_url }}"
            alt="Preview image for the interview with Bruno Canino">
@@ -159,7 +159,7 @@ English subtitles are included.
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
-              data-video="https://www.youtube-nocookie.com/embed/K6XionrtC_0?autoplay=1"
+              data-video="https://player.mediadelivery.net/play/625069/06a20748-2fc2-47ee-b547-675b5476f647"
               data-title="Bruno Canino">
         Watch interview
       </button>
@@ -173,7 +173,7 @@ English subtitles are included.
     </p>
     <button class="interview-preview open-video-modal"
             type="button"
-            data-video="https://www.youtube-nocookie.com/embed/uPrpF_YJIrY?autoplay=1"
+            data-video="https://player.mediadelivery.net/play/625069/41f5aa7c-b1e3-4874-a2d2-47959240b672"
             data-title="Lino Patruno">
       <img src="{{ '/images/patruno.jpg' | relative_url }}"
            alt="Preview image for the interview with Lino Patruno">
@@ -181,7 +181,7 @@ English subtitles are included.
     <p class="interview-link">
       <button class="text-link open-video-modal"
               type="button"
-              data-video="https://www.youtube-nocookie.com/embed/uPrpF_YJIrY?autoplay=1"
+              data-video="https://player.mediadelivery.net/play/625069/41f5aa7c-b1e3-4874-a2d2-47959240b672"
               data-title="Lino Patruno">
         Watch interview
       </button>

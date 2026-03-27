@@ -50,7 +50,7 @@ English subtitles are included.
       <button class="text-link open-video-modal"
               type="button"
               data-video="https://player.mediadelivery.net/play/625069/d7fa290a-580e-475b-92d1-ea66b6babfd4"
-              data-title="Paolo Tomelleri">
+              data-title="Gaetano Liguori">
         Watch interview
       </button>
     </p>

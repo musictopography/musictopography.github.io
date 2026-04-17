@@ -9,15 +9,6 @@ title: Home
     <a href="https://www.martinnicastro.com/" target="_blank" rel="noopener noreferrer">Martin Nicastro</a>
     between 2020 and 2024. It focuses on the mapping of live music venues in Milan during the years of the Italian economic boom.
   </p>
-
-  <p>
-    The project was supervised by <strong>Prof. Alessandro Bratus</strong> (University of Pavia) and co-tutored by
-    <strong>Prof. Giovanni Pietro Vitali</strong> (University of Versailles Saint-Quentin-en-Yvelines).
-  </p>
-
-  <p>
-    This website gathers the project’s digital resources, organised according to its main methodological areas.
-  </p>
 </div>
 
 <div class="home-sections">
@@ -42,6 +33,11 @@ title: Home
   Part of the project was realised with the support of Small Grants
   <a href="https://www.aiucd.it/" target="_blank" rel="noopener noreferrer">AIUCD</a> 2022.
 </p>
+
+  <p>
+    The project was supervised by <strong>Prof. Alessandro Bratus</strong> (University of Pavia) and co-tutored by
+    <strong>Prof. Giovanni Pietro Vitali</strong> (University of Versailles Saint-Quentin-en-Yvelines).
+  </p>
 
 <div class="home-image">
   <img src="images/Billie.jpg" 

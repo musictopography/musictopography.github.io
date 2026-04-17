@@ -6,7 +6,7 @@ title: Home
 <div class="home-image">
   <img src="images/banner_sito.png" 
   alt="Website banner" 
-  style="width: 70%; max-width: 600px; display: block; margin: 0 auto;" >
+  style="width: 70%; max-width: 900px; display: block; margin: 0 auto;" >
 </div>
 
 <div class="home-intro">

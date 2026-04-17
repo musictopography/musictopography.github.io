@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
+<div class="home-image">
+  <img src="images/banner_sito.png" 
+  alt="Website banner" 
+  style="width: 70%; max-width: 600px; display: block; margin: 0 auto;" >
+</div>
+
 <div class="home-intro">
   <p>
     <strong>“Milan 1958–62: Musical Topography of a City”</strong> is a PhD research project conducted by

@@ -21,7 +21,10 @@ title: Home
     <li><a href="https://musictopography.github.io/publications/">Publications</a></li>
   </ul>
 </div>
-
+  <p>
+    The project was supervised by <strong>Prof. Alessandro Bratus</strong> (University of Pavia) and co-tutored by
+    <strong>Prof. Giovanni Pietro Vitali</strong> (University of Versailles Saint-Quentin-en-Yvelines).
+  </p>
 <div class="home-topics">
   <h3>Topics:</h3>
   <p>
@@ -33,11 +36,6 @@ title: Home
   Part of the project was realised with the support of Small Grants
   <a href="https://www.aiucd.it/" target="_blank" rel="noopener noreferrer">AIUCD</a> 2022.
 </p>
-
-  <p>
-    The project was supervised by <strong>Prof. Alessandro Bratus</strong> (University of Pavia) and co-tutored by
-    <strong>Prof. Giovanni Pietro Vitali</strong> (University of Versailles Saint-Quentin-en-Yvelines).
-  </p>
 
 <div class="home-image">
   <img src="images/Billie.jpg" 
